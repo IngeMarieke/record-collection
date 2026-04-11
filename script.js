@@ -43,8 +43,12 @@ async function init() {
 
 // Setup event listeners
 function setupEventListeners() {
-    // Scroll event with debounce
+    // Scroll event with debounce - only prevent if not in modal
     document.addEventListener('wheel', (e) => {
+        // Allow scrolling inside modal
+        if (e.target.closest('.modal')) {
+            return;
+        }
         e.preventDefault();
         handleScroll(e.deltaY);
     }, { passive: false });
@@ -56,15 +60,20 @@ function setupEventListeners() {
     }, { passive: true });
 
     document.addEventListener('touchmove', (e) => {
+        // Allow scrolling inside modal
+        if (e.target.closest('.modal')) {
+            return;
+        }
         if (!touchStart) return;
         const touchEnd = e.touches[0].clientY;
         const diff = touchStart - touchEnd;
         
         if (Math.abs(diff) > 30) {
+            e.preventDefault();
             handleScroll(diff * 2);
             touchStart = null;
         }
-    }, { passive: true });
+    }, { passive: false });
 
     // Keyboard support
     document.addEventListener('keydown', (e) => {
@@ -168,9 +177,9 @@ function openModal(album) {
     const modalCoverImg = document.getElementById('modal-cover-img');
     const modalTracklist = document.getElementById('modal-tracklist');
     
-    // Set album info
-    modalTitle.textContent = escapeHtml(album.title);
-    modalArtist.textContent = escapeHtml(album.artist);
+    // Set album info (use textContent - no need to escape)
+    modalTitle.textContent = album.title;
+    modalArtist.textContent = album.artist;
     modalCoverImg.src = album.cover || '';
     modalCoverImg.onerror = () => {
         const cover = document.getElementById('modal-cover');
@@ -184,11 +193,22 @@ function openModal(album) {
         album.tracks.forEach((track, index) => {
             const trackDiv = document.createElement('div');
             trackDiv.className = 'track-item';
-            trackDiv.innerHTML = `
-                <span class="track-number">${index + 1}</span>
-                <span class="track-name">${escapeHtml(track.name)}</span>
-                <span class="track-duration">${track.duration || '--:--'}</span>
-            `;
+            
+            const trackNumber = document.createElement('span');
+            trackNumber.className = 'track-number';
+            trackNumber.textContent = index + 1;
+            
+            const trackName = document.createElement('span');
+            trackName.className = 'track-name';
+            trackName.textContent = track.name;
+            
+            const trackDuration = document.createElement('span');
+            trackDuration.className = 'track-duration';
+            trackDuration.textContent = track.duration || '--:--';
+            
+            trackDiv.appendChild(trackNumber);
+            trackDiv.appendChild(trackName);
+            trackDiv.appendChild(trackDuration);
             modalTracklist.appendChild(trackDiv);
         });
     }
