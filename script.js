@@ -1,51 +1,25 @@
 // Global state
 let allAlbums = [];
-let currentIndex = 0;
 let currentSortOrder = 'alphabetical';
 let currentSortBy = 'artist';
-let scrollTimeout = null;
-let lastScrollY = 0;
-const SCROLL_SENSITIVITY = 100; // pixels needed to scroll to next album
 
 // DOM elements
-const vinylCard = document.getElementById('vinyl-card');
-const albumCover = document.getElementById('album-cover');
-const albumTitleBack = document.getElementById('album-title-back');
-const albumArtistBack = document.getElementById('album-artist-back');
-const tracksContainer = document.getElementById('tracks-container');
-const albumCounter = document.getElementById('album-counter');
+const albumList = document.getElementById('album-list');
 const loadingDiv = document.getElementById('loading');
 const errorDiv = document.getElementById('error');
 const sortOrderSelect = document.getElementById('sort-order');
 const sortBySelect = document.getElementById('sort-by');
-const controlsToggle = document.getElementById('controls-toggle');
-const sortMenu = document.getElementById('sort-menu');
-const closeMenuBtn = document.getElementById('close-menu');
 
 // Event listeners
 sortOrderSelect.addEventListener('change', (e) => {
     currentSortOrder = e.target.value;
-    resortAndReset();
+    renderAlbums();
 });
 
 sortBySelect.addEventListener('change', (e) => {
     currentSortBy = e.target.value;
-    resortAndReset();
+    renderAlbums();
 });
-
-vinylCard.addEventListener('click', toggleFlip);
-controlsToggle.addEventListener('click', () => sortMenu.classList.add('open'));
-closeMenuBtn.addEventListener('click', () => sortMenu.classList.remove('open'));
-
-// Close menu when clicking outside
-document.addEventListener('click', (e) => {
-    if (!e.target.closest('.sort-menu') && !e.target.closest('.controls-toggle')) {
-        sortMenu.classList.remove('open');
-    }
-});
-
-// Scroll handling with throttling
-window.addEventListener('scroll', handleScroll, { passive: true });
 
 // Initialize the app
 async function init() {
@@ -63,21 +37,13 @@ async function init() {
         }
         
         loadingDiv.style.display = 'none';
-        resortAndReset();
+        renderAlbums();
     } catch (error) {
         console.error('Error loading collection:', error);
         loadingDiv.style.display = 'none';
         errorDiv.textContent = `Error: ${error.message}`;
         errorDiv.classList.add('active');
     }
-}
-
-// Sort albums and reset to first
-function resortAndReset() {
-    allAlbums = sortAlbums(allAlbums);
-    currentIndex = 0;
-    vinylCard.classList.remove('flipped');
-    displayAlbum();
 }
 
 // Sort albums based on current state
@@ -101,33 +67,57 @@ function sortAlbums(albums) {
     return sorted;
 }
 
-// Display album at current index
-function displayAlbum() {
-    if (allAlbums.length === 0) return;
+// Render albums to the DOM
+function renderAlbums() {
+    albumList.innerHTML = '';
+    const sorted = sortAlbums(allAlbums);
     
-    const album = allAlbums[currentIndex];
+    sorted.forEach((album) => {
+        const albumCard = createAlbumCard(album);
+        albumList.appendChild(albumCard);
+    });
+}
+
+// Create an album card element
+function createAlbumCard(album) {
+    const card = document.createElement('div');
+    card.className = 'album-card';
     
-    // Update cover
-    albumCover.innerHTML = '';
+    // Album cover
+    const cover = document.createElement('div');
+    cover.className = 'album-cover';
     if (album.cover) {
         const img = document.createElement('img');
         img.src = album.cover;
         img.alt = `${album.title} cover`;
         img.onerror = () => {
-            albumCover.innerHTML = '<div class="album-cover-placeholder">🎵</div>';
+            img.style.display = 'none';
+            cover.innerHTML = '<div class="album-cover-placeholder">🎵</div>';
         };
-        albumCover.appendChild(img);
+        cover.appendChild(img);
     } else {
-        albumCover.innerHTML = '<div class="album-cover-placeholder">🎵</div>';
+        cover.innerHTML = '<div class="album-cover-placeholder">🎵</div>';
     }
     
-    // Update back side
-    albumTitleBack.textContent = escapeHtml(album.title);
-    albumArtistBack.textContent = escapeHtml(album.artist);
+    // Album info
+    const info = document.createElement('div');
+    info.className = 'album-info';
+    info.innerHTML = `
+        <div class="album-title">${escapeHtml(album.title)}</div>
+        <div class="album-artist">${escapeHtml(album.artist)}</div>
+        <div class="album-details">${album.tracks ? album.tracks.length + ' tracks' : 'Track list unavailable'}</div>
+    `;
     
-    // Update track list
-    tracksContainer.innerHTML = '';
+    // Track list container
+    const trackListContainer = document.createElement('div');
+    trackListContainer.className = 'track-list';
+    
     if (album.tracks && album.tracks.length > 0) {
+        const trackListTitle = document.createElement('h3');
+        trackListTitle.textContent = 'Track List';
+        trackListContainer.appendChild(trackListTitle);
+        
+        const trackList = document.createElement('div');
         album.tracks.forEach((track, index) => {
             const trackItem = document.createElement('div');
             trackItem.className = 'track-item';
@@ -136,53 +126,25 @@ function displayAlbum() {
                 <span class="track-name">${escapeHtml(track.name)}</span>
                 <span class="track-duration">${track.duration || '--:--'}</span>
             `;
-            tracksContainer.appendChild(trackItem);
+            trackList.appendChild(trackItem);
         });
-    } else {
-        tracksContainer.innerHTML = '<p style="color: var(--text-secondary); padding: 10px;">No track information available</p>';
+        trackListContainer.appendChild(trackList);
     }
     
-    // Update counter
-    albumCounter.textContent = `${currentIndex + 1} of ${allAlbums.length}`;
-}
-
-// Toggle flip animation
-function toggleFlip(e) {
-    // Don't flip if clicking on scrollbar or outside the card
-    vinylCard.classList.toggle('flipped');
-}
-
-// Handle scroll to navigate albums
-function handleScroll() {
-    if (allAlbums.length <= 1) return;
+    // Add click handler to toggle track list
+    const clickableArea = document.createElement('div');
+    clickableArea.style.cursor = 'pointer';
+    clickableArea.appendChild(cover);
+    clickableArea.appendChild(info);
     
-    clearTimeout(scrollTimeout);
+    clickableArea.addEventListener('click', () => {
+        trackListContainer.classList.toggle('active');
+    });
     
-    const scrollDelta = window.scrollY - lastScrollY;
+    card.appendChild(clickableArea);
+    card.appendChild(trackListContainer);
     
-    // Scroll down - next album
-    if (scrollDelta > SCROLL_SENSITIVITY) {
-        if (currentIndex < allAlbums.length - 1) {
-            currentIndex++;
-            vinylCard.classList.remove('flipped');
-            displayAlbum();
-        }
-        lastScrollY = window.scrollY;
-    }
-    // Scroll up - previous album
-    else if (scrollDelta < -SCROLL_SENSITIVITY) {
-        if (currentIndex > 0) {
-            currentIndex--;
-            vinylCard.classList.remove('flipped');
-            displayAlbum();
-        }
-        lastScrollY = window.scrollY;
-    }
-    
-    // Reset scroll tracking after a timeout
-    scrollTimeout = setTimeout(() => {
-        lastScrollY = window.scrollY;
-    }, 500);
+    return card;
 }
 
 // Utility function to escape HTML special characters

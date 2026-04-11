@@ -7,59 +7,31 @@
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    <div class="vinyl-store">
-        <!-- Floating controls button -->
-        <button class="controls-toggle" id="controls-toggle" title="Sort & Filter">⚙️</button>
-
-        <!-- Compact sort menu -->
-        <div class="sort-menu" id="sort-menu">
-            <h2>Sort Collection</h2>
-            <div class="control-group">
-                <label for="sort-order">Order:</label>
-                <select id="sort-order">
-                    <option value="alphabetical">Alphabetical</option>
-                    <option value="random">Random</option>
-                </select>
-            </div>
-            <div class="control-group">
-                <label for="sort-by">Sort By:</label>
-                <select id="sort-by">
-                    <option value="artist">Artist Name</option>
-                    <option value="album">Album Title</option>
-                </select>
-            </div>
-            <button class="close-menu" id="close-menu">Close</button>
-        </div>
-
-        <!-- Main vinyl card display -->
-        <main class="vinyl-display">
-            <div class="vinyl-card-container">
-                <div class="vinyl-card" id="vinyl-card">
-                    <div class="vinyl-card-front">
-                        <div class="album-cover" id="album-cover">
-                            <div class="album-cover-placeholder">🎵</div>
-                        </div>
-                    </div>
-                    <div class="vinyl-card-back">
-                        <div class="album-back-content">
-                            <h2 id="album-title-back">Album Title</h2>
-                            <h3 id="album-artist-back">Artist</h3>
-                            <div class="track-list" id="track-list">
-                                <h4>Track List</h4>
-                                <div id="tracks-container"></div>
-                            </div>
-                        </div>
-                    </div>
+    <div class="container">
+        <header>
+            <h1>🎵 My Vinyl Collection</h1>
+            <div class="controls">
+                <div class="control-group">
+                    <label for="sort-order">Order:</label>
+                    <select id="sort-order">
+                        <option value="alphabetical">Alphabetical</option>
+                        <option value="random">Random</option>
+                    </select>
+                </div>
+                <div class="control-group">
+                    <label for="sort-by">Sort By:</label>
+                    <select id="sort-by">
+                        <option value="artist">Artist Name</option>
+                        <option value="album">Album Title</option>
+                    </select>
                 </div>
             </div>
+        </header>
 
-            <!-- Album counter and hints -->
-            <div class="vinyl-info">
-                <div class="album-counter" id="album-counter">1 of 0</div>
-                <div class="hint" id="hint">Click to flip • Scroll to browse</div>
+        <main>
+            <div id="album-list" class="album-list">
+                <!-- Albums will be inserted here by JavaScript -->
             </div>
-
-            <!-- Loading and error states -->
             <div id="loading" class="loading">Loading your collection...</div>
             <div id="error" class="error"></div>
         </main>
