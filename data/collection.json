@@ -1,85 +1,225 @@
 [
   {
-    "id": 1,
-    "title": "Abbey Road",
-    "artist": "The Beatles",
-    "cover": "https://images.discogs.com/awl1pEwXBo3y2FnVA8MYPnx7YmU=/600x600/smart/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-123456-1234567890.jpeg",
+    "id": 35462605,
+    "title": "Velvet Seas",
+    "artist": "Kraak & Smaak",
+    "cover": "https://i.discogs.com/4q9JktEWaEdgkXeYJbtkHoIznZCZYr_PBPSUjXvW2BA/rs:fit/g:sm/q:90/h:580/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NDYy/NjA1LTE3NjQxNzcy/MjEtNzExNS5qcGVn.jpeg",
     "tracks": [
       {
-        "name": "Come Together",
-        "duration": "4:19"
+        "name": "Midnight Cowboy",
+        "duration": null
       },
       {
-        "name": "Something",
-        "duration": "3:03"
+        "name": "Herbs & Wine",
+        "duration": null
       },
       {
-        "name": "Maxwell's Silver Hammer",
-        "duration": "3:27"
+        "name": "Nothing Is Forever",
+        "duration": null
       },
       {
-        "name": "Oh! Darling",
-        "duration": "3:28"
+        "name": "Travel Light",
+        "duration": null
       },
       {
-        "name": "Octopus's Garden",
-        "duration": "2:51"
+        "name": "Heat",
+        "duration": null
+      },
+      {
+        "name": "Velvet Seas",
+        "duration": null
+      },
+      {
+        "name": "Isn't It Strange",
+        "duration": null
+      },
+      {
+        "name": "All I Need",
+        "duration": null
+      },
+      {
+        "name": "Come What May",
+        "duration": null
+      },
+      {
+        "name": "Morning Reverie",
+        "duration": null
+      },
+      {
+        "name": "Real Love",
+        "duration": null
+      },
+      {
+        "name": "Ear To The Ground",
+        "duration": null
+      },
+      {
+        "name": "Open The Blinds",
+        "duration": null
       }
     ]
   },
   {
-    "id": 2,
-    "title": "Rumours",
-    "artist": "Fleetwood Mac",
-    "cover": "https://images.discogs.com/4A7G3e8W3ZF_SkBf1E5m_8pKYQU=/600x600/smart/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-123457-1234567891.jpeg",
+    "id": 4570366,
+    "title": "Random Access Memories",
+    "artist": "Daft Punk",
+    "cover": "https://i.discogs.com/IR6_z_1KUErO-OORqXG2_MJhqWxsaPxYRi-hOLLdHic/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1NzAz/NjYtMTc0OTM3MjMx/Ny0xODg1LmpwZWc.jpeg",
     "tracks": [
       {
-        "name": "Second Hand News",
-        "duration": "3:31"
+        "name": "Give Life Back To Music",
+        "duration": "4:35"
       },
       {
-        "name": "Dreams",
-        "duration": "4:14"
+        "name": "The Game Of Love",
+        "duration": "5:22"
       },
       {
-        "name": "Don't Stop",
-        "duration": "3:11"
+        "name": "Giorgio By Moroder",
+        "duration": "9:04"
       },
       {
-        "name": "Go Your Own Way",
-        "duration": "3:38"
+        "name": "Within",
+        "duration": "3:48"
       },
       {
-        "name": "Songbird",
-        "duration": "3:20"
+        "name": "Instant Crush",
+        "duration": "5:37"
+      },
+      {
+        "name": "Lose Yourself To Dance",
+        "duration": "5:53"
+      },
+      {
+        "name": "Touch",
+        "duration": "8:18"
+      },
+      {
+        "name": "Get Lucky",
+        "duration": "6:09"
+      },
+      {
+        "name": "Beyond",
+        "duration": "4:50"
+      },
+      {
+        "name": "Motherboard",
+        "duration": "5:41"
+      },
+      {
+        "name": "Fragments Of Time",
+        "duration": "4:39"
+      },
+      {
+        "name": "Doin' It Right",
+        "duration": "4:11"
+      },
+      {
+        "name": "Contact",
+        "duration": "6:23"
       }
     ]
   },
   {
-    "id": 3,
-    "title": "The Wall",
+    "id": 1475276,
+    "title": "Wish You Were Here",
     "artist": "Pink Floyd",
-    "cover": "https://images.discogs.com/5LQpgJ1xtXVl3t8gTqJqx9e8Qq0=/600x600/smart/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-123458-1234567892.jpeg",
+    "cover": "https://i.discogs.com/0eBCewR6YuH_-vnhT0PMusfw9Dwm89A7ldMO5v0Ld4M/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzUy/NzYtMTUxNTM2NjY1/OS0yNTA5LmpwZWc.jpeg",
     "tracks": [
       {
-        "name": "In the Flesh?",
-        "duration": "3:19"
+        "name": "Shine On You Crazy Diamond (1-5)",
+        "duration": null
       },
       {
-        "name": "The Thin Ice",
-        "duration": "2:39"
+        "name": "Welcome To The Machine",
+        "duration": null
       },
       {
-        "name": "The Happiest Days of Our Lives",
-        "duration": "3:21"
+        "name": "Have A Cigar",
+        "duration": null
       },
       {
-        "name": "Another Brick in the Wall (Part 2)",
-        "duration": "3:39"
+        "name": "Wish You Were Here",
+        "duration": null
       },
       {
-        "name": "The Last Few Bars",
-        "duration": "1:04"
+        "name": "Shine On You Crazy Diamond (6-9)",
+        "duration": null
+      }
+    ]
+  },
+  {
+    "id": 921480,
+    "title": "Out Of The Blue",
+    "artist": "Electric Light Orchestra",
+    "cover": "https://i.discogs.com/eeMXGQAwMKKtVAbvbfbh3Ox_v0EGoyznpHyqVu3172A/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTQ4/MC0xMjYwMTM2ODgz/LmpwZWc.jpeg",
+    "tracks": [
+      {
+        "name": "Turn To Stone",
+        "duration": "3:48"
+      },
+      {
+        "name": "It's Over",
+        "duration": "4:08"
+      },
+      {
+        "name": "Sweet Talkin' Woman",
+        "duration": "3:48"
+      },
+      {
+        "name": "Across The Border",
+        "duration": "3:52"
+      },
+      {
+        "name": "Night In The City",
+        "duration": "4:02"
+      },
+      {
+        "name": "Starlight",
+        "duration": "4:30"
+      },
+      {
+        "name": "Jungle",
+        "duration": "3:51"
+      },
+      {
+        "name": "Believe Me Now",
+        "duration": "1:21"
+      },
+      {
+        "name": "Steppin' Out",
+        "duration": "4:38"
+      },
+      {
+        "name": "Standin' In The Rain",
+        "duration": "4:20"
+      },
+      {
+        "name": "Big Wheels",
+        "duration": "5:10"
+      },
+      {
+        "name": "Summer And Lightning",
+        "duration": "4:13"
+      },
+      {
+        "name": "Mr. Blue Sky",
+        "duration": "5:05"
+      },
+      {
+        "name": "Sweet Is The Night",
+        "duration": "3:26"
+      },
+      {
+        "name": "The Whale",
+        "duration": "5:05"
+      },
+      {
+        "name": "Birmingham Blues",
+        "duration": "4:21"
+      },
+      {
+        "name": "Wild West Hero",
+        "duration": "4:40"
       }
     ]
   }
