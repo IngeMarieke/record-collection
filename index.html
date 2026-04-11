@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Vinyl Collection</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>🎵 My Vinyl Collection</h1>
+            <div class="controls">
+                <div class="control-group">
+                    <label for="sort-order">Order:</label>
+                    <select id="sort-order">
+                        <option value="alphabetical">Alphabetical</option>
+                        <option value="random">Random</option>
+                    </select>
+                </div>
+                <div class="control-group">
+                    <label for="sort-by">Sort By:</label>
+                    <select id="sort-by">
+                        <option value="artist">Artist Name</option>
+                        <option value="album">Album Title</option>
+                    </select>
+                </div>
+            </div>
+        </header>
+
+        <main>
+            <div id="album-list" class="album-list">
+                <!-- Albums will be inserted here by JavaScript -->
+            </div>
+            <div id="loading" class="loading">Loading your collection...</div>
+            <div id="error" class="error"></div>
+        </main>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

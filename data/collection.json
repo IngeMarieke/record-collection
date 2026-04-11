@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "title": "Abbey Road",
+    "artist": "The Beatles",
+    "cover": "https://images.discogs.com/awl1pEwXBo3y2FnVA8MYPnx7YmU=/600x600/smart/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-123456-1234567890.jpeg",
+    "tracks": [
+      {
+        "name": "Come Together",
+        "duration": "4:19"
+      },
+      {
+        "name": "Something",
+        "duration": "3:03"
+      },
+      {
+        "name": "Maxwell's Silver Hammer",
+        "duration": "3:27"
+      },
+      {
+        "name": "Oh! Darling",
+        "duration": "3:28"
+      },
+      {
+        "name": "Octopus's Garden",
+        "duration": "2:51"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Rumours",
+    "artist": "Fleetwood Mac",
+    "cover": "https://images.discogs.com/4A7G3e8W3ZF_SkBf1E5m_8pKYQU=/600x600/smart/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-123457-1234567891.jpeg",
+    "tracks": [
+      {
+        "name": "Second Hand News",
+        "duration": "3:31"
+      },
+      {
+        "name": "Dreams",
+        "duration": "4:14"
+      },
+      {
+        "name": "Don't Stop",
+        "duration": "3:11"
+      },
+      {
+        "name": "Go Your Own Way",
+        "duration": "3:38"
+      },
+      {
+        "name": "Songbird",
+        "duration": "3:20"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "The Wall",
+    "artist": "Pink Floyd",
+    "cover": "https://images.discogs.com/5LQpgJ1xtXVl3t8gTqJqx9e8Qq0=/600x600/smart/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-123458-1234567892.jpeg",
+    "tracks": [
+      {
+        "name": "In the Flesh?",
+        "duration": "3:19"
+      },
+      {
+        "name": "The Thin Ice",
+        "duration": "2:39"
+      },
+      {
+        "name": "The Happiest Days of Our Lives",
+        "duration": "3:21"
+      },
+      {
+        "name": "Another Brick in the Wall (Part 2)",
+        "duration": "3:39"
+      },
+      {
+        "name": "The Last Few Bars",
+        "duration": "1:04"
+      }
+    ]
+  }
+]
