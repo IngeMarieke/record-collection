@@ -101,6 +101,10 @@ main {
     padding: 15px;
 }
 
+.album-card > div:first-child {
+    display: contents;
+}
+
 .album-card:hover {
     background-color: var(--surface-light);
     border-color: var(--primary-color);
