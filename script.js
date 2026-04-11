@@ -1,25 +1,19 @@
 // Global state
 let allAlbums = [];
-let currentSortOrder = 'alphabetical';
-let currentSortBy = 'artist';
+let currentIndex = 0;
+let isScrolling = false;
+let scrollTimeout;
 
 // DOM elements
-const albumList = document.getElementById('album-list');
+const stack = document.getElementById('stack');
 const loadingDiv = document.getElementById('loading');
 const errorDiv = document.getElementById('error');
-const sortOrderSelect = document.getElementById('sort-order');
-const sortBySelect = document.getElementById('sort-by');
+const modalBackdrop = document.getElementById('modal-backdrop');
+const modalClose = document.getElementById('modal-close');
 
-// Event listeners
-sortOrderSelect.addEventListener('change', (e) => {
-    currentSortOrder = e.target.value;
-    renderAlbums();
-});
-
-sortBySelect.addEventListener('change', (e) => {
-    currentSortBy = e.target.value;
-    renderAlbums();
-});
+// Stack configuration
+const STACK_DEPTH = 3;
+const ANIMATION_DURATION = 300;
 
 // Initialize the app
 async function init() {
@@ -37,7 +31,8 @@ async function init() {
         }
         
         loadingDiv.style.display = 'none';
-        renderAlbums();
+        renderStack();
+        setupEventListeners();
     } catch (error) {
         console.error('Error loading collection:', error);
         loadingDiv.style.display = 'none';
@@ -46,105 +41,165 @@ async function init() {
     }
 }
 
-// Sort albums based on current state
-function sortAlbums(albums) {
-    const sorted = [...albums];
-    
-    if (currentSortOrder === 'alphabetical') {
-        sorted.sort((a, b) => {
-            const aValue = currentSortBy === 'artist' ? a.artist : a.title;
-            const bValue = currentSortBy === 'artist' ? b.artist : b.title;
-            return aValue.localeCompare(bValue, undefined, { sensitivity: 'base' });
-        });
-    } else if (currentSortOrder === 'random') {
-        // Fisher-Yates shuffle
-        for (let i = sorted.length - 1; i > 0; i--) {
-            const j = Math.floor(Math.random() * (i + 1));
-            [sorted[i], sorted[j]] = [sorted[j], sorted[i]];
-        }
-    }
-    
-    return sorted;
-}
+// Setup event listeners
+function setupEventListeners() {
+    // Scroll event with debounce
+    document.addEventListener('wheel', (e) => {
+        e.preventDefault();
+        handleScroll(e.deltaY);
+    }, { passive: false });
 
-// Render albums to the DOM
-function renderAlbums() {
-    albumList.innerHTML = '';
-    const sorted = sortAlbums(allAlbums);
-    
-    sorted.forEach((album) => {
-        const albumCard = createAlbumCard(album);
-        albumList.appendChild(albumCard);
+    // Touch support for mobile
+    let touchStart = null;
+    document.addEventListener('touchstart', (e) => {
+        touchStart = e.touches[0].clientY;
+    }, { passive: true });
+
+    document.addEventListener('touchmove', (e) => {
+        if (!touchStart) return;
+        const touchEnd = e.touches[0].clientY;
+        const diff = touchStart - touchEnd;
+        
+        if (Math.abs(diff) > 30) {
+            handleScroll(diff * 2);
+            touchStart = null;
+        }
+    }, { passive: true });
+
+    // Keyboard support
+    document.addEventListener('keydown', (e) => {
+        if (e.key === 'ArrowDown') {
+            e.preventDefault();
+            handleScroll(50);
+        } else if (e.key === 'ArrowUp') {
+            e.preventDefault();
+            handleScroll(-50);
+        }
+    });
+
+    // Modal close handlers
+    modalClose.addEventListener('click', closeModal);
+    modalBackdrop.addEventListener('click', (e) => {
+        if (e.target === modalBackdrop) closeModal();
     });
 }
 
-// Create an album card element
-function createAlbumCard(album) {
-    const card = document.createElement('div');
-    card.className = 'album-card';
+// Handle scroll events
+function handleScroll(delta) {
+    if (isScrolling) return;
     
-    // Album cover
-    const cover = document.createElement('div');
-    cover.className = 'album-cover';
+    isScrolling = true;
+    clearTimeout(scrollTimeout);
+    
+    if (delta > 0) {
+        // Scroll down - next album
+        currentIndex = (currentIndex + 1) % allAlbums.length;
+    } else {
+        // Scroll up - previous album
+        currentIndex = (currentIndex - 1 + allAlbums.length) % allAlbums.length;
+    }
+    
+    renderStack();
+    
+    scrollTimeout = setTimeout(() => {
+        isScrolling = false;
+    }, ANIMATION_DURATION);
+}
+
+// Render the stack of albums
+function renderStack() {
+    stack.innerHTML = '';
+    
+    // Render visible albums (current + depth)
+    for (let i = 0; i < STACK_DEPTH; i++) {
+        const albumIndex = (currentIndex + i) % allAlbums.length;
+        const album = allAlbums[albumIndex];
+        
+        const albumElement = createStackAlbum(album, i);
+        stack.appendChild(albumElement);
+    }
+}
+
+// Create a stack album element
+function createStackAlbum(album, depth) {
+    const albumDiv = document.createElement('div');
+    albumDiv.className = 'stack-album';
+    
+    if (depth === 0) {
+        // Front album - no offset
+        albumDiv.style.transform = 'translateY(0px) rotateZ(0deg) scale(1)';
+        albumDiv.style.zIndex = 100 - depth;
+    } else if (depth === 1) {
+        // Second album - slight offset and rotation
+        albumDiv.style.transform = 'translateY(35px) rotateZ(3deg) scale(0.97)';
+        albumDiv.style.zIndex = 100 - depth;
+    } else {
+        // Third album - more offset and rotation
+        albumDiv.style.transform = 'translateY(70px) rotateZ(6deg) scale(0.94)';
+        albumDiv.style.zIndex = 100 - depth;
+    }
+    
     if (album.cover) {
         const img = document.createElement('img');
         img.src = album.cover;
         img.alt = `${album.title} cover`;
         img.onerror = () => {
-            img.style.display = 'none';
-            cover.innerHTML = '<div class="album-cover-placeholder">🎵</div>';
+            albumDiv.classList.add('placeholder');
+            albumDiv.innerHTML = '🎵';
         };
-        cover.appendChild(img);
+        albumDiv.appendChild(img);
     } else {
-        cover.innerHTML = '<div class="album-cover-placeholder">🎵</div>';
+        albumDiv.classList.add('placeholder');
+        albumDiv.innerHTML = '🎵';
     }
     
-    // Album info
-    const info = document.createElement('div');
-    info.className = 'album-info';
-    info.innerHTML = `
-        <div class="album-title">${escapeHtml(album.title)}</div>
-        <div class="album-artist">${escapeHtml(album.artist)}</div>
-        <div class="album-details">${album.tracks ? album.tracks.length + ' tracks' : 'Track list unavailable'}</div>
-    `;
+    // Add click handler to open modal
+    albumDiv.addEventListener('click', () => {
+        openModal(album);
+    });
     
-    // Track list container
-    const trackListContainer = document.createElement('div');
-    trackListContainer.className = 'track-list';
+    return albumDiv;
+}
+
+// Open modal with album details
+function openModal(album) {
+    const modalTitle = document.getElementById('modal-title');
+    const modalArtist = document.getElementById('modal-artist');
+    const modalCoverImg = document.getElementById('modal-cover-img');
+    const modalTracklist = document.getElementById('modal-tracklist');
     
+    // Set album info
+    modalTitle.textContent = escapeHtml(album.title);
+    modalArtist.textContent = escapeHtml(album.artist);
+    modalCoverImg.src = album.cover || '';
+    modalCoverImg.onerror = () => {
+        const cover = document.getElementById('modal-cover');
+        cover.classList.add('placeholder');
+        cover.innerHTML = '🎵';
+    };
+    
+    // Populate tracklist
+    modalTracklist.innerHTML = '';
     if (album.tracks && album.tracks.length > 0) {
-        const trackListTitle = document.createElement('h3');
-        trackListTitle.textContent = 'Track List';
-        trackListContainer.appendChild(trackListTitle);
-        
-        const trackList = document.createElement('div');
         album.tracks.forEach((track, index) => {
-            const trackItem = document.createElement('div');
-            trackItem.className = 'track-item';
-            trackItem.innerHTML = `
-                <span class="track-number">${index + 1}.</span>
+            const trackDiv = document.createElement('div');
+            trackDiv.className = 'track-item';
+            trackDiv.innerHTML = `
+                <span class="track-number">${index + 1}</span>
                 <span class="track-name">${escapeHtml(track.name)}</span>
                 <span class="track-duration">${track.duration || '--:--'}</span>
             `;
-            trackList.appendChild(trackItem);
+            modalTracklist.appendChild(trackDiv);
         });
-        trackListContainer.appendChild(trackList);
     }
     
-    // Add click handler to toggle track list
-    const clickableArea = document.createElement('div');
-    clickableArea.style.cursor = 'pointer';
-    clickableArea.appendChild(cover);
-    clickableArea.appendChild(info);
-    
-    clickableArea.addEventListener('click', () => {
-        trackListContainer.classList.toggle('active');
-    });
-    
-    card.appendChild(clickableArea);
-    card.appendChild(trackListContainer);
-    
-    return card;
+    // Show modal
+    modalBackdrop.style.display = 'flex';
+}
+
+// Close modal
+function closeModal() {
+    modalBackdrop.style.display = 'none';
 }
 
 // Utility function to escape HTML special characters
