@@ -1,8 +1,8 @@
 :root {
     --primary-color: #1db954;
-    --background: #121212;
-    --surface: #1e1e1e;
-    --surface-light: #282828;
+    --background: #0f0f0f;
+    --surface: #1a1a1a;
+    --surface-light: #242424;
     --text-primary: #fff;
     --text-secondary: #b3b3b3;
     --border: #404040;
@@ -14,111 +14,191 @@
     box-sizing: border-box;
 }
 
-body {
+html, body {
+    height: 100%;
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
     background-color: var(--background);
     color: var(--text-primary);
-    line-height: 1.6;
 }
 
-.container {
-    max-width: 1200px;
-    margin: 0 auto;
-    padding: 20px;
+body {
+    overflow-x: hidden;
 }
 
-header {
-    margin-bottom: 40px;
-    border-bottom: 2px solid var(--border);
-    padding-bottom: 20px;
+.vinyl-store {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    position: relative;
 }
 
-h1 {
-    font-size: 2.5rem;
+/* Floating controls toggle */
+.controls-toggle {
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: var(--primary-color);
+    border: none;
+    color: var(--background);
+    font-size: 1.5rem;
+    cursor: pointer;
+    z-index: 100;
+    transition: all 0.3s ease;
+    box-shadow: 0 4px 12px rgba(29, 185, 84, 0.3);
+}
+
+.controls-toggle:hover {
+    transform: scale(1.1);
+    box-shadow: 0 6px 16px rgba(29, 185, 84, 0.5);
+}
+
+/* Sort menu */
+.sort-menu {
+    position: fixed;
+    top: 0;
+    right: -350px;
+    width: 300px;
+    height: 100vh;
+    background-color: var(--surface);
+    border-left: 1px solid var(--border);
+    padding: 30px 20px;
+    z-index: 200;
+    transition: right 0.3s ease;
+    overflow-y: auto;
+}
+
+.sort-menu.open {
+    right: 0;
+}
+
+.sort-menu h2 {
+    font-size: 1.3rem;
     margin-bottom: 20px;
     color: var(--primary-color);
 }
 
-.controls {
+.sort-menu .control-group {
     display: flex;
-    gap: 30px;
-    flex-wrap: wrap;
-    align-items: center;
+    flex-direction: column;
+    gap: 8px;
+    margin-bottom: 20px;
 }
 
-.control-group {
-    display: flex;
-    align-items: center;
-    gap: 10px;
-}
-
-label {
+.sort-menu label {
     font-weight: 600;
     color: var(--text-secondary);
+    font-size: 0.9rem;
 }
 
-select {
-    padding: 8px 12px;
+.sort-menu select {
+    padding: 10px;
     background-color: var(--surface-light);
     border: 1px solid var(--border);
     border-radius: 4px;
     color: var(--text-primary);
     cursor: pointer;
-    font-size: 1rem;
+    font-size: 0.95rem;
     transition: all 0.2s ease;
 }
 
-select:hover {
-    background-color: var(--surface);
+.sort-menu select:hover {
     border-color: var(--primary-color);
+    background-color: var(--background);
 }
 
-select:focus {
+.sort-menu select:focus {
     outline: none;
     border-color: var(--primary-color);
     box-shadow: 0 0 0 2px rgba(29, 185, 84, 0.1);
 }
 
-main {
-    min-height: 60vh;
-}
-
-.album-list {
-    display: grid;
-    gap: 20px;
-}
-
-.album-card {
-    display: grid;
-    grid-template-columns: 150px 1fr;
-    gap: 20px;
-    background-color: var(--surface);
-    border-radius: 8px;
-    overflow: hidden;
-    border: 1px solid var(--border);
+.close-menu {
+    width: 100%;
+    padding: 12px;
+    background-color: var(--primary-color);
+    border: none;
+    color: var(--background);
+    border-radius: 4px;
+    font-weight: 600;
     cursor: pointer;
+    margin-top: 20px;
     transition: all 0.2s ease;
-    padding: 15px;
 }
 
-.album-card > div:first-child {
-    display: contents;
+.close-menu:hover {
+    opacity: 0.8;
 }
 
-.album-card:hover {
+/* Main vinyl display */
+.vinyl-display {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 40px 20px;
+    position: relative;
+    overflow: hidden;
+}
+
+.vinyl-card-container {
+    perspective: 1000px;
+    width: 100%;
+    max-width: 400px;
+    aspect-ratio: 1;
+    margin-bottom: 40px;
+}
+
+/* 3D Vinyl Card */
+.vinyl-card {
+    width: 100%;
+    height: 100%;
+    position: relative;
+    transition: transform 0.6s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+    transform-style: preserve-3d;
+    cursor: pointer;
+}
+
+.vinyl-card.flipped {
+    transform: rotateY(180deg);
+}
+
+.vinyl-card-front,
+.vinyl-card-back {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    backface-visibility: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 12px;
+    box-shadow: 0 10px 40px rgba(0, 0, 0, 0.5);
+}
+
+.vinyl-card-front {
+    background-color: var(--surface);
+    z-index: 2;
+}
+
+.vinyl-card-back {
     background-color: var(--surface-light);
-    border-color: var(--primary-color);
-    transform: translateY(-2px);
-    box-shadow: 0 8px 24px rgba(29, 185, 84, 0.1);
+    transform: rotateY(180deg);
+    z-index: 1;
+    padding: 30px;
+    overflow-y: auto;
 }
 
 .album-cover {
-    width: 150px;
-    height: 150px;
-    border-radius: 4px;
+    width: 100%;
+    height: 100%;
+    border-radius: 12px;
     overflow: hidden;
     background-color: var(--background);
-    flex-shrink: 0;
 }
 
 .album-cover img {
@@ -134,56 +214,65 @@ main {
     align-items: center;
     justify-content: center;
     background: linear-gradient(135deg, var(--surface-light), var(--border));
-    font-size: 2rem;
+    font-size: 4rem;
+    animation: pulse 2s infinite;
 }
 
-.album-info {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
+@keyframes pulse {
+    0%, 100% {
+        opacity: 0.6;
+    }
+    50% {
+        opacity: 1;
+    }
 }
 
-.album-title {
-    font-size: 1.3rem;
+/* Album details on back */
+.album-back-content {
+    width: 100%;
+    text-align: center;
+}
+
+#album-title-back {
+    font-size: 1.5rem;
     font-weight: 700;
+    margin-bottom: 10px;
     color: var(--text-primary);
-    margin-bottom: 8px;
+    word-wrap: break-word;
 }
 
-.album-artist {
+#album-artist-back {
     font-size: 1.1rem;
-    color: var(--text-secondary);
-    margin-bottom: 12px;
-}
-
-.album-details {
-    font-size: 0.9rem;
-    color: var(--text-secondary);
+    color: var(--primary-color);
+    margin-bottom: 30px;
+    font-weight: 600;
 }
 
 .track-list {
-    display: none;
-    grid-column: 1 / -1;
-    margin-top: 15px;
-    padding-top: 15px;
-    border-top: 1px solid var(--border);
+    text-align: left;
 }
 
-.track-list.active {
-    display: block;
+.track-list h4 {
+    font-size: 0.95rem;
+    color: var(--text-secondary);
+    margin-bottom: 15px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
 }
 
-.track-list h3 {
-    font-size: 1rem;
-    margin-bottom: 10px;
-    color: var(--primary-color);
+#tracks-container {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
 }
 
 .track-item {
     display: flex;
     justify-content: space-between;
-    padding: 8px 0;
-    font-size: 0.9rem;
+    padding: 10px;
+    background-color: rgba(255, 255, 255, 0.05);
+    border-radius: 4px;
+    font-size: 0.85rem;
     border-bottom: 1px solid rgba(255, 255, 255, 0.05);
 }
 
@@ -192,13 +281,16 @@ main {
 }
 
 .track-number {
-    color: var(--text-secondary);
+    color: var(--primary-color);
     min-width: 30px;
+    font-weight: 600;
 }
 
 .track-name {
     flex: 1;
     padding: 0 10px;
+    color: var(--text-primary);
+    text-align: left;
     overflow: hidden;
     text-overflow: ellipsis;
     white-space: nowrap;
@@ -210,9 +302,39 @@ main {
     text-align: right;
 }
 
+/* Vinyl info */
+.vinyl-info {
+    text-align: center;
+    position: relative;
+    z-index: 10;
+}
+
+.album-counter {
+    font-size: 0.95rem;
+    color: var(--text-secondary);
+    margin-bottom: 8px;
+    font-weight: 600;
+}
+
+.hint {
+    font-size: 0.85rem;
+    color: var(--primary-color);
+    opacity: 0.7;
+    animation: fadeInOut 3s infinite;
+}
+
+@keyframes fadeInOut {
+    0%, 100% {
+        opacity: 0.5;
+    }
+    50% {
+        opacity: 1;
+    }
+}
+
+/* Loading and error states */
 .loading {
     text-align: center;
-    padding: 40px;
     font-size: 1.1rem;
     color: var(--text-secondary);
 }
@@ -223,69 +345,98 @@ main {
     color: #ff6b6b;
     padding: 20px;
     border-radius: 8px;
-    margin: 20px 0;
     display: none;
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    right: 20px;
+    z-index: 50;
 }
 
 .error.active {
     display: block;
 }
 
-/* Responsive Design */
+/* Responsive design */
 @media (max-width: 768px) {
-    .container {
-        padding: 15px;
+    .vinyl-card-container {
+        max-width: 280px;
     }
 
-    h1 {
-        font-size: 1.8rem;
+    .album-back-content {
+        padding: 0;
     }
 
-    .controls {
-        gap: 15px;
+    #album-title-back {
+        font-size: 1.2rem;
     }
 
-    .album-card {
-        grid-template-columns: 1fr;
-        gap: 15px;
+    #album-artist-back {
+        font-size: 0.95rem;
     }
 
-    .album-cover {
-        width: 100%;
-        height: 200px;
+    .vinyl-display {
+        padding: 20px;
     }
 
-    .album-info {
-        padding: 10px 0;
+    .sort-menu {
+        width: 280px;
+        right: -280px;
     }
 }
 
 @media (max-width: 480px) {
-    h1 {
-        font-size: 1.5rem;
+    .vinyl-store {
+        height: auto;
+        min-height: 100vh;
     }
 
-    .control-group {
+    .vinyl-display {
+        min-height: 100vh;
+        padding: 20px 10px 40px;
+    }
+
+    .vinyl-card-container {
+        max-width: 240px;
+        margin-bottom: 30px;
+    }
+
+    .controls-toggle {
+        width: 45px;
+        height: 45px;
+        font-size: 1.2rem;
+        top: 15px;
+        right: 15px;
+    }
+
+    .album-counter {
+        font-size: 0.85rem;
+    }
+
+    .hint {
+        font-size: 0.75rem;
+    }
+
+    .sort-menu {
         width: 100%;
+        right: -100%;
     }
 
-    select {
-        flex: 1;
+    .vinyl-card-back {
+        padding: 20px;
     }
 
-    .album-card {
-        padding: 10px;
-    }
-
-    .album-cover {
-        height: 150px;
-    }
-
-    .album-title {
+    #album-title-back {
         font-size: 1.1rem;
     }
 
-    .album-artist {
-        font-size: 0.95rem;
+    #album-artist-back {
+        font-size: 0.9rem;
+        margin-bottom: 20px;
+    }
+
+    .track-item {
+        font-size: 0.8rem;
+        padding: 8px;
     }
 }
