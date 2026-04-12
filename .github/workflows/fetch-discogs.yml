@@ -37,6 +37,13 @@ jobs:
         run: |
           python scripts/fetch_discogs.py
 
+      - name: Fetch Spotify album urls
+        env:
+          SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
+          SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
+        run: |
+          python scripts/fetch_spotify_urls.py
+
       - name: Check for changes
         id: check_changes
         run: |
