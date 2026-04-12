@@ -52,7 +52,7 @@ def fetch_collection() -> list:
         while True:
             # Fetch collection page
             url = f'{DISCOGS_API_BASE}/users/{DISCOGS_USERNAME}/collection/folders/0/releases'
-            params = {'page': page, 'per_page': 100}
+            params = {'page': page, 'per_page': 100, 'sort': 'artist', 'sort_order': 'asc'}
             
             print(f'Fetching page {page}...')
             response = requests.get(
@@ -98,6 +98,7 @@ def extract_album_info(release: dict) -> Optional[dict]:
         album_id = basic_info.get('id')
         title = basic_info.get('title', 'Unknown')
         cover_image = basic_info.get('cover_image', '')
+        year = basic_info.get('year')
         
         # Extract artist(s)
         artists = basic_info.get('artists', [])
@@ -110,6 +111,7 @@ def extract_album_info(release: dict) -> Optional[dict]:
             'id': album_id,
             'title': title.strip(),
             'artist': artist_name.strip(),
+            'year': year,
             'cover': cover_image if cover_image else None,
             'tracks': tracks
         }
