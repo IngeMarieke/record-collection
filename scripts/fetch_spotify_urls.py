@@ -244,14 +244,17 @@ def enrich_collection(albums: list, access_token: str) -> list:
     total = len(albums)
 
     for index, album in enumerate(albums, 1):
+        spotify_link = album.get("spotify_link", "")  # Ensure spotify_link key exists
         artist = album.get("artist", "Unknown")
         title = album.get("title", "Unknown")
         year = album.get("year")
+        album_info = f"{artist} - {title} ({year})"
 
-        print(f"[{index}/{total}] Searching: {artist} - {title} ({year})")
-
-        spotify_link = ""
+        if spotify_link != "":
+            print(f"[{index}/{total}] Skipping (already has Spotify link): {album_info}")
+            continue
         
+        print(f"[{index}/{total}] Searching: {album_info}")
         # Check for special cases that need alternative search terms
         if (artist, title, year) in SPECIAL_SEARCH_CASES:
             search_attempts = SPECIAL_SEARCH_CASES[(artist, title, year)]

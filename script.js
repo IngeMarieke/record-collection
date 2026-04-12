@@ -91,6 +91,24 @@ function openModal(album) {
     // Set album info (use textContent - no need to escape)
     modalTitle.textContent = album.title;
     modalArtist.textContent = album.artist;
+    
+    // Set year if available
+    const modalYear = document.getElementById('modal-year');
+    if (album.year) {
+        modalYear.textContent = `${album.year}`;
+    } else {
+        modalYear.textContent = '';
+    }
+    
+    // Set Spotify link if available
+    const spotifyLink = document.getElementById('spotify-link');
+    if (album.spotify_link && album.spotify_link.trim() !== '') {
+        spotifyLink.href = album.spotify_link;
+        spotifyLink.style.display = 'inline-flex';
+    } else {
+        spotifyLink.style.display = 'none';
+    }
+    
     modalCoverImg.src = album.cover || '';
     modalCoverImg.onerror = () => {
         const cover = document.getElementById('modal-cover');

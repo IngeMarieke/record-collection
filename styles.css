@@ -210,6 +210,42 @@ body {
     margin: 0;
 }
 
+.modal-artist-year {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    flex-wrap: wrap;
+}
+
+.modal-year {
+    font-size: 0.95rem;
+    color: var(--text-secondary);
+}
+
+.modal-meta {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    flex-wrap: wrap;
+}
+
+.spotify-button {
+    display: inline-flex;
+    align-items: center;
+    padding: 10px 16px;
+    background-color: #191414;
+    border: 1px solid #1ed760;
+    text-decoration: none;
+    border-radius: 24px;
+    transition: all 0.2s;
+    cursor: pointer;
+}
+
+.spotify-button:hover {
+    border-color: #1db954;
+    background-color: rgba(29, 185, 84, 0.1);
+}
+
 .modal-tracks {
     display: flex;
     flex-direction: column;
