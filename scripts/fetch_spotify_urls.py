@@ -28,6 +28,43 @@ COLLECTION_FILE = "data/collection.json"
 
 REQUEST_TIMEOUT = 10
 
+# Special cases for albums that need alternative search terms
+# Maps (artist, title, year) to list of search attempts: [(artist, title, year), ...]
+SPECIAL_SEARCH_CASES = {
+    ("Al Green", "Al Green Gets Next To You", 1971): [("Al Green", "Gets Next To You", 1971)],
+    ("The Blues Brothers", "The Blues Brothers (Original Soundtrack Recording)", 1980): [("The Blues Brothers", "The Blues Brothers", 1980)],
+    ("D.S.R. Proteus-Eretes", "Rendez-Vous", 2022): [("Proteus-Eretes", "Rendez-Vous", 2022)],
+    ("Dire Straits", "Dire Straits", 1978): [
+        ("Dire Straits", "Dire Straits", 1978),
+        ("Dire Straits", "Dire Straits", None),
+        ("Dire Straits", "Dire Straits", 1985),
+        ("Dire Straits", "Dire Straits", 1991),
+        ("Dire Straits", "Dire Straits", 2014),
+    ],
+    ("Fatboy Slim", "You've Come A Long Way, Baby", 1998): [
+        ("Fatboy Slim", "You've Come a Long Way Baby", 1998),
+        ("Fatboy Slim", "You've Come a Long Way Baby", None),
+        ("Fatboy Slim", "You've Come a Long Way Baby", 1997),
+        ("Fatboy Slim", "You've Come a Long Way Baby", 1999),
+    ],
+    ("Led Zeppelin", "Houses Of The Holy", 2014): [("Led Zeppelin", "Houses Of The Holy", 1973)],
+    ("Masayoshi Takanaka, Masayoshi Takanaka", "Jolly Jive = ジョリー・ジャイヴ", 2025): [
+        ("Masayoshi Takanaka", "Jolly Jive", 2025),
+        ("Masayoshi Takanaka", "Jolly Jive", 2024),
+        ("Masayoshi Takanaka", "Jolly Jive", None)
+    ],
+    ("Masayoshi Takanaka, Masayoshi Takanaka", "Traumatic = トラマティック極東探偵団", 1985): [("Masayoshi Takanaka", "Traumatic", 1985)],
+    ("Santana", "Abraxas / Santana", 1986): [
+        ("Santana", "Abraxas", 1986),
+        ("Santana", "Abraxas", None),
+        ("Santana", "Abraxas", 1971)
+    ],
+    ("Wende Snijders", "Mens", 2018): [
+        ("Wende", "Mens", 2018),
+        ("Wende", "Mens", None)
+    ],
+}
+
 
 def get_access_token(client_id: str, client_secret: str) -> str:
     """
@@ -62,7 +99,7 @@ def get_access_token(client_id: str, client_secret: str) -> str:
 
 
 def search_spotify_album(
-    access_token: str, artist: str, title: str, year: int
+    access_token: str, artist: str, title: str, year: Optional[int] = None, debug: bool = False, use_free_text: bool = False
 ) -> str:
     """
     Search for an album on Spotify using artist, title, and year.
@@ -73,18 +110,31 @@ def search_spotify_album(
         access_token: Valid Spotify API access token
         artist: Album artist name
         title: Album title
-        year: Album release year
+        year: Album release year (optional)
+        debug: Print debug information about the search
+        use_free_text: Use free text search instead of album: prefix
 
     Returns:
         Spotify URL of the first matching album, or empty string if not found
     """
-    query = f"album:{title} artist:{artist} year:{year}"
+    # Build query with optional year
+    if use_free_text:
+        # Free text search without album: prefix
+        query = f"{title} {artist}"
+        if year is not None:
+            query += f" {year}"
+    else:
+        # Structured search with album: prefix
+        query = f"album:{title} artist:{artist}"
+        if year is not None:
+            query += f" year:{year}"
+    
     url = f"{SPOTIFY_API_BASE}/search"
     headers = {"Authorization": f"Bearer {access_token}"}
     params = {
         "q": query,
         "type": "album",
-        "limit": 5
+        "limit": 10
     }
 
     try:
@@ -112,6 +162,15 @@ def search_spotify_album(
 
         data = response.json()
         albums = data.get("albums", {}).get("items", [])
+
+        if debug and albums:
+            print(f"    DEBUG: Found {len(albums)} results", file=sys.stderr)
+            for i, album in enumerate(albums[:3]):
+                print(
+                    f"      {i+1}. {album.get('artists', [{}])[0].get('name', 'Unknown')} - "
+                    f"{album.get('name', 'Unknown')} ({album.get('release_date', 'Unknown')[:4]})",
+                    file=sys.stderr
+                )
 
         if albums:
             return albums[0]["external_urls"]["spotify"]
@@ -191,7 +250,30 @@ def enrich_collection(albums: list, access_token: str) -> list:
 
         print(f"[{index}/{total}] Searching: {artist} - {title} ({year})")
 
-        spotify_link = search_spotify_album(access_token, artist, title, year)
+        spotify_link = ""
+        
+        # Check for special cases that need alternative search terms
+        if (artist, title, year) in SPECIAL_SEARCH_CASES:
+            search_attempts = SPECIAL_SEARCH_CASES[(artist, title, year)]
+            for attempt_num, (search_artist, search_title, search_year) in enumerate(search_attempts):
+                if attempt_num == 0:
+                    print(f"  Using alternative search: {search_artist} - {search_title} ({search_year})")
+                else:
+                    print(f"  Trying fallback {attempt_num}: {search_artist} - {search_title} ({search_year})")
+                
+                # Enable debug for problematic albums
+                debug_enabled = (search_artist in ["Dire Straits", "Fatboy Slim"] and attempt_num == 0)
+                spotify_link = search_spotify_album(access_token, search_artist, search_title, search_year, debug=debug_enabled)
+                if spotify_link:
+                    break
+            
+            # If structured search failed for these albums, try free text search
+            if not spotify_link and artist in ["Dire Straits", "Fatboy Slim"]:
+                print(f"  Trying free text search: {artist} - {title}")
+                spotify_link = search_spotify_album(access_token, artist, title, year, use_free_text=True)
+        else:
+            spotify_link = search_spotify_album(access_token, artist, title, year)
+        
         album["spotify_link"] = spotify_link
 
         if spotify_link:
