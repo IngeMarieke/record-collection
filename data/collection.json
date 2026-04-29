@@ -58,6 +58,51 @@
     "spotify_link": "https://open.spotify.com/album/3MecVG0PeBObAhjwEAczFG"
   },
   {
+    "id": 1467107,
+    "title": "Deceptive Bends",
+    "artist": "10cc",
+    "year": 1977,
+    "cover": "https://i.discogs.com/wX2Y1GTez-Ne5A4h3YjD-u4AYJ8dOzljGD5hxLclIx0/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Njcx/MDctMTUyMTk4MDYz/NS03NDA0LmpwZWc.jpeg",
+    "tracks": [
+      {
+        "name": "Good Morning Judge",
+        "duration": "2:54"
+      },
+      {
+        "name": "The Things We Do For Love",
+        "duration": "3:32"
+      },
+      {
+        "name": "Marriage Bureau Rendezvous",
+        "duration": "3:47"
+      },
+      {
+        "name": "People In Love",
+        "duration": "3:54"
+      },
+      {
+        "name": "Modern Man Blues",
+        "duration": "5:43"
+      },
+      {
+        "name": "Honeymoon With A B Troop",
+        "duration": "2:44"
+      },
+      {
+        "name": "I Bought A Flat Guitar Tutor",
+        "duration": "1:45"
+      },
+      {
+        "name": "You've Got A Cold",
+        "duration": "3:42"
+      },
+      {
+        "name": "Feel The Benefit",
+        "duration": null
+      }
+    ]
+  },
+  {
     "id": 2351957,
     "title": "Live",
     "artist": "ABBA",
@@ -110,6 +155,23 @@
       }
     ],
     "spotify_link": "https://open.spotify.com/album/2cKZfaz7GiGtZEeQNj1RyR"
+  },
+  {
+    "id": 2445184,
+    "title": "Prince Charming",
+    "artist": "Adam And The Ants",
+    "year": 1981,
+    "cover": "https://i.discogs.com/-I4zUIXueEVM6hEdQqHfUYgRzSGD_lgrknU9y2kr4Hk/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDUx/ODQtMTI4NDQ1Mzk2/Ni5qcGVn.jpeg",
+    "tracks": [
+      {
+        "name": "Prince Charming",
+        "duration": "3:16"
+      },
+      {
+        "name": "Christian D'Or",
+        "duration": "4:12"
+      }
+    ]
   },
   {
     "id": 922528,
@@ -368,6 +430,100 @@
     "spotify_link": "https://open.spotify.com/album/6W0V8B0fJItvOwC8v114rZ"
   },
   {
+    "id": 607232,
+    "title": "Year Of The Cat",
+    "artist": "Al Stewart",
+    "year": 1977,
+    "cover": "https://i.discogs.com/092A-7JdrRiT6hCyFI8QU_u9IosZ3kc7oqsdsoZNlHI/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNzIz/Mi0xMTM3Nzg3ODE3/LmpwZWc.jpeg",
+    "tracks": [
+      {
+        "name": "Lord Grenville",
+        "duration": "5:00"
+      },
+      {
+        "name": "On The Border",
+        "duration": "3:22"
+      },
+      {
+        "name": "Midas Shadow",
+        "duration": "3:08"
+      },
+      {
+        "name": "Sand In Your Shoes",
+        "duration": "3:02"
+      },
+      {
+        "name": "If It Doesn't Come Naturally, Leave It",
+        "duration": "4:28"
+      },
+      {
+        "name": "Flying Sorcery",
+        "duration": "4:20"
+      },
+      {
+        "name": "Broadway Hotel",
+        "duration": "3:55"
+      },
+      {
+        "name": "One Stage Before",
+        "duration": "4:39"
+      },
+      {
+        "name": "Year Of The Cat",
+        "duration": "6:40"
+      }
+    ]
+  },
+  {
+    "id": 2835826,
+    "title": "I Robot",
+    "artist": "The Alan Parsons Project",
+    "year": 2004,
+    "cover": "https://i.discogs.com/wy7aBh8uBkWiwUGYJx4Qm86CkdIIlxV95IBJdk4eT_E/rs:fit/g:sm/q:90/h:600/w:587/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MzU4/MjYtMTUyNjU5NDM4/Mi02NTQwLmpwZWc.jpeg",
+    "tracks": [
+      {
+        "name": "I Robot",
+        "duration": "6:06"
+      },
+      {
+        "name": "I Wouldn't Want To Be Like You",
+        "duration": "3:19"
+      },
+      {
+        "name": "Some Other Time",
+        "duration": "4:05"
+      },
+      {
+        "name": "Breakdown",
+        "duration": "3:50"
+      },
+      {
+        "name": "Don't Let It Show",
+        "duration": "4:21"
+      },
+      {
+        "name": "The Voice",
+        "duration": "5:21"
+      },
+      {
+        "name": "Nucleus",
+        "duration": "3:35"
+      },
+      {
+        "name": "Day After Day (The Show Must Go On)",
+        "duration": "3:43"
+      },
+      {
+        "name": "Total Eclipse",
+        "duration": "3:05"
+      },
+      {
+        "name": "Genesis Ch.1, V.32",
+        "duration": "3:37"
+      }
+    ]
+  },
+  {
     "id": 382458,
     "title": "Billion Dollar Babies",
     "artist": "Alice Cooper",
@@ -416,6 +572,190 @@
       }
     ],
     "spotify_link": "https://open.spotify.com/album/4SlY4oyiPg6At7vyouZ7ep"
+  },
+  {
+    "id": 177139,
+    "title": "Alf",
+    "artist": "Alison Moyet",
+    "year": 1984,
+    "cover": "https://i.discogs.com/gXohJJzqY-N1yJQ7TGf7VUC9Gj1vNEupOP7_Ah6IDB0/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NzEz/OS0xNDIzMjI5NDIw/LTMxOTMuanBlZw.jpeg",
+    "tracks": [
+      {
+        "name": "Love Resurrection",
+        "duration": null
+      },
+      {
+        "name": "Honey For The Bees",
+        "duration": null
+      },
+      {
+        "name": "For You Only",
+        "duration": null
+      },
+      {
+        "name": "Invisible",
+        "duration": null
+      },
+      {
+        "name": "Steal Me Blind",
+        "duration": null
+      },
+      {
+        "name": "All Cried Out",
+        "duration": null
+      },
+      {
+        "name": "Money Mile",
+        "duration": null
+      },
+      {
+        "name": "Twisting The Knife",
+        "duration": null
+      },
+      {
+        "name": "Where Hides Sleep",
+        "duration": null
+      }
+    ]
+  },
+  {
+    "id": 6928620,
+    "title": "Alliance",
+    "artist": "Alliance (19)",
+    "year": 1982,
+    "cover": "https://i.discogs.com/mYO0KS-jE-fxTtPuQkvUqOUsFzLeBt5-tIqjEEbGCXA/rs:fit/g:sm/q:90/h:480/w:480/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5Mjg2/MjAtMTQzMDkwMjIy/Mi02ODQyLmpwZWc.jpeg",
+    "tracks": [
+      {
+        "name": "I Don`t Want To Leave You This Way",
+        "duration": "3:34"
+      },
+      {
+        "name": "Don`t Tell Me About It",
+        "duration": "3:47"
+      },
+      {
+        "name": "How Does It Feel",
+        "duration": "3:42"
+      },
+      {
+        "name": "Stop",
+        "duration": "3:07"
+      },
+      {
+        "name": "Heaven Can Wait",
+        "duration": "3:35"
+      },
+      {
+        "name": "Make It Right",
+        "duration": "3:35"
+      },
+      {
+        "name": "Love On The Line",
+        "duration": "2:41"
+      },
+      {
+        "name": "Sweet Devotion",
+        "duration": "2:59"
+      },
+      {
+        "name": "I Need You Now",
+        "duration": "3:18"
+      },
+      {
+        "name": "Make Believe That You Love Me",
+        "duration": "2:48"
+      }
+    ]
+  },
+  {
+    "id": 1135179,
+    "title": "High-Rise",
+    "artist": "Ashford & Simpson",
+    "year": 1983,
+    "cover": "https://i.discogs.com/-QVDBD2AgxpExYTgRU1eO554LVZiWNizsPYszMH5Mcc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzUx/NzktMTQ1OTg0Nzg2/OS00OTE3LmpwZWc.jpeg",
+    "tracks": [
+      {
+        "name": "High-Rise",
+        "duration": "5:35"
+      },
+      {
+        "name": "Side Effect",
+        "duration": "4:07"
+      },
+      {
+        "name": "Experience (Love Had No Face)",
+        "duration": "4:38"
+      },
+      {
+        "name": "It's A Rush",
+        "duration": "5:06"
+      },
+      {
+        "name": "My Kinda Pick Me Up",
+        "duration": "3:09"
+      },
+      {
+        "name": "I'm Not That Tough",
+        "duration": "4:34"
+      },
+      {
+        "name": "It's Much Deeper",
+        "duration": "6:30"
+      },
+      {
+        "name": "Still Such A Thing",
+        "duration": "5:13"
+      }
+    ]
+  },
+  {
+    "id": 4913290,
+    "title": "Backseat Sally",
+    "artist": "Backseat Sally",
+    "year": 1983,
+    "cover": "https://i.discogs.com/g2UzdNzguGKwIKSUo8x4XXSQeird24pPe666OkthjB8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5MTMy/OTAtMTUxMDU4ODc3/Ny01MTc4LmpwZWc.jpeg",
+    "tracks": [
+      {
+        "name": "Get In Line",
+        "duration": null
+      },
+      {
+        "name": "Prove It",
+        "duration": null
+      },
+      {
+        "name": "Trouble On The Line",
+        "duration": null
+      },
+      {
+        "name": "It's Not A Game",
+        "duration": null
+      },
+      {
+        "name": "Nuthin' From Love",
+        "duration": null
+      },
+      {
+        "name": "Chemical Reaction",
+        "duration": null
+      },
+      {
+        "name": "Pretending",
+        "duration": null
+      },
+      {
+        "name": "Edge Of Love",
+        "duration": null
+      },
+      {
+        "name": "All Over Your Face",
+        "duration": null
+      },
+      {
+        "name": "Keep It A Secret",
+        "duration": null
+      }
+    ]
   },
   {
     "id": 499497,
@@ -480,6 +820,145 @@
     "spotify_link": "https://open.spotify.com/album/6QaVfG1pHYl1z15ZxkvVDW"
   },
   {
+    "id": 1265597,
+    "title": "Het Zwarte Goud",
+    "artist": "Benny Neyman",
+    "year": 1984,
+    "cover": "https://i.discogs.com/oOQtdOSgOsoQfgLOLSTcKDTrDMl_dQxuYLxNqW4JWY0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjU1/OTctMTM2MDIzMTU3/NC03MTE4LmpwZWc.jpeg",
+    "tracks": [
+      {
+        "name": "Blijf Vannacht Bij Mij",
+        "duration": "3:01"
+      },
+      {
+        "name": "Waarom Fluister Ik Je Naam Nog (An Anixis Tin Cardia Mou)",
+        "duration": "3:44"
+      },
+      {
+        "name": "In De Nacht (Fais De La Rire)",
+        "duration": "3:01"
+      },
+      {
+        "name": "Als (The Old Song)",
+        "duration": "3:46"
+      },
+      {
+        "name": "De Optimist",
+        "duration": "3:58"
+      },
+      {
+        "name": "Het Land Van Het Zwarte Goud (Les Corons)",
+        "duration": "4:10"
+      },
+      {
+        "name": "La Mamma",
+        "duration": "4:19"
+      },
+      {
+        "name": "Een Dag In Parijs (The French Waltz)",
+        "duration": "3:36"
+      },
+      {
+        "name": "Paardestaarten (Mia Thalassa Ghalazia)",
+        "duration": "2:48"
+      },
+      {
+        "name": "Wat Ben Ik Zonder Jou (Qu'est Ce Que Tu Fais De Moi)",
+        "duration": "3:16"
+      },
+      {
+        "name": "Zigeunerbloed",
+        "duration": "3:01"
+      },
+      {
+        "name": "Adieu (Ayer)",
+        "duration": "4:19"
+      }
+    ]
+  },
+  {
+    "id": 1950373,
+    "title": "Betty Travelin' In The Wright Circle",
+    "artist": "Betty Wright",
+    "year": 1979,
+    "cover": "https://i.discogs.com/C6W5QOMSwddIFCivDKc835AjiGvQFWC0o9bNy_Hg8nM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTAz/NzMtMTQzMzUzODM3/Ni0yMTE4LmpwZWc.jpeg",
+    "tracks": [
+      {
+        "name": "I'm Telling You Now",
+        "duration": "4:44"
+      },
+      {
+        "name": "Child Of The Man",
+        "duration": "4:24"
+      },
+      {
+        "name": "You're Just What I Need",
+        "duration": "4:05"
+      },
+      {
+        "name": "My Love Is",
+        "duration": "5:48"
+      },
+      {
+        "name": "Open The Door To Your Heart / Love Train",
+        "duration": "5:18"
+      },
+      {
+        "name": "I Believe It's Love",
+        "duration": "4:04"
+      },
+      {
+        "name": "Thank You For The Many Things You've Done",
+        "duration": "5:52"
+      },
+      {
+        "name": "Listen To The Music (Dance)",
+        "duration": "5:10"
+      }
+    ]
+  },
+  {
+    "id": 7990436,
+    "title": "Master Of Reality",
+    "artist": "Black Sabbath",
+    "year": 1971,
+    "cover": "https://i.discogs.com/ei9lgB5oCsNqaoQuuL4ML0s-3jYjdIRTmPVD0fW6r3A/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5OTA0/MzYtMTQ1MzA0Mzc2/OC05MzM4LmpwZWc.jpeg",
+    "tracks": [
+      {
+        "name": "Sweet Leaf",
+        "duration": "5:00"
+      },
+      {
+        "name": "After Forever",
+        "duration": "5:30"
+      },
+      {
+        "name": "Embryo",
+        "duration": "0:30"
+      },
+      {
+        "name": "Children Of The Grave",
+        "duration": "6:00"
+      },
+      {
+        "name": "Orchid",
+        "duration": "1:30"
+      },
+      {
+        "name": "Lord Of This World",
+        "duration": "5:30"
+      },
+      {
+        "name": "Solitude",
+        "duration": "5:10"
+      },
+      {
+        "name": "Into The Void",
+        "duration": "6:00"
+      }
+    ]
+  },
+  {
     "id": 635523,
     "title": "The Blues Brothers (Original Soundtrack Recording)",
     "artist": "The Blues Brothers",
@@ -532,6 +1011,100 @@
       }
     ],
     "spotify_link": "https://open.spotify.com/album/4cO51KBYsdsbmSZleoNEGH"
+  },
+  {
+    "id": 375048,
+    "title": "Desire",
+    "artist": "Bob Dylan",
+    "year": 1976,
+    "cover": "https://i.discogs.com/3qeeXfQilrJBWslV1zq5i0QqBEUPlz6Jl5QqguRZp7M/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NTA0/OC0xMTgyNjc1MTkw/LmpwZWc.jpeg",
+    "tracks": [
+      {
+        "name": "Hurricane",
+        "duration": "8:33"
+      },
+      {
+        "name": "Isis",
+        "duration": "6:58"
+      },
+      {
+        "name": "Mozambique",
+        "duration": "3:00"
+      },
+      {
+        "name": "One More Cup Of Coffee",
+        "duration": "3:43"
+      },
+      {
+        "name": "Oh Sister",
+        "duration": "4:05"
+      },
+      {
+        "name": "Joey",
+        "duration": "11:05"
+      },
+      {
+        "name": "Romance In Durango",
+        "duration": "5:50"
+      },
+      {
+        "name": "Black Diamond Bay",
+        "duration": "7:50"
+      },
+      {
+        "name": "Sara",
+        "duration": "5:29"
+      }
+    ]
+  },
+  {
+    "id": 524171,
+    "title": "Rastaman Vibration",
+    "artist": "Bob Marley & The Wailers",
+    "year": 1976,
+    "cover": "https://i.discogs.com/f1wLHfuXwOuHqMlRT0EMTPU8DrtFYS4A0Y4FY-Xt5oQ/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyNDE3/MS0xNTEwNTg2NzU0/LTIzNTkuanBlZw.jpeg",
+    "tracks": [
+      {
+        "name": "Positive Vibration",
+        "duration": "3:20"
+      },
+      {
+        "name": "Roots, Rock, Reggae",
+        "duration": "3:35"
+      },
+      {
+        "name": "Johnny Was",
+        "duration": "3:35"
+      },
+      {
+        "name": "Cry To Me",
+        "duration": "2:40"
+      },
+      {
+        "name": "Want More",
+        "duration": "4:10"
+      },
+      {
+        "name": "Crazy Baldhead",
+        "duration": "3:05"
+      },
+      {
+        "name": "Who The Cap Fit",
+        "duration": "4:05"
+      },
+      {
+        "name": "Night Shift",
+        "duration": "3:10"
+      },
+      {
+        "name": "War",
+        "duration": "3:40"
+      },
+      {
+        "name": "Rat Race",
+        "duration": "2:50"
+      }
+    ]
   },
   {
     "id": 526352,
@@ -592,6 +1165,161 @@
     "spotify_link": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
   },
   {
+    "id": 373866,
+    "title": "Reckless",
+    "artist": "Bryan Adams",
+    "year": 1985,
+    "cover": "https://i.discogs.com/tPZTPpR5d2oz_jSYwt67vTY5F5yyT4N6dsdWS3r-9C4/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3Mzg2/Ni0xNTM1MDg2Nzk3/LTU0NzUuanBlZw.jpeg",
+    "tracks": [
+      {
+        "name": "One Night Love Affair",
+        "duration": "4:32"
+      },
+      {
+        "name": "She's Only Happy When She's Dancin'",
+        "duration": "3:14"
+      },
+      {
+        "name": "Run To You",
+        "duration": "3:54"
+      },
+      {
+        "name": "Heaven",
+        "duration": "4:03"
+      },
+      {
+        "name": "Somebody",
+        "duration": "4:44"
+      },
+      {
+        "name": "Summer Of '69",
+        "duration": "3:35"
+      },
+      {
+        "name": "Kids Wanna Rock",
+        "duration": "2:36"
+      },
+      {
+        "name": "It's Only Love",
+        "duration": "3:15"
+      },
+      {
+        "name": "Long Gone",
+        "duration": "3:57"
+      },
+      {
+        "name": "Ain't Gonna Cry",
+        "duration": "4:06"
+      }
+    ]
+  },
+  {
+    "id": 700471,
+    "title": "I Feel For You",
+    "artist": "Chaka Khan",
+    "year": 1984,
+    "cover": "https://i.discogs.com/MOunnqJtHxczcBDqThAMCFO3unQFTng1er7xMYhhaGo/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwMDQ3/MS0xNTE2MDM4NzE1/LTkyMjIuanBlZw.jpeg",
+    "tracks": [
+      {
+        "name": "This Is My Night",
+        "duration": "4:38"
+      },
+      {
+        "name": "Stronger Than Before",
+        "duration": "4:21"
+      },
+      {
+        "name": "My Love Is Alive",
+        "duration": "4:42"
+      },
+      {
+        "name": "Eye To Eye",
+        "duration": "4:38"
+      },
+      {
+        "name": "La Flamme",
+        "duration": "4:27"
+      },
+      {
+        "name": "I Feel For You",
+        "duration": "5:44"
+      },
+      {
+        "name": "Hold Her",
+        "duration": "5:14"
+      },
+      {
+        "name": "Through The Fire",
+        "duration": "4:45"
+      },
+      {
+        "name": "Caught In The Act",
+        "duration": "3:45"
+      },
+      {
+        "name": "Chinatown",
+        "duration": "4:37"
+      }
+    ]
+  },
+  {
+    "id": 1475664,
+    "title": "Live!",
+    "artist": "Commodores",
+    "year": 1977,
+    "cover": "https://i.discogs.com/fUImrtb_ZM7v-UzAEoNp1UfHYbWy0CIkoTbnWrKbdQE/rs:fit/g:sm/q:90/h:392/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzU2/NjQtMTI3NzkxMjA3/Ni5qcGVn.jpeg",
+    "tracks": [
+      {
+        "name": "Won't You Come Dance With Me",
+        "duration": "3:36"
+      },
+      {
+        "name": "Slippery When Wet",
+        "duration": "3:00"
+      },
+      {
+        "name": "Come Inside",
+        "duration": "3:12"
+      },
+      {
+        "name": "Just To Be Close To You",
+        "duration": "7:17"
+      },
+      {
+        "name": "Funny Feelings",
+        "duration": "5:16"
+      },
+      {
+        "name": "Fancy Dancer",
+        "duration": "4:44"
+      },
+      {
+        "name": "Sweet Love",
+        "duration": "8:39"
+      },
+      {
+        "name": "Zoom",
+        "duration": "10:00"
+      },
+      {
+        "name": "Easy",
+        "duration": "7:23"
+      },
+      {
+        "name": "I Feel Sanctified",
+        "duration": "2:58"
+      },
+      {
+        "name": "Brick House",
+        "duration": "11:18"
+      },
+      {
+        "name": "Too Hot Ta Trot",
+        "duration": "5:38"
+      }
+    ]
+  },
+  {
     "id": 307627,
     "title": "Midnight Magic",
     "artist": "Commodores",
@@ -636,6 +1364,267 @@
       }
     ],
     "spotify_link": "https://open.spotify.com/album/08BUOmAF8JwaU4Nnsizswy"
+  },
+  {
+    "id": 9885786,
+    "title": "Creedence Gold",
+    "artist": "Creedence Clearwater Revival",
+    "year": 1980,
+    "cover": "https://i.discogs.com/ATVKvcMOsSBhffb51A_yWVZxmdUJpi9EmYFHR7LbUYA/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4ODU3/ODYtMTQ4Nzk1NzY4/Ni0zMzEwLm1wbw.jpeg",
+    "tracks": [
+      {
+        "name": "Proud Mary",
+        "duration": "3:07"
+      },
+      {
+        "name": "Down On The Corner",
+        "duration": "2:43"
+      },
+      {
+        "name": "Bad Moon Rising",
+        "duration": "2:17"
+      },
+      {
+        "name": "I Heard It Through The Grapevine",
+        "duration": "11:05"
+      },
+      {
+        "name": "The Midnight Special",
+        "duration": "4:10"
+      },
+      {
+        "name": "Have You Ever Seen The Rain?",
+        "duration": "2:39"
+      },
+      {
+        "name": "Born On The Bayou",
+        "duration": "5:10"
+      },
+      {
+        "name": "Suzie Q",
+        "duration": "8:34"
+      }
+    ]
+  },
+  {
+    "id": 1066190,
+    "title": "Live",
+    "artist": "Crosby & Nash",
+    "year": 1977,
+    "cover": "https://i.discogs.com/zBBe2V4Wq7ZZJVbd1EpfTLwbSlM1xLrgVLNJR6RYMEI/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjYx/OTAtMTE4OTYyMDcw/Mi5qcGVn.jpeg",
+    "tracks": [
+      {
+        "name": "Immigration Man",
+        "duration": "3:07"
+      },
+      {
+        "name": "The Leeshore",
+        "duration": "5:09"
+      },
+      {
+        "name": "I Used To Be A King",
+        "duration": "4:26"
+      },
+      {
+        "name": "Page 43",
+        "duration": "3:35"
+      },
+      {
+        "name": "Fieldworker",
+        "duration": "3:11"
+      },
+      {
+        "name": "Simple Man",
+        "duration": "2:44"
+      },
+      {
+        "name": "Foolish Man",
+        "duration": "4:33"
+      },
+      {
+        "name": "Mama Lion",
+        "duration": "3:13"
+      },
+      {
+        "name": "Déjà Vu",
+        "duration": "9:40"
+      }
+    ]
+  },
+  {
+    "id": 1501725,
+    "title": "4 Way Street",
+    "artist": "Crosby, Stills, Nash & Young",
+    "year": 1971,
+    "cover": "https://i.discogs.com/Q37HOS39WKCVWKZUnJtKMHZWLwoqKAsNvWZBsIzr-IQ/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDE3/MjUtMTQ5MjM3MTQ2/MS0yNDkyLmpwZWc.jpeg",
+    "tracks": [
+      {
+        "name": "Suite: Judy Blue Eyes",
+        "duration": "0:24"
+      },
+      {
+        "name": "On The Way Home",
+        "duration": "3:19"
+      },
+      {
+        "name": "Teach Your Children",
+        "duration": "2:46"
+      },
+      {
+        "name": "Triad",
+        "duration": "5:07"
+      },
+      {
+        "name": "The Lee Shore",
+        "duration": "4:14"
+      },
+      {
+        "name": "Chicago",
+        "duration": "3:03"
+      },
+      {
+        "name": "Right Between The Eyes",
+        "duration": "2:19"
+      },
+      {
+        "name": "Cowgirl In The Sand",
+        "duration": "3:50"
+      },
+      {
+        "name": "Don't Let It Bring You Down",
+        "duration": "2:35"
+      },
+      {
+        "name": "49 Bye Byes / America's Children",
+        "duration": "5:30"
+      },
+      {
+        "name": "Love The One You're With",
+        "duration": "2:57"
+      },
+      {
+        "name": "Pre-Road Downs",
+        "duration": "2:48"
+      },
+      {
+        "name": "Long Time Gone",
+        "duration": "5:33"
+      },
+      {
+        "name": "Southern Man",
+        "duration": "13:15"
+      },
+      {
+        "name": "Ohio",
+        "duration": "3:24"
+      },
+      {
+        "name": "Carry On",
+        "duration": "13:06"
+      },
+      {
+        "name": "Find The Cost Of Freedom",
+        "duration": "2:16"
+      }
+    ]
+  },
+  {
+    "id": 4343914,
+    "title": "Déjà Vu",
+    "artist": "Crosby, Stills, Nash & Young",
+    "year": 1982,
+    "cover": "https://i.discogs.com/OQhnaz6Dsh57l8Q_MtcfA_SmTGqlSQuyEp3jyXQdnDI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzNDM5/MTQtMTM2MjMzNDUz/My05MjIwLmpwZWc.jpeg",
+    "tracks": [
+      {
+        "name": "Carry On",
+        "duration": "4:25"
+      },
+      {
+        "name": "Teach Your Children",
+        "duration": "2:53"
+      },
+      {
+        "name": "Almost Cut My Hair",
+        "duration": "4:25"
+      },
+      {
+        "name": "Helpless",
+        "duration": "3:30"
+      },
+      {
+        "name": "Woodstock",
+        "duration": "3:52"
+      },
+      {
+        "name": "Déjà Vu",
+        "duration": "4:10"
+      },
+      {
+        "name": "Our House",
+        "duration": "2:59"
+      },
+      {
+        "name": "4 + 20",
+        "duration": "1:55"
+      },
+      {
+        "name": "Country Girl",
+        "duration": "5:05"
+      },
+      {
+        "name": "Everybody I Love You",
+        "duration": "2:20"
+      }
+    ]
+  },
+  {
+    "id": 221469,
+    "title": "Seventeen Seconds",
+    "artist": "The Cure",
+    "year": 1980,
+    "cover": "https://i.discogs.com/AX9wJ3i14aQSaYwOSVJF8-rcxyJiX6Lrc84lEsJixOU/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTQ2/OS0xMjIwNDY5ODU3/LmpwZWc.jpeg",
+    "tracks": [
+      {
+        "name": "A Reflection",
+        "duration": "2:12"
+      },
+      {
+        "name": "Play For Today",
+        "duration": "3:41"
+      },
+      {
+        "name": "Secrets",
+        "duration": "3:20"
+      },
+      {
+        "name": "In Your House",
+        "duration": "4:08"
+      },
+      {
+        "name": "Three",
+        "duration": "2:36"
+      },
+      {
+        "name": "The Final Sound",
+        "duration": "0:52"
+      },
+      {
+        "name": "A Forest",
+        "duration": "5:55"
+      },
+      {
+        "name": "M",
+        "duration": "3:04"
+      },
+      {
+        "name": "At Night",
+        "duration": "5:54"
+      },
+      {
+        "name": "Seventeen Seconds",
+        "duration": "4:00"
+      }
+    ]
   },
   {
     "id": 24497561,
@@ -816,6 +1805,39 @@
     "spotify_link": "https://open.spotify.com/album/4m2880jivSbbyEGAKfITCa"
   },
   {
+    "id": 2290732,
+    "title": "Undercover Lover",
+    "artist": "Debbie Jacobs",
+    "year": 1979,
+    "cover": "https://i.discogs.com/NGadTdLnS4bBLjrcFtnwLnysmt0-16xzpziF_inyFnU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTA3/MzItMTMzMzkxNDA1/Mi5qcGVn.jpeg",
+    "tracks": [
+      {
+        "name": "Undercover Lover",
+        "duration": "6:30"
+      },
+      {
+        "name": "Don't You Want My Love",
+        "duration": "7:53"
+      },
+      {
+        "name": "Think I'm Fallin' In Love",
+        "duration": "3:37"
+      },
+      {
+        "name": "Hot Hot (Give It All You Got)",
+        "duration": "7:11"
+      },
+      {
+        "name": "All The Way",
+        "duration": "4:37"
+      },
+      {
+        "name": "Burnin' Desire",
+        "duration": "6:04"
+      }
+    ]
+  },
+  {
     "id": 2375646,
     "title": "In Rock",
     "artist": "Deep Purple",
@@ -890,6 +1912,105 @@
       }
     ],
     "spotify_link": "https://open.spotify.com/album/5dheIlcMhUWRnYTCz1Xexn"
+  },
+  {
+    "id": 1702329,
+    "title": "Sonic Zoom: Multi-Faceted Improvisation",
+    "artist": "Deep Purple",
+    "year": 0,
+    "cover": "https://i.discogs.com/Dpvwpif-fhACm-wunuXvaq_FBJT6W2YxZ9dubtk4aTM/rs:fit/g:sm/q:90/h:474/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MDIz/MjktMTQwMDQ3MjU2/OC05NjkzLmpwZWc.jpeg",
+    "tracks": [
+      {
+        "name": "Black Night",
+        "duration": null
+      },
+      {
+        "name": "Paint It Black",
+        "duration": null
+      },
+      {
+        "name": "Untitled",
+        "duration": null
+      }
+    ]
+  },
+  {
+    "id": 104193,
+    "title": "Love In Itself∙ 2 ∙ 3 And Live Tracks",
+    "artist": "Depeche Mode",
+    "year": 1985,
+    "cover": "https://i.discogs.com/n_-p27Dj1QYtun_8F_nkLt24aICZD8NI9EA13rWvUGY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDE5/My0xMTU2MTUyNjk0/LmpwZWc.jpeg",
+    "tracks": [
+      {
+        "name": "Love In Itself ∙ 2 (Original 7 Inch Mix)",
+        "duration": "4:18"
+      },
+      {
+        "name": "Love In Itself ∙ 3 (Original 12 Inch Mix)",
+        "duration": "7:15"
+      },
+      {
+        "name": "Just Can't Get Enough",
+        "duration": "5:31"
+      },
+      {
+        "name": "A Photograph Of You",
+        "duration": "3:35"
+      },
+      {
+        "name": "Shout",
+        "duration": "4:33"
+      },
+      {
+        "name": "Photographic",
+        "duration": "3:56"
+      }
+    ]
+  },
+  {
+    "id": 168305,
+    "title": "Some Great Reward",
+    "artist": "Depeche Mode",
+    "year": 1984,
+    "cover": "https://i.discogs.com/Y9dywQ7t4tXPW-mAtk_zCiEUQvlufd00Ffc7f4dOdv8/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODMw/NS0xNDI5NjQwODcw/LTQ5OTIuanBlZw.jpeg",
+    "tracks": [
+      {
+        "name": "Something To Do",
+        "duration": "3:45"
+      },
+      {
+        "name": "Lie To Me",
+        "duration": "5:04"
+      },
+      {
+        "name": "People Are People",
+        "duration": "3:52"
+      },
+      {
+        "name": "It Doesn't Matter",
+        "duration": "4:45"
+      },
+      {
+        "name": "Stories Of Old",
+        "duration": "3:12"
+      },
+      {
+        "name": "Somebody",
+        "duration": "4:26"
+      },
+      {
+        "name": "Master And Servant",
+        "duration": "4:13"
+      },
+      {
+        "name": "If You Want To",
+        "duration": "4:40"
+      },
+      {
+        "name": "Blasphemous Rumours",
+        "duration": "6:21"
+      }
+    ]
   },
   {
     "id": 795319,
@@ -1042,6 +2163,299 @@
     "spotify_link": "https://open.spotify.com/album/74D7apTRKmj8K2gIq4B5gK"
   },
   {
+    "id": 552516,
+    "title": "Bad Girls",
+    "artist": "Donna Summer",
+    "year": 1979,
+    "cover": "https://i.discogs.com/KjK2PQ1DaagFb8BL_QkvX3TBXV0EMAUMYR2VAWDkS38/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1MjUx/Ni0xNDg5MjQ2NDg1/LTczNjIuanBlZw.jpeg",
+    "tracks": [
+      {
+        "name": "Hot Stuff",
+        "duration": null
+      },
+      {
+        "name": "Bad Girls",
+        "duration": null
+      },
+      {
+        "name": "Love Will Always Find You",
+        "duration": null
+      },
+      {
+        "name": "Walk Away",
+        "duration": null
+      },
+      {
+        "name": "Dim All The Lights",
+        "duration": null
+      },
+      {
+        "name": "Journey To The Centre Of Your Heart",
+        "duration": null
+      },
+      {
+        "name": "One Night In A Lifetime",
+        "duration": null
+      },
+      {
+        "name": "Can't Get To Sleep At Night",
+        "duration": null
+      },
+      {
+        "name": "On My Honour",
+        "duration": null
+      },
+      {
+        "name": "There Will Always Be A You",
+        "duration": null
+      },
+      {
+        "name": "All Through The Night",
+        "duration": null
+      },
+      {
+        "name": "My Baby Understands",
+        "duration": null
+      },
+      {
+        "name": "Our Love",
+        "duration": null
+      },
+      {
+        "name": "Lucky",
+        "duration": null
+      },
+      {
+        "name": "Sunset People",
+        "duration": null
+      }
+    ]
+  },
+  {
+    "id": 2269386,
+    "title": "Livin' On The Fault Line",
+    "artist": "The Doobie Brothers",
+    "year": 1977,
+    "cover": "https://i.discogs.com/s5PZvQIU9Gby3R6MjUwRZC-sQ7aHgsKmofuDU6xoQic/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNjkz/ODYtMTcxMzEwMjc4/NS00NTE2LmpwZWc.jpeg",
+    "tracks": [
+      {
+        "name": "You're Made That Way",
+        "duration": "3:30"
+      },
+      {
+        "name": "Echoes Of Love",
+        "duration": "2:57"
+      },
+      {
+        "name": "Little Darling (I Need You)",
+        "duration": "3:24"
+      },
+      {
+        "name": "You Belong To Me",
+        "duration": "3:04"
+      },
+      {
+        "name": "Livin' On The Fault Line",
+        "duration": "4:42"
+      },
+      {
+        "name": "Nothin' But A Heartache",
+        "duration": "3:05"
+      },
+      {
+        "name": "Chinatown",
+        "duration": "4:55"
+      },
+      {
+        "name": "There's A Light",
+        "duration": "4:12"
+      },
+      {
+        "name": "Need A Lady",
+        "duration": "3:21"
+      },
+      {
+        "name": "Larry The Logger Two-Step",
+        "duration": "1:16"
+      }
+    ]
+  },
+  {
+    "id": 2029084,
+    "title": "Star-Collection",
+    "artist": "The Doobie Brothers",
+    "year": 1974,
+    "cover": "https://i.discogs.com/EBaahoCgN9efXKHLc8houKqWCoFhLRXwLLULfw2ssX0/rs:fit/g:sm/q:90/h:600/w:568/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMjkw/ODQtMTQwODk2Mjcy/OC01NTE2LmpwZWc.jpeg",
+    "tracks": [
+      {
+        "name": "Nobody",
+        "duration": "3:42"
+      },
+      {
+        "name": "Slippery St. Paul",
+        "duration": "2:14"
+      },
+      {
+        "name": "Greenwood Creek",
+        "duration": "3:04"
+      },
+      {
+        "name": "It Won't Be Right",
+        "duration": "2:38"
+      },
+      {
+        "name": "Travelin' Man",
+        "duration": "4:25"
+      },
+      {
+        "name": "Fellin' Down Farther",
+        "duration": "4:20"
+      },
+      {
+        "name": "The Master",
+        "duration": "3:30"
+      },
+      {
+        "name": "Growin' A Little Each Day",
+        "duration": "3:20"
+      },
+      {
+        "name": "Beehive State",
+        "duration": "2:42"
+      },
+      {
+        "name": "Closer Every Day",
+        "duration": "4:19"
+      },
+      {
+        "name": "Chicago",
+        "duration": "1:40"
+      }
+    ]
+  },
+  {
+    "id": 6980003,
+    "title": "What Were Once Vices Are Now Habits",
+    "artist": "The Doobie Brothers",
+    "year": 0,
+    "cover": "https://i.discogs.com/qg2bb5RN5OT1x6VNcSUbScyiuhSqz3tJfbMrxgOvb0o/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5ODAw/MDMtMTQzMDkwMDEz/NS04NjY5LmpwZWc.jpeg",
+    "tracks": [
+      {
+        "name": "Song To See You Through",
+        "duration": "4:06"
+      },
+      {
+        "name": "Spirit",
+        "duration": "3:15"
+      },
+      {
+        "name": "Pursuit On 53rd. St.",
+        "duration": "2:33"
+      },
+      {
+        "name": "Black Water",
+        "duration": "4:17"
+      },
+      {
+        "name": "Eyes Of Silver",
+        "duration": "2:57"
+      },
+      {
+        "name": "Road Angel",
+        "duration": "4:49"
+      },
+      {
+        "name": "You Just Can't Stop It",
+        "duration": "3:28"
+      },
+      {
+        "name": "Tell Me What You Want (And I'll Give You What You Need)",
+        "duration": "3:53"
+      },
+      {
+        "name": "Down In The Track",
+        "duration": "4:15"
+      },
+      {
+        "name": "Another Park, Another Sunday",
+        "duration": "4:27"
+      },
+      {
+        "name": "Daughters Of The Sea",
+        "duration": "4:29"
+      },
+      {
+        "name": "Flying Cloud",
+        "duration": "2:00"
+      }
+    ]
+  },
+  {
+    "id": 2956191,
+    "title": "Live In Carré, Amsterdam",
+    "artist": "The Dubliners",
+    "year": 0,
+    "cover": "https://i.discogs.com/mXQZ7SNoZ3g2nkHm8DC8YKln5u3PasSdACgdFQqd2fo/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NTYx/OTEtMTMwOTAyNjQ3/OS5qcGVn.jpeg",
+    "tracks": [
+      {
+        "name": "Sweets Of May",
+        "duration": null
+      },
+      {
+        "name": "Dicey Reilly",
+        "duration": null
+      },
+      {
+        "name": "Song For Ireland",
+        "duration": null
+      },
+      {
+        "name": "Building Up And Tearing England Down",
+        "duration": null
+      },
+      {
+        "name": "Dunphy's Hornpipe, Leitrim Fancy, Down The Broom",
+        "duration": null
+      },
+      {
+        "name": "Dirty Old Town",
+        "duration": null
+      },
+      {
+        "name": "The Old Triangle",
+        "duration": null
+      },
+      {
+        "name": "Whiskey In The Jar",
+        "duration": null
+      },
+      {
+        "name": "Waterford Boys, The Humours Of Scariff, The Flannel Jacket",
+        "duration": null
+      },
+      {
+        "name": "Galway Races",
+        "duration": null
+      },
+      {
+        "name": "The Prodigal Son",
+        "duration": null
+      },
+      {
+        "name": "The Sick Note",
+        "duration": null
+      },
+      {
+        "name": "The Wild Rover",
+        "duration": null
+      },
+      {
+        "name": "Seven Drunken Nights",
+        "duration": null
+      }
+    ]
+  },
+  {
     "id": 1934367,
     "title": "Hotel California",
     "artist": "Eagles",
@@ -1086,6 +2500,55 @@
       }
     ],
     "spotify_link": "https://open.spotify.com/album/2widuo17g5CEC66IbzveRu"
+  },
+  {
+    "id": 379798,
+    "title": "The Long Run",
+    "artist": "Eagles",
+    "year": 1979,
+    "cover": "https://i.discogs.com/b0iyeXIqFZLzqkWRUc2V4KiqErDyl-c2yEnYWf-0VxA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3OTc5/OC0xMzEzODkxMjQx/LmpwZWc.jpeg",
+    "tracks": [
+      {
+        "name": "The Long Run",
+        "duration": "3:42"
+      },
+      {
+        "name": "I Can't Tell You Why",
+        "duration": "4:56"
+      },
+      {
+        "name": "In The City",
+        "duration": "3:46"
+      },
+      {
+        "name": "The Disco Strangler",
+        "duration": "2:46"
+      },
+      {
+        "name": "King Of Hollywood",
+        "duration": "6:28"
+      },
+      {
+        "name": "Heartache Tonight",
+        "duration": "4:26"
+      },
+      {
+        "name": "Those Shoes",
+        "duration": "4:56"
+      },
+      {
+        "name": "Teenage Jail",
+        "duration": "3:44"
+      },
+      {
+        "name": "The Greeks Don't Want No Freaks",
+        "duration": "2:20"
+      },
+      {
+        "name": "The Sad Café",
+        "duration": "5:25"
+      }
+    ]
   },
   {
     "id": 90616,
@@ -1142,6 +2605,47 @@
     "spotify_link": "https://open.spotify.com/album/0w0eT42Gyq6G9yXB0RirWh"
   },
   {
+    "id": 205840,
+    "title": "Last Days And Time",
+    "artist": "Earth, Wind & Fire",
+    "year": 1972,
+    "cover": "https://i.discogs.com/A0tYJoVgHk_0WXc2-2BCXuV62HpHjjKh0S5IheP1DCk/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTg0/MC0xMzcxNDEwMzU2/LTQ4MzUuanBlZw.jpeg",
+    "tracks": [
+      {
+        "name": "Time Is On Your Side",
+        "duration": null
+      },
+      {
+        "name": "They Don't See",
+        "duration": null
+      },
+      {
+        "name": "Make It With You",
+        "duration": null
+      },
+      {
+        "name": "Power",
+        "duration": null
+      },
+      {
+        "name": "Remember The Children",
+        "duration": null
+      },
+      {
+        "name": "Where Have All The Flowers Gone",
+        "duration": null
+      },
+      {
+        "name": "I'd Rather Have You",
+        "duration": null
+      },
+      {
+        "name": "Mom",
+        "duration": null
+      }
+    ]
+  },
+  {
     "id": 96655,
     "title": "Raise!",
     "artist": "Earth, Wind & Fire",
@@ -1186,6 +2690,55 @@
       }
     ],
     "spotify_link": "https://open.spotify.com/album/1hj1SYbJYdXloRiSjsCLXg"
+  },
+  {
+    "id": 4396109,
+    "title": "Ekseption",
+    "artist": "Ekseption",
+    "year": 0,
+    "cover": "https://i.discogs.com/uzEWaUdD47lk-7wy7jClAhaJZ4y0kZfp3bJb1zs1pXI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzOTYx/MDktMTM2Mzc3MDAx/NS04ODQzLmpwZWc.jpeg",
+    "tracks": [
+      {
+        "name": "The 5th",
+        "duration": null
+      },
+      {
+        "name": "Dharma For One",
+        "duration": null
+      },
+      {
+        "name": "Little X Plus",
+        "duration": null
+      },
+      {
+        "name": "Sabre Dance",
+        "duration": null
+      },
+      {
+        "name": "Air",
+        "duration": null
+      },
+      {
+        "name": "Ritual Fire Dance",
+        "duration": null
+      },
+      {
+        "name": "Rhapsody In Blue",
+        "duration": null
+      },
+      {
+        "name": "This Here",
+        "duration": null
+      },
+      {
+        "name": "Dance Macabre Opus 40",
+        "duration": null
+      },
+      {
+        "name": "Canvas",
+        "duration": null
+      }
+    ]
   },
   {
     "id": 548079,
@@ -1312,6 +2865,153 @@
     "spotify_link": "https://open.spotify.com/album/3usnShwygMXVZB4IV5dwnU"
   },
   {
+    "id": 479778,
+    "title": "Nightout",
+    "artist": "Ellen Foley",
+    "year": 1979,
+    "cover": "https://i.discogs.com/LcxEoNMfKSEsXLgDYwSYzRVekYW6ZvuWFqqqTUkqnlY/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3OTc3/OC0xMzczNjU4ODc0/LTU3NjQuanBlZw.jpeg",
+    "tracks": [
+      {
+        "name": "We Belong To The Night",
+        "duration": "5:18"
+      },
+      {
+        "name": "What's A Matter Baby",
+        "duration": "3:37"
+      },
+      {
+        "name": "Stupid Girl",
+        "duration": "4:06"
+      },
+      {
+        "name": "Night Out",
+        "duration": "5:09"
+      },
+      {
+        "name": "Thunder And Rain",
+        "duration": "3:02"
+      },
+      {
+        "name": "Sad Song",
+        "duration": "3:30"
+      },
+      {
+        "name": "Young Lust",
+        "duration": "5:27"
+      },
+      {
+        "name": "Hideaway",
+        "duration": "3:42"
+      },
+      {
+        "name": "Don't Let Go",
+        "duration": "3:56"
+      }
+    ]
+  },
+  {
+    "id": 744836,
+    "title": "A Single Man",
+    "artist": "Elton John",
+    "year": 1978,
+    "cover": "https://i.discogs.com/FX69a_dOC4pCBgvRR_4csnrdrkMhN9bF9ExaAjjfXb4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0NDgz/Ni0xMTU0NDYwNzQw/LmpwZWc.jpeg",
+    "tracks": [
+      {
+        "name": "Shine On Through",
+        "duration": "3:40"
+      },
+      {
+        "name": "Return To Paradise",
+        "duration": "4:12"
+      },
+      {
+        "name": "I Don't Care",
+        "duration": "4:20"
+      },
+      {
+        "name": "Big Dipper",
+        "duration": "4:00"
+      },
+      {
+        "name": "It Ain't Gonna Be Easy",
+        "duration": "8:23"
+      },
+      {
+        "name": "Part-Time Love",
+        "duration": "3:12"
+      },
+      {
+        "name": "Georgia",
+        "duration": "4:47"
+      },
+      {
+        "name": "Shooting Star",
+        "duration": "2:43"
+      },
+      {
+        "name": "Madness",
+        "duration": "6:07"
+      },
+      {
+        "name": "Reverie",
+        "duration": "0:52"
+      },
+      {
+        "name": "Song For Guy",
+        "duration": "6:34"
+      }
+    ]
+  },
+  {
+    "id": 2205129,
+    "title": "Elton John's Greatest Hits Volume II",
+    "artist": "Elton John",
+    "year": 1977,
+    "cover": "https://i.discogs.com/Yl3PKt0da4m3N2Ij32seiVZcEmwBwlSACh0GXLcxgsE/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMDUx/MjktMTM5NjM1ODkz/My0xODkxLmpwZWc.jpeg",
+    "tracks": [
+      {
+        "name": "The Bitch Is Back",
+        "duration": "3:39"
+      },
+      {
+        "name": "Lucy In The Sky",
+        "duration": "5:57"
+      },
+      {
+        "name": "Sorry Seems To Be The Hardest Word",
+        "duration": "3:45"
+      },
+      {
+        "name": "Don't Go Breaking My Heart",
+        "duration": "4:23"
+      },
+      {
+        "name": "Someone Saved My Life Tonight",
+        "duration": "6:43"
+      },
+      {
+        "name": "Philadelphia Freedom",
+        "duration": "5:20"
+      },
+      {
+        "name": "Island Girl",
+        "duration": "3:43"
+      },
+      {
+        "name": "Grow Some Funk Of Your Own",
+        "duration": "4:16"
+      },
+      {
+        "name": "Bennie And The Jets",
+        "duration": "5:11"
+      },
+      {
+        "name": "Pinball Wizard",
+        "duration": "5:11"
+      }
+    ]
+  },
+  {
     "id": 15768466,
     "title": "London & New York",
     "artist": "Elton John",
@@ -1360,6 +3060,128 @@
       }
     ],
     "spotify_link": "https://open.spotify.com/album/0OmYuz9hwn1XoqmDaU0yJ7"
+  },
+  {
+    "id": 1200391,
+    "title": "Pictures At An Exhibition",
+    "artist": "Emerson, Lake & Palmer",
+    "year": 1971,
+    "cover": "https://i.discogs.com/4LCPqVrwKITsnMa1rR6yd6Zeoh6toz1SUbu2GGb6kv4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDAz/OTEtMTMwMDkxNDE5/OC5qcGVn.jpeg",
+    "tracks": [
+      {
+        "name": "Promenade",
+        "duration": null
+      },
+      {
+        "name": "The Gnome",
+        "duration": null
+      },
+      {
+        "name": "Promenade",
+        "duration": null
+      },
+      {
+        "name": "The Sage",
+        "duration": null
+      },
+      {
+        "name": "The Old Castle",
+        "duration": null
+      },
+      {
+        "name": "Blues Variation",
+        "duration": null
+      },
+      {
+        "name": "Promenade",
+        "duration": null
+      },
+      {
+        "name": "The Hut Of Baba Yaga",
+        "duration": null
+      },
+      {
+        "name": "The Curse Of Baba Yaga",
+        "duration": null
+      },
+      {
+        "name": "The Hut Of Baba Yaga",
+        "duration": null
+      },
+      {
+        "name": "The Great Gates Of Kiev",
+        "duration": null
+      },
+      {
+        "name": "The End",
+        "duration": null
+      },
+      {
+        "name": "Nutrocker",
+        "duration": null
+      }
+    ]
+  },
+  {
+    "id": 598554,
+    "title": "Het Gebeurde In Het Westen",
+    "artist": "Ennio Morricone",
+    "year": 1973,
+    "cover": "https://i.discogs.com/tpT9SbGAOiv9W9Z8JED-wI0ZlMZkb1GzusQt1AWSf8U/rs:fit/g:sm/q:90/h:541/w:544/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5ODU1/NC0xMzg1NTc0MDcx/LTYyNzIuanBlZw.jpeg",
+    "tracks": [
+      {
+        "name": "Het Gebeurde In Het Westen = Il Était Une Fois Dans L'Ouest",
+        "duration": "3:37"
+      },
+      {
+        "name": "Come Una Sentenza",
+        "duration": "3:07"
+      },
+      {
+        "name": "Addio A Cheyenne",
+        "duration": "2:38"
+      },
+      {
+        "name": "L'Attentato",
+        "duration": "4:40"
+      },
+      {
+        "name": "La Posada No.1",
+        "duration": "1:39"
+      },
+      {
+        "name": "La Posada No.2",
+        "duration": "1:32"
+      },
+      {
+        "name": "L'Homme A L'Harmonica",
+        "duration": "3:25"
+      },
+      {
+        "name": "In Una Stanza Con Poca Luce",
+        "duration": "5:06"
+      },
+      {
+        "name": "L'Orchestraccia",
+        "duration": "2:22"
+      },
+      {
+        "name": "L'Uomo",
+        "duration": "1:06"
+      },
+      {
+        "name": "L'America Di Jill",
+        "duration": "2:46"
+      },
+      {
+        "name": "L'Ultimo Rantolo",
+        "duration": "1:45"
+      },
+      {
+        "name": "Finale",
+        "duration": "4:08"
+      }
+    ]
   },
   {
     "id": 91781,
@@ -1466,6 +3288,605 @@
     "spotify_link": "https://open.spotify.com/album/0J43YxxLFPZxIrCd12LRuN"
   },
   {
+    "id": 455109,
+    "title": "Fleetwood Mac Greatest Hits",
+    "artist": "Fleetwood Mac",
+    "year": 1971,
+    "cover": "https://i.discogs.com/D3seanncftcvT9ZJbsyKtSFbkL70jKssnXMBwYlA0tc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1NTEw/OS0xNDA1MTk4NDUz/LTQ1MzIuanBlZw.jpeg",
+    "tracks": [
+      {
+        "name": "The Green Manalishi (With The Two Pronged Crown)",
+        "duration": "4:34"
+      },
+      {
+        "name": "Oh Well - Part 1",
+        "duration": "3:28"
+      },
+      {
+        "name": "Oh Well - Part 2",
+        "duration": "5:38"
+      },
+      {
+        "name": "Shake Your Money Maker",
+        "duration": "2:54"
+      },
+      {
+        "name": "Need Your Love So Bad",
+        "duration": "3:54"
+      },
+      {
+        "name": "Rattle Snake Shake",
+        "duration": "3:30"
+      },
+      {
+        "name": "Dragonfly",
+        "duration": "2:45"
+      },
+      {
+        "name": "Black Magic Woman",
+        "duration": "2:50"
+      },
+      {
+        "name": "Albatross",
+        "duration": "3:08"
+      },
+      {
+        "name": "Man Of The World",
+        "duration": "2:50"
+      },
+      {
+        "name": "Stop Messin' Round",
+        "duration": "2:18"
+      },
+      {
+        "name": "Love That Burns",
+        "duration": "5:05"
+      }
+    ]
+  },
+  {
+    "id": 526351,
+    "title": "Rumours",
+    "artist": "Fleetwood Mac",
+    "year": 1977,
+    "cover": "https://i.discogs.com/X2kgbJ7rhk0HNH39Nep8tTD_Fly6pmHk2KR_Lptjk88/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyNjM1/MS0xMjkyMjkzNjg1/LmpwZWc.jpeg",
+    "tracks": [
+      {
+        "name": "Second Hand News",
+        "duration": "2:43"
+      },
+      {
+        "name": "Dreams",
+        "duration": "4:14"
+      },
+      {
+        "name": "Never Going Back Again",
+        "duration": "2:02"
+      },
+      {
+        "name": "Don't Stop",
+        "duration": "3:11"
+      },
+      {
+        "name": "Go Your Own Way",
+        "duration": "3:38"
+      },
+      {
+        "name": "Songbird",
+        "duration": "3:20"
+      },
+      {
+        "name": "The Chain",
+        "duration": "4:28"
+      },
+      {
+        "name": "You Make Loving Fun",
+        "duration": "3:31"
+      },
+      {
+        "name": "I Don't Want To Know",
+        "duration": "3:11"
+      },
+      {
+        "name": "Oh Daddy",
+        "duration": "3:54"
+      },
+      {
+        "name": "Gold Dust Woman",
+        "duration": "4:51"
+      }
+    ]
+  },
+  {
+    "id": 3352198,
+    "title": "Hair (Original Soundtrack Recording)",
+    "artist": "Galt MacDermot",
+    "year": 1979,
+    "cover": "https://i.discogs.com/vOI8bv_rXivcdVD_5t8euFOzaEt83i4vQiWT-Gq-lzU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNTIx/OTgtMTMzMTg5MTcz/Ny5qcGVn.jpeg",
+    "tracks": [
+      {
+        "name": "Aquarius",
+        "duration": "4:47"
+      },
+      {
+        "name": "Sodomy",
+        "duration": "1:29"
+      },
+      {
+        "name": "Donna / Hashish",
+        "duration": "4:20"
+      },
+      {
+        "name": "Colored Spade",
+        "duration": "1:33"
+      },
+      {
+        "name": "Manchester",
+        "duration": "1:57"
+      },
+      {
+        "name": "Abie Baby / Fourscore",
+        "duration": "2:43"
+      },
+      {
+        "name": "I'm Black / Ain't Got No",
+        "duration": "2:24"
+      },
+      {
+        "name": "Air",
+        "duration": "1:26"
+      },
+      {
+        "name": "Party Music",
+        "duration": "3:25"
+      },
+      {
+        "name": "My Conviction",
+        "duration": "1:47"
+      },
+      {
+        "name": "I Got Life",
+        "duration": "2:15"
+      },
+      {
+        "name": "Frank Mills",
+        "duration": "2:39"
+      },
+      {
+        "name": "Hair",
+        "duration": "2:42"
+      },
+      {
+        "name": "L.B.J. (Initials)",
+        "duration": "1:07"
+      },
+      {
+        "name": "Electric Blues / Old Fashioned Melody",
+        "duration": "3:53"
+      },
+      {
+        "name": "Hare Krishna",
+        "duration": "3:24"
+      },
+      {
+        "name": "Where Do I Go?",
+        "duration": "2:48"
+      },
+      {
+        "name": "Black Boys",
+        "duration": "1:11"
+      },
+      {
+        "name": "White Boys",
+        "duration": "2:35"
+      },
+      {
+        "name": "Walking In Space",
+        "duration": "6:13"
+      },
+      {
+        "name": "Easy To Be Hard",
+        "duration": "3:39"
+      },
+      {
+        "name": "3-5-0-0",
+        "duration": "3:49"
+      },
+      {
+        "name": "Good Morning Starshine",
+        "duration": "2:24"
+      },
+      {
+        "name": "What A Piece Of Work Is Man",
+        "duration": "1:39"
+      },
+      {
+        "name": "Somebody To Love",
+        "duration": "4:12"
+      },
+      {
+        "name": "Don't Put It Down",
+        "duration": "2:25"
+      },
+      {
+        "name": "The Flesh Failures / Let The Sunshine In",
+        "duration": "6:04"
+      }
+    ]
+  },
+  {
+    "id": 1505278,
+    "title": "The Light Of Smiles",
+    "artist": "Gary Wright",
+    "year": 1977,
+    "cover": "https://i.discogs.com/rR0pMUXxyYWSpBkz1c3rvn22kyRxr0h2oLJUiejWrS4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDUy/NzgtMTUwOTEzNzY5/Mi0zOTUzLmpwZWc.jpeg",
+    "tracks": [
+      {
+        "name": "Water Sign",
+        "duration": "4:32"
+      },
+      {
+        "name": "Time Machine",
+        "duration": "3:40"
+      },
+      {
+        "name": "I Am The Sky (Paramahansa Yogananda)",
+        "duration": "0:40"
+      },
+      {
+        "name": "Who Am I",
+        "duration": "3:15"
+      },
+      {
+        "name": "Silent Fury",
+        "duration": "4:20"
+      },
+      {
+        "name": "Phantom Writer",
+        "duration": "3:29"
+      },
+      {
+        "name": "The Light Of Smiles",
+        "duration": "3:26"
+      },
+      {
+        "name": "I'm Alright",
+        "duration": "3:35"
+      },
+      {
+        "name": "Empty Inside",
+        "duration": "3:30"
+      },
+      {
+        "name": "Are You Weepin'",
+        "duration": "4:02"
+      },
+      {
+        "name": "Child Of Light",
+        "duration": "4:56"
+      }
+    ]
+  },
+  {
+    "id": 5988689,
+    "title": "Gavin Christopher",
+    "artist": "Gavin Christopher",
+    "year": 1979,
+    "cover": "https://i.discogs.com/_s7FPznljhnnLJ_VHgz_BIP8JQcezatPF5U56S2ZOC0/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5ODg2/ODktMTQwODE5NDYy/Mi0zNTkzLmpwZWc.jpeg",
+    "tracks": [
+      {
+        "name": "Feelin' The Love",
+        "duration": null
+      },
+      {
+        "name": "Takin' Your Love Away",
+        "duration": null
+      },
+      {
+        "name": "What Can I Say (What Can I Do)",
+        "duration": null
+      },
+      {
+        "name": "Dancin' Up A Storm",
+        "duration": null
+      },
+      {
+        "name": "We're In Love",
+        "duration": null
+      },
+      {
+        "name": "This Side Of Heaven",
+        "duration": null
+      },
+      {
+        "name": "Lady Mysterious",
+        "duration": null
+      },
+      {
+        "name": "We'll Always Be Together",
+        "duration": null
+      },
+      {
+        "name": "Be Your Own Best Friend",
+        "duration": null
+      }
+    ]
+  },
+  {
+    "id": 1644802,
+    "title": "Gavin Christopher",
+    "artist": "Gavin Christopher",
+    "year": 1979,
+    "cover": "https://i.discogs.com/FdFJLMOBoRqV3MGG-45w4bcW_0lxiUKxhc_M_dWOFPI/rs:fit/g:sm/q:90/h:590/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NDQ4/MDItMTQxNjIyMDA5/NS05MjU4LmpwZWc.jpeg",
+    "tracks": [
+      {
+        "name": "Feelin' The Love",
+        "duration": null
+      },
+      {
+        "name": "Takin' Your Love Away",
+        "duration": null
+      },
+      {
+        "name": "What Can I Say (What Can I Do)",
+        "duration": null
+      },
+      {
+        "name": "Dancin' Up A Storm",
+        "duration": null
+      },
+      {
+        "name": "We're In Love",
+        "duration": null
+      },
+      {
+        "name": "This Side Of Heaven",
+        "duration": null
+      },
+      {
+        "name": "Lady Mysterious",
+        "duration": null
+      },
+      {
+        "name": "We'll Always Be Together",
+        "duration": null
+      },
+      {
+        "name": "Be Your Own Best Friend",
+        "duration": null
+      }
+    ]
+  },
+  {
+    "id": 4458426,
+    "title": "A Trick Of The Tail",
+    "artist": "Genesis",
+    "year": 1976,
+    "cover": "https://i.discogs.com/hBxGVUeEV6ky4pQgSASGSxZEc3Dybsen5D0EfUD9s7E/rs:fit/g:sm/q:90/h:564/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NTg0/MjYtMTQzMzAxMTg4/NS0yNjkxLmpwZWc.jpeg",
+    "tracks": [
+      {
+        "name": "Dance On A Volcano",
+        "duration": "5:53"
+      },
+      {
+        "name": "Entangled",
+        "duration": "6:26"
+      },
+      {
+        "name": "Squonk",
+        "duration": "6:27"
+      },
+      {
+        "name": "Mad Man Moon",
+        "duration": "7:33"
+      },
+      {
+        "name": "Robbery, Assault And Battery",
+        "duration": "6:14"
+      },
+      {
+        "name": "Ripples",
+        "duration": "8:04"
+      },
+      {
+        "name": "A Trick Of The Tail",
+        "duration": "4:34"
+      },
+      {
+        "name": "Los Endos",
+        "duration": "5:45"
+      }
+    ]
+  },
+  {
+    "id": 799334,
+    "title": "Live",
+    "artist": "Genesis",
+    "year": 1973,
+    "cover": "https://i.discogs.com/_zrGDxBZkmVRyQymY0IzGTqZjmnj6zQq51zAGybwv4Y/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5OTMz/NC0xMTU5OTgyNzI5/LmpwZWc.jpeg",
+    "tracks": [
+      {
+        "name": "Watcher Of The Skies",
+        "duration": "8:10"
+      },
+      {
+        "name": "Get 'Em Out By Friday",
+        "duration": "8:58"
+      },
+      {
+        "name": "The Return Of The Giant Hogweed",
+        "duration": "8:07"
+      },
+      {
+        "name": "Musical Box",
+        "duration": "10:33"
+      },
+      {
+        "name": "The Knife",
+        "duration": "9:12"
+      }
+    ]
+  },
+  {
+    "id": 6019594,
+    "title": "Gilbert O'Sullivan",
+    "artist": "Gilbert O'Sullivan",
+    "year": 0,
+    "cover": "https://i.discogs.com/axhWJiSwx1J8ziPlWP9vbi82V3e9dxEQk72oGc98dbs/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwMTk1/OTQtMTQyMjM1ODMx/My05ODYyLmpwZWc.jpeg",
+    "tracks": [
+      {
+        "name": "Matrimony",
+        "duration": null
+      },
+      {
+        "name": "I'm A Writer Not A Fighter",
+        "duration": null
+      },
+      {
+        "name": "Can't Get You To Love Me",
+        "duration": null
+      },
+      {
+        "name": "January Git",
+        "duration": null
+      },
+      {
+        "name": "Who Knows, Perhaps Maybe",
+        "duration": null
+      },
+      {
+        "name": "Get Down",
+        "duration": null
+      },
+      {
+        "name": "Clair",
+        "duration": null
+      },
+      {
+        "name": "Nothing Rhymed",
+        "duration": null
+      },
+      {
+        "name": "The Marriage Machine",
+        "duration": null
+      },
+      {
+        "name": "A Friend Of Mine",
+        "duration": null
+      },
+      {
+        "name": "Permissive Twit",
+        "duration": null
+      },
+      {
+        "name": "Alone Again (Naturally)",
+        "duration": null
+      }
+    ]
+  },
+  {
+    "id": 1533207,
+    "title": "Before: Little River Band",
+    "artist": "Glenn Shorrock, Beeb Birtles, Graham Goble",
+    "year": 1980,
+    "cover": "https://i.discogs.com/ZrmDNmkseE1V2F8T4DCSJaaexyXjWATEtEgx_umY3Ns/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzMy/MDctMTM5NjAwMzYw/NS0xNTEwLmpwZWc.jpeg",
+    "tracks": [
+      {
+        "name": "Ford's Bridge",
+        "duration": null
+      },
+      {
+        "name": "Kings Of The World",
+        "duration": null
+      },
+      {
+        "name": "Will I",
+        "duration": null
+      },
+      {
+        "name": "Can't Let Go Of This Feeling",
+        "duration": null
+      },
+      {
+        "name": "Feel Alone",
+        "duration": null
+      },
+      {
+        "name": "Fool's Gold",
+        "duration": null
+      },
+      {
+        "name": "Arkansas Grass",
+        "duration": null
+      },
+      {
+        "name": "Where In The World",
+        "duration": null
+      },
+      {
+        "name": "A Little Ray Of Sunshine",
+        "duration": null
+      },
+      {
+        "name": "All Through The Day",
+        "duration": null
+      },
+      {
+        "name": "Yesterday, Today And Tomorrow",
+        "duration": null
+      }
+    ]
+  },
+  {
+    "id": 2757945,
+    "title": "Island Life",
+    "artist": "Grace Jones",
+    "year": 1985,
+    "cover": "https://i.discogs.com/CeZLIEGCag7eq7t8W0xsDRKJbeG_Bq3pKiJb83zF2Qg/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NTc5/NDUtMTY3NDY2MTg4/MC00ODQ2LmpwZWc.jpeg",
+    "tracks": [
+      {
+        "name": "La Vie En Rose",
+        "duration": null
+      },
+      {
+        "name": "I Need A Man",
+        "duration": null
+      },
+      {
+        "name": "Do Or Die",
+        "duration": null
+      },
+      {
+        "name": "Private Life",
+        "duration": null
+      },
+      {
+        "name": "I've Seen That Face Before (Libertango)",
+        "duration": null
+      },
+      {
+        "name": "Love Is The Drug",
+        "duration": null
+      },
+      {
+        "name": "Pull Up To The Bumper",
+        "duration": null
+      },
+      {
+        "name": "Walking In The Rain",
+        "duration": null
+      },
+      {
+        "name": "My Jamaican Guy",
+        "duration": null
+      },
+      {
+        "name": "Slave To The Rhythm",
+        "duration": null
+      }
+    ]
+  },
+  {
     "id": 1893743,
     "title": "Grand Funk",
     "artist": "Grand Funk Railroad",
@@ -1506,6 +3927,365 @@
       }
     ],
     "spotify_link": "https://open.spotify.com/album/4xVHpNxZXyE6WGL99GYdBQ"
+  },
+  {
+    "id": 432609,
+    "title": "Back To 78",
+    "artist": "Gruppo Sportivo",
+    "year": 1978,
+    "cover": "https://i.discogs.com/s-MaatP5IPFdCiesyKPNPcOaZGWZiER87aG5kLzfcno/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzMjYw/OS0xMzY0NzE5ODk1/LTUxMjIuanBlZw.jpeg",
+    "tracks": [
+      {
+        "name": "Hey Girl",
+        "duration": null
+      },
+      {
+        "name": "Bernadette",
+        "duration": null
+      },
+      {
+        "name": "P.S. 78",
+        "duration": null
+      },
+      {
+        "name": "Tokyo",
+        "duration": null
+      },
+      {
+        "name": "I Said No!",
+        "duration": null
+      },
+      {
+        "name": "Real Teeth Are Out",
+        "duration": null
+      },
+      {
+        "name": "Are You Ready?",
+        "duration": null
+      },
+      {
+        "name": "The Booby-Trap Boogie",
+        "duration": null
+      },
+      {
+        "name": "Blah Blah Magazines",
+        "duration": null
+      },
+      {
+        "name": "One Way Love (From Me To You)",
+        "duration": null
+      },
+      {
+        "name": "I'm A Rocket",
+        "duration": null
+      },
+      {
+        "name": "Shave",
+        "duration": null
+      },
+      {
+        "name": "The Pogo Never Stops",
+        "duration": null
+      },
+      {
+        "name": "Bottom Of The Class",
+        "duration": null
+      },
+      {
+        "name": "The Single",
+        "duration": null
+      }
+    ]
+  },
+  {
+    "id": 564042,
+    "title": "Mooi En Onverslijtbaar",
+    "artist": "Het Goede Doel",
+    "year": 1986,
+    "cover": "https://i.discogs.com/H5zYY6yA9iH-XTxQxzcxLKhZm23eOIYGpFaC0rNMafs/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2NDA0/Mi0xNjMxNTMxMzQ3/LTE4MzYuanBlZw.jpeg",
+    "tracks": [
+      {
+        "name": "Liefde Schijnt Zo Mooi Te Zijn",
+        "duration": "4:46"
+      },
+      {
+        "name": "Zwijgen",
+        "duration": "4:01"
+      },
+      {
+        "name": "Franse Auto",
+        "duration": "3:43"
+      },
+      {
+        "name": "Verliefd",
+        "duration": "3:33"
+      },
+      {
+        "name": "Ik Zit Nergens Mee",
+        "duration": "5:13"
+      },
+      {
+        "name": "Ik Dans, Dus Ik Besta",
+        "duration": "3:45"
+      },
+      {
+        "name": "Atoombom",
+        "duration": "2:40"
+      },
+      {
+        "name": "Net Zo Lief Gefortuneerd",
+        "duration": "3:14"
+      },
+      {
+        "name": "Nooduitgang",
+        "duration": "3:59"
+      },
+      {
+        "name": "Alles Geprobeerd",
+        "duration": "6:22"
+      }
+    ]
+  },
+  {
+    "id": 4479147,
+    "title": "Nutbush City Limits",
+    "artist": "Ike & Tina Turner",
+    "year": 1973,
+    "cover": "https://i.discogs.com/9yBvU4t0lEA6as_-_Io_gEabv9rItGn2EP_51yZbmeU/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0Nzkx/NDctMTUxNjQ1NTcy/Ni0xODkwLmpwZWc.jpeg",
+    "tracks": [
+      {
+        "name": "Nutbush City Limits",
+        "duration": "2:55"
+      },
+      {
+        "name": "Make Me Over",
+        "duration": "3:05"
+      },
+      {
+        "name": "Drift Away",
+        "duration": "3:20"
+      },
+      {
+        "name": "That's My Purpose",
+        "duration": "4:38"
+      },
+      {
+        "name": "Fancy Annie",
+        "duration": "2:20"
+      },
+      {
+        "name": "River Deep, Mountain High",
+        "duration": "4:02"
+      },
+      {
+        "name": "Get It Out Of Your Mind",
+        "duration": "3:20"
+      },
+      {
+        "name": "Daily Bread",
+        "duration": "2:45"
+      },
+      {
+        "name": "You Are My Sunshine",
+        "duration": "3:22"
+      },
+      {
+        "name": "Club Manhattan",
+        "duration": "2:50"
+      }
+    ]
+  },
+  {
+    "id": 619802,
+    "title": "River Deep Mountain High",
+    "artist": "Ike & Tina Turner",
+    "year": 1979,
+    "cover": "https://i.discogs.com/Rc4ibi2RdFM_SatXj-3goscXtMLFcS1e2GCSATYZEsQ/rs:fit/g:sm/q:90/h:440/w:440/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxOTgw/Mi0xMjc5NDYzMDUz/LmpwZWc.jpeg",
+    "tracks": [
+      {
+        "name": "River Deep - Mountain High",
+        "duration": null
+      },
+      {
+        "name": "I Idolize You",
+        "duration": null
+      },
+      {
+        "name": "A Love Like Yours",
+        "duration": null
+      },
+      {
+        "name": "A Fool In Love",
+        "duration": null
+      },
+      {
+        "name": "Make 'Em Wait",
+        "duration": null
+      },
+      {
+        "name": "Hold On Baby",
+        "duration": null
+      },
+      {
+        "name": "I'll Never Need More Than This",
+        "duration": null
+      },
+      {
+        "name": "Save The Last Dance For Me",
+        "duration": null
+      },
+      {
+        "name": "Oh Baby!",
+        "duration": null
+      },
+      {
+        "name": "Every Day I Have To Cry",
+        "duration": null
+      },
+      {
+        "name": "Such A Fool For You",
+        "duration": null
+      },
+      {
+        "name": "It's Gonna Work Out Fine",
+        "duration": null
+      }
+    ]
+  },
+  {
+    "id": 15734219,
+    "title": "In-A-Gadda-Da-Vida",
+    "artist": "Iron Butterfly",
+    "year": 1979,
+    "cover": "https://i.discogs.com/B8FzZzomvvc1bJKSJWsll_UjWEExlreDsuzzngnt11o/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzM0/MjE5LTE1OTY4MDM0/OTMtNzY2Mi5qcGVn.jpeg",
+    "tracks": [
+      {
+        "name": "Most Anything You Want",
+        "duration": "3:41"
+      },
+      {
+        "name": "Flowers And Beads",
+        "duration": "3:05"
+      },
+      {
+        "name": "My Mirage",
+        "duration": "4:51"
+      },
+      {
+        "name": "Termination",
+        "duration": "2:50"
+      },
+      {
+        "name": "Are You Happy",
+        "duration": "4:28"
+      },
+      {
+        "name": "In-A-Gadda-Da-Vida",
+        "duration": "17:05"
+      }
+    ]
+  },
+  {
+    "id": 1160002,
+    "title": "Troubadour",
+    "artist": "J.J. Cale",
+    "year": 1976,
+    "cover": "https://i.discogs.com/lhWnww6yntD_hCohT1twEBqrzwt_FqX5xEvDFU-O2UA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjAw/MDItMTU5OTM4NTU3/My0zNzAwLmpwZWc.jpeg",
+    "tracks": [
+      {
+        "name": "Hey Baby",
+        "duration": null
+      },
+      {
+        "name": "Travelin Light",
+        "duration": null
+      },
+      {
+        "name": "You Got Something",
+        "duration": null
+      },
+      {
+        "name": "Ride Me High",
+        "duration": null
+      },
+      {
+        "name": "Hold On",
+        "duration": null
+      },
+      {
+        "name": "Cocaine",
+        "duration": null
+      },
+      {
+        "name": "I'm A Gypsy Man",
+        "duration": null
+      },
+      {
+        "name": "The Woman That Got Away",
+        "duration": null
+      },
+      {
+        "name": "Super Blue",
+        "duration": null
+      },
+      {
+        "name": "Let Me Do It To You",
+        "duration": null
+      },
+      {
+        "name": "Cherry",
+        "duration": null
+      },
+      {
+        "name": "You Got Me On So Bad",
+        "duration": null
+      }
+    ]
+  },
+  {
+    "id": 1090320,
+    "title": "Greatest Hits",
+    "artist": "James Brown",
+    "year": 0,
+    "cover": "https://i.discogs.com/GrJ86l73bgmPi_wpoUHDlhkmU90WWMUIBWyhDjMTqr8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTAz/MjAtMTM5OTIzMDkz/OC01NTgyLmpwZWc.jpeg",
+    "tracks": [
+      {
+        "name": "Kansas City",
+        "duration": "3:23"
+      },
+      {
+        "name": "I Cried",
+        "duration": "3:34"
+      },
+      {
+        "name": "Hey America (Part 1 & 2)",
+        "duration": "7:14"
+      },
+      {
+        "name": "I'm A Greedy Man (Part 1 & 2)",
+        "duration": "7:21"
+      },
+      {
+        "name": "Papa's Got A Brand New Bag (Part 1 & 2)",
+        "duration": "4:16"
+      },
+      {
+        "name": "Get Up (I Feel Like Being A Sex Machine)  (Part 1 & 2)",
+        "duration": "5:53"
+      },
+      {
+        "name": "Call Me Super Bad  (Part 1 & 2)",
+        "duration": "5:00"
+      },
+      {
+        "name": "Cold Sweat (Part 1)",
+        "duration": "2:55"
+      },
+      {
+        "name": "It's A Man's Man's Man's World",
+        "duration": "2:58"
+      }
+    ]
   },
   {
     "id": 1478358,
@@ -1620,6 +4400,149 @@
     "spotify_link": "https://open.spotify.com/album/3emhnEQ76nUUehouSvnGxk"
   },
   {
+    "id": 945200,
+    "title": "Eli",
+    "artist": "Jan Akkerman, Kaz Lux",
+    "year": 1976,
+    "cover": "https://i.discogs.com/zFBUnJrQOm2YqriFcI0kBwa4bHPfwJI5LGAgXb1uAqA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0NTIw/MC0xMzk0OTgyOTcz/LTEzMTkuanBlZw.jpeg",
+    "tracks": [
+      {
+        "name": "Eli",
+        "duration": "4:25"
+      },
+      {
+        "name": "Guardian Angel",
+        "duration": "4:58"
+      },
+      {
+        "name": "Tranquillizer",
+        "duration": "4:20"
+      },
+      {
+        "name": "Can't Fake A Good Time",
+        "duration": "5:25"
+      },
+      {
+        "name": "There He Still Goes",
+        "duration": "3:45"
+      },
+      {
+        "name": "Strindberg",
+        "duration": "3:06"
+      },
+      {
+        "name": "Wings Of Strings",
+        "duration": "3:15"
+      },
+      {
+        "name": "Naked Actress",
+        "duration": "5:45"
+      },
+      {
+        "name": "Fairytale",
+        "duration": "3:45"
+      }
+    ]
+  },
+  {
+    "id": 2122844,
+    "title": "Night Rains",
+    "artist": "Janis Ian",
+    "year": 1979,
+    "cover": "https://i.discogs.com/8dShAtalNknY3LNA6P0PosPUOyH87vBKhl4Rf9stG3E/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjI4/NDQtMTQ1Njc4MTU2/OS03NDg4LmpwZWc.jpeg",
+    "tracks": [
+      {
+        "name": "The Other Side Of The Sun",
+        "duration": "3:58"
+      },
+      {
+        "name": "Fly Too High",
+        "duration": "5:07"
+      },
+      {
+        "name": "Memories",
+        "duration": "4:45"
+      },
+      {
+        "name": "Night Rains",
+        "duration": "3:22"
+      },
+      {
+        "name": "Here Comes The Night (Theme From \"The Bell Jar\")",
+        "duration": "3:35"
+      },
+      {
+        "name": "Day By Day",
+        "duration": "4:15"
+      },
+      {
+        "name": "Have Mercy Love",
+        "duration": "4:39"
+      },
+      {
+        "name": "Lay Low",
+        "duration": "3:04"
+      },
+      {
+        "name": "Photographs",
+        "duration": "2:45"
+      },
+      {
+        "name": "Jenny (Iowa Sunrise)",
+        "duration": "3:31"
+      }
+    ]
+  },
+  {
+    "id": 1591339,
+    "title": "Stars",
+    "artist": "Janis Ian",
+    "year": 1974,
+    "cover": "https://i.discogs.com/_6Ra_dTepipWbW-Ddl6pxMDDX8d6Umb5I3ZlkJ4zugM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTEz/MzktMTI3MjEyMzAw/OS5qcGVn.jpeg",
+    "tracks": [
+      {
+        "name": "Stars",
+        "duration": "7:10"
+      },
+      {
+        "name": "The Man You Are In Me",
+        "duration": "2:57"
+      },
+      {
+        "name": "Sweet Sympathy",
+        "duration": "2:40"
+      },
+      {
+        "name": "Page Nine",
+        "duration": "3:11"
+      },
+      {
+        "name": "Thankyous",
+        "duration": "2:36"
+      },
+      {
+        "name": "Dance With Me",
+        "duration": "3:14"
+      },
+      {
+        "name": "Without You",
+        "duration": "2:01"
+      },
+      {
+        "name": "Jesse",
+        "duration": "4:06"
+      },
+      {
+        "name": "You've Got Me On A String",
+        "duration": "3:16"
+      },
+      {
+        "name": "Applause",
+        "duration": "4:00"
+      }
+    ]
+  },
+  {
     "id": 653070,
     "title": "Jeff Wayne's Musical Version Of The War Of The Worlds",
     "artist": "Jeff Wayne",
@@ -1678,6 +4601,492 @@
     "spotify_link": "https://open.spotify.com/album/7ligZljXfUtcKPCotWul5g"
   },
   {
+    "id": 4472049,
+    "title": "War Child",
+    "artist": "Jethro Tull",
+    "year": 1974,
+    "cover": "https://i.discogs.com/cpp2VNQ0iu46PkU4mQBsA4LIs0F0L1VchqeTH-x5MgU/rs:fit/g:sm/q:90/h:502/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NzIw/NDktMTM5NDM2Nzc5/MS0zMDYyLmpwZWc.jpeg",
+    "tracks": [
+      {
+        "name": "WarChild",
+        "duration": "4:33"
+      },
+      {
+        "name": "Queen And Country",
+        "duration": "2:59"
+      },
+      {
+        "name": "Ladies",
+        "duration": "3:16"
+      },
+      {
+        "name": "Back-Door Angels",
+        "duration": "5:30"
+      },
+      {
+        "name": "SeaLion",
+        "duration": "3:35"
+      },
+      {
+        "name": "Skating Away On The Thin Ice Of The New Day",
+        "duration": "4:02"
+      },
+      {
+        "name": "Bungle In The Jungle",
+        "duration": "3:34"
+      },
+      {
+        "name": "Only Solitaire",
+        "duration": "1:28"
+      },
+      {
+        "name": "The Third Hoorah",
+        "duration": "4:47"
+      },
+      {
+        "name": "Two Fingers",
+        "duration": "5:07"
+      }
+    ]
+  },
+  {
+    "id": 12533283,
+    "title": "Jimi Hendrix With Curtis Knight",
+    "artist": "Jimi Hendrix, Curtis Knight",
+    "year": 1972,
+    "cover": "https://i.discogs.com/sZJNZjhq-USRW0Rzw8GpXnTJIOLO5w8i8rjZb95SI0Y/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTMz/MjgzLTE1MzcxMjM1/MDItMjkwMC5qcGVn.jpeg",
+    "tracks": [
+      {
+        "name": "How Would You Feel",
+        "duration": "3:11"
+      },
+      {
+        "name": "Love Love",
+        "duration": "8:27"
+      },
+      {
+        "name": "Hush Now",
+        "duration": "3:15"
+      },
+      {
+        "name": "Flashing",
+        "duration": "2:32"
+      },
+      {
+        "name": "Daytripper",
+        "duration": "2:44"
+      },
+      {
+        "name": "You Don't Want Me",
+        "duration": "2:25"
+      },
+      {
+        "name": "Hush Now",
+        "duration": "4:25"
+      },
+      {
+        "name": "Simon Says",
+        "duration": "3:16"
+      },
+      {
+        "name": "Level",
+        "duration": "2:56"
+      },
+      {
+        "name": "Love Love",
+        "duration": "5:15"
+      }
+    ]
+  },
+  {
+    "id": 15230118,
+    "title": "Back To The Night",
+    "artist": "Joan Armatrading",
+    "year": 1975,
+    "cover": "https://i.discogs.com/gAm0w-wxuYbX-nSBF3FaluVDXRregO4DrM5yg1WbHh0/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjMw/MTE4LTE1ODg0MTIy/OTAtOTUzOS5qcGVn.jpeg",
+    "tracks": [
+      {
+        "name": "No Love For Free",
+        "duration": "3:31"
+      },
+      {
+        "name": "Travel So Far",
+        "duration": "3:07"
+      },
+      {
+        "name": "Steppin' Out",
+        "duration": "3:57"
+      },
+      {
+        "name": "Dry Land",
+        "duration": "4:19"
+      },
+      {
+        "name": "Cool Blue Stole My Heart",
+        "duration": "5:29"
+      },
+      {
+        "name": "Get In Touch With Jesus",
+        "duration": "3:38"
+      },
+      {
+        "name": "Body To Dust",
+        "duration": "4:14"
+      },
+      {
+        "name": "Back To The Night",
+        "duration": "4:04"
+      },
+      {
+        "name": "So Good",
+        "duration": "3:27"
+      },
+      {
+        "name": "Let's Go Dancing",
+        "duration": "2:03"
+      },
+      {
+        "name": "Come When You Need Me",
+        "duration": "3:44"
+      }
+    ]
+  },
+  {
+    "id": 6302657,
+    "title": "Show Some Emotion",
+    "artist": "Joan Armatrading",
+    "year": 1977,
+    "cover": "https://i.discogs.com/BJf3r_G1_n9Ll9UkM2RVaFq_5HoaFkduphuHezeg60U/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMDI2/NTctMTQzNzk0NDQw/Ni00ODIyLmpwZWc.jpeg",
+    "tracks": [
+      {
+        "name": "Woncha Come On Home",
+        "duration": "2:40"
+      },
+      {
+        "name": "Show Some Emotion",
+        "duration": "3:31"
+      },
+      {
+        "name": "Warm Love",
+        "duration": "3:03"
+      },
+      {
+        "name": "Never Is Too Late",
+        "duration": "5:32"
+      },
+      {
+        "name": "Peace In Mind",
+        "duration": "3:20"
+      },
+      {
+        "name": "Opportunity",
+        "duration": "3:23"
+      },
+      {
+        "name": "Mama Mercy",
+        "duration": "2:48"
+      },
+      {
+        "name": "Get In The Sun",
+        "duration": "3:20"
+      },
+      {
+        "name": "Willow",
+        "duration": "4:50"
+      },
+      {
+        "name": "Kissin' And A Huggin'",
+        "duration": "4:42"
+      }
+    ]
+  },
+  {
+    "id": 24728018,
+    "title": "So What",
+    "artist": "Joe Walsh",
+    "year": 1974,
+    "cover": "https://i.discogs.com/fZmhBSxtoXc-D0A6-lmI3mmgQy16cw3KZ8Uu17aNcl0/rs:fit/g:sm/q:90/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NzI4/MDE4LTE2NjQ5ODA3/MTktOTMzMi5qcGVn.jpeg",
+    "tracks": [
+      {
+        "name": "Welcome To The Club",
+        "duration": "5:14"
+      },
+      {
+        "name": "Falling Down",
+        "duration": "5:56"
+      },
+      {
+        "name": "Pavanne",
+        "duration": "1:56"
+      },
+      {
+        "name": "Time Out",
+        "duration": "4:28"
+      },
+      {
+        "name": "All Night Laundry Mat Blues",
+        "duration": "0:58"
+      },
+      {
+        "name": "Turn To Stone",
+        "duration": "3:47"
+      },
+      {
+        "name": "Help Me Thru The Night",
+        "duration": "3:35"
+      },
+      {
+        "name": "County Fair",
+        "duration": "6:43"
+      },
+      {
+        "name": "Song For Emma",
+        "duration": "4:20"
+      }
+    ]
+  },
+  {
+    "id": 1394150,
+    "title": "Hot Shot",
+    "artist": "Karen Young",
+    "year": 1978,
+    "cover": "https://i.discogs.com/EBOvaIO_zWFbcfVdL2XWgnW7ciGlkwuZCso-tWWtlwM/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTQx/NTAtMTQ1ODQ2NDM4/My0xOTA1LmpwZWc.jpeg",
+    "tracks": [
+      {
+        "name": "Bring  On The Boys",
+        "duration": "5:40"
+      },
+      {
+        "name": "Where Is He",
+        "duration": "6:00"
+      },
+      {
+        "name": "Baby You Ain't Nothin' Without Me",
+        "duration": "6:50"
+      },
+      {
+        "name": "Hot Shot",
+        "duration": "8:40"
+      },
+      {
+        "name": "God Knows I'm Just A Woman",
+        "duration": "4:25"
+      },
+      {
+        "name": "Beau",
+        "duration": "4:03"
+      }
+    ]
+  },
+  {
+    "id": 448594,
+    "title": "The Kick Inside",
+    "artist": "Kate Bush",
+    "year": 1978,
+    "cover": "https://i.discogs.com/IhdjKuRuU6R2_eUhNTHHTclsedBilUW8IsrgFMOWPME/rs:fit/g:sm/q:90/h:240/w:240/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0ODU5/NC0xMTMyMDAyNzQx/LmpwZWc.jpeg",
+    "tracks": [
+      {
+        "name": "Moving",
+        "duration": "3:03"
+      },
+      {
+        "name": "The Saxophone Song",
+        "duration": "3:50"
+      },
+      {
+        "name": "Strange Phenomena",
+        "duration": "2:56"
+      },
+      {
+        "name": "Kite",
+        "duration": "2:58"
+      },
+      {
+        "name": "The Man With The Child In His Eyes",
+        "duration": "2:39"
+      },
+      {
+        "name": "Wuthering Heights",
+        "duration": "4:29"
+      },
+      {
+        "name": "James And The Cold Gun",
+        "duration": "3:34"
+      },
+      {
+        "name": "Feel It",
+        "duration": "3:04"
+      },
+      {
+        "name": "Oh To Be In Love",
+        "duration": "3:17"
+      },
+      {
+        "name": "L'Amour Looks Something Like You",
+        "duration": "2:26"
+      },
+      {
+        "name": "Them Heavy People",
+        "duration": "3:04"
+      },
+      {
+        "name": "Room For The Life",
+        "duration": "4:03"
+      },
+      {
+        "name": "The Kick Inside",
+        "duration": "3:34"
+      }
+    ]
+  },
+  {
+    "id": 2256219,
+    "title": "Kate Robbins",
+    "artist": "Kate Robbins",
+    "year": 1981,
+    "cover": "https://i.discogs.com/Tg_2kKYTkjm2B2C_uEuEggYR6OeV7kTpj0qOOUFuPNw/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTYy/MTktMTQ0MDYwMjk5/Mi0yNjcwLmpwZWc.jpeg",
+    "tracks": [
+      {
+        "name": "More Than In Love",
+        "duration": "3:31"
+      },
+      {
+        "name": "Run Wild",
+        "duration": "4:39"
+      },
+      {
+        "name": "Goodnight",
+        "duration": "3:34"
+      },
+      {
+        "name": "I'll Never Love This Way Again",
+        "duration": "3:12"
+      },
+      {
+        "name": "Now",
+        "duration": "4:12"
+      },
+      {
+        "name": "I Want You Back",
+        "duration": "4:46"
+      },
+      {
+        "name": "You're The Only One That I Ever Needed",
+        "duration": "3:03"
+      },
+      {
+        "name": "Anytime At All",
+        "duration": "3:23"
+      },
+      {
+        "name": "Cassie's Song",
+        "duration": "4:38"
+      },
+      {
+        "name": "Crowds Of You",
+        "duration": "4:29"
+      }
+    ]
+  },
+  {
+    "id": 2275455,
+    "title": "See See The Sun",
+    "artist": "Kayak",
+    "year": 1973,
+    "cover": "https://i.discogs.com/w0ddMwAH9GiXkQ7pXPVZTNKW846rOD2kLyOJNgnJOq0/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNzU0/NTUtMTQxODI0MDYx/Mi0zNjM1LmpwZWc.jpeg",
+    "tracks": [
+      {
+        "name": "Reason For It All",
+        "duration": "6:15"
+      },
+      {
+        "name": "Lyrics",
+        "duration": "3:33"
+      },
+      {
+        "name": "Mouldy Wood",
+        "duration": "5:03"
+      },
+      {
+        "name": "Lovely Luna",
+        "duration": "7:59"
+      },
+      {
+        "name": "Hope For A Life",
+        "duration": "6:30"
+      },
+      {
+        "name": "Ballet Of The Cripple",
+        "duration": "4:25"
+      },
+      {
+        "name": "Forever Is A Lonely Thought",
+        "duration": "5:14"
+      },
+      {
+        "name": "Mammoth",
+        "duration": "2:49"
+      },
+      {
+        "name": "See See The Sun",
+        "duration": "4:01"
+      }
+    ]
+  },
+  {
+    "id": 748749,
+    "title": "Starlight Dancer",
+    "artist": "Kayak",
+    "year": 1977,
+    "cover": "https://i.discogs.com/VPP0Ep1zcfD0QHt93NWeE92PO-UXR2GzVpKBbEapjxU/rs:fit/g:sm/q:90/h:280/w:280/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0ODc0/OS0xMjU4NTU3NDcz/LmpwZWc.jpeg",
+    "tracks": [
+      {
+        "name": "I Want You To Be Mine",
+        "duration": "4:46"
+      },
+      {
+        "name": "Ballad For A Lost Friend",
+        "duration": "4:14"
+      },
+      {
+        "name": "Turn The Tide",
+        "duration": "3:34"
+      },
+      {
+        "name": "Nothingness",
+        "duration": "3:56"
+      },
+      {
+        "name": "Still My Heart Cries For You",
+        "duration": "4:34"
+      },
+      {
+        "name": "Starlight Dancer",
+        "duration": "5:03"
+      },
+      {
+        "name": "Love Of A Victim",
+        "duration": "2:48"
+      },
+      {
+        "name": "Land On The Water",
+        "duration": "2:28"
+      },
+      {
+        "name": "Do You Care",
+        "duration": "2:56"
+      },
+      {
+        "name": "Back To The Front",
+        "duration": "4:32"
+      },
+      {
+        "name": "Irene",
+        "duration": "4:22"
+      }
+    ]
+  },
+  {
     "id": 2580382,
     "title": "Mermaid Boulevard",
     "artist": "Kazumi Watanabe, The Gentle Thoughts",
@@ -1714,6 +5123,88 @@
       }
     ],
     "spotify_link": "https://open.spotify.com/album/5Sh7Us0gJC50CA5WQZp5Br"
+  },
+  {
+    "id": 90879,
+    "title": "Tropical Gangsters",
+    "artist": "Kid Creole And The Coconuts",
+    "year": 1982,
+    "cover": "https://i.discogs.com/3w9B-TGnHHCN-GCx3aVWuPvUS9ts9sbF_0Pa5YLcNxw/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwODc5/LTEzMzY3MzQ4NjYt/MjgxMy5qcGVn.jpeg",
+    "tracks": [
+      {
+        "name": "Annie, I'm Not Your Daddy",
+        "duration": "6:26"
+      },
+      {
+        "name": "I'm A Wonderful Thing, Baby",
+        "duration": "5:16"
+      },
+      {
+        "name": "Imitation",
+        "duration": "4:12"
+      },
+      {
+        "name": "I'm Corrupt",
+        "duration": "4:11"
+      },
+      {
+        "name": "Loving You Made A Fool Out Of Me",
+        "duration": "4:48"
+      },
+      {
+        "name": "Stool Pigeon",
+        "duration": "4:59"
+      },
+      {
+        "name": "The Love We Have",
+        "duration": "5:12"
+      },
+      {
+        "name": "No Fish Today",
+        "duration": "4:48"
+      }
+    ]
+  },
+  {
+    "id": 2868414,
+    "title": "Hope",
+    "artist": "Klaatu",
+    "year": 1977,
+    "cover": "https://i.discogs.com/VcXQlG4Pp5MsPO2RRSA_aws8bwtQU9VL6TB1zc3Swq4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4Njg0/MTQtMTQwODM4MjI2/Mi0zNzczLmpwZWc.jpeg",
+    "tracks": [
+      {
+        "name": "We're Off You Know",
+        "duration": "4:00"
+      },
+      {
+        "name": "Madman",
+        "duration": "2:36"
+      },
+      {
+        "name": "Around The Universe In Eighty Days",
+        "duration": "4:53"
+      },
+      {
+        "name": "Long Live Politzania",
+        "duration": "9:05"
+      },
+      {
+        "name": "The Loneliest Of Creatures",
+        "duration": "3:41"
+      },
+      {
+        "name": "Prelude",
+        "duration": "5:43"
+      },
+      {
+        "name": "So Said The Lighthouse Keeper",
+        "duration": "5:48"
+      },
+      {
+        "name": "Hope",
+        "duration": "3:48"
+      }
+    ]
   },
   {
     "id": 35462605,
@@ -1820,6 +5311,186 @@
     "spotify_link": "https://open.spotify.com/album/0GqpoHJREPp0iuXK3HzrHk"
   },
   {
+    "id": 1934235,
+    "title": "Led Zeppelin III",
+    "artist": "Led Zeppelin",
+    "year": 0,
+    "cover": "https://i.discogs.com/7L1COX_1f1gmN1KjxDH8OS0MH1QUEE809Rb9PlREtsM/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MzQy/MzUtMTQ0Mzk2NjUz/NS03MjkyLmpwZWc.jpeg",
+    "tracks": [
+      {
+        "name": "Immigrant Song",
+        "duration": "2:26"
+      },
+      {
+        "name": "Friends",
+        "duration": "3:55"
+      },
+      {
+        "name": "Celebration Day",
+        "duration": "3:29"
+      },
+      {
+        "name": "Since I've Been Loving You",
+        "duration": "7:25"
+      },
+      {
+        "name": "Out On The Tiles",
+        "duration": "4:04"
+      },
+      {
+        "name": "Gallows Pole",
+        "duration": "4:58"
+      },
+      {
+        "name": "Tangerine",
+        "duration": "3:12"
+      },
+      {
+        "name": "That's The Way",
+        "duration": "5:38"
+      },
+      {
+        "name": "Bron-Y-Aur Stomp",
+        "duration": "4:20"
+      },
+      {
+        "name": "Hats Off To (Roy) Harper",
+        "duration": "3:41"
+      }
+    ]
+  },
+  {
+    "id": 2452111,
+    "title": "Beat & Soulparty",
+    "artist": "Lightning Soul Players, The Happy Beat Boys",
+    "year": 0,
+    "cover": "https://i.discogs.com/aDcRbBF8zlu9WV95DNO_1hSaXGnvfubgoRknkRcojVc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTIx/MTEtMTQ5NTI2MzYz/OS04NjQ0LmpwZWc.jpeg",
+    "tracks": [
+      {
+        "name": "Theses Bones Are Gonna Rise Again",
+        "duration": null
+      },
+      {
+        "name": "Greensleeves",
+        "duration": null
+      },
+      {
+        "name": "Vive L'Amour",
+        "duration": null
+      },
+      {
+        "name": "This Ol' Hammer",
+        "duration": null
+      },
+      {
+        "name": "Who's Gonna Be My Girl",
+        "duration": null
+      },
+      {
+        "name": "Blues",
+        "duration": null
+      },
+      {
+        "name": "News Orleans",
+        "duration": null
+      },
+      {
+        "name": "Everytime I Feel The Spirit",
+        "duration": null
+      },
+      {
+        "name": "I Gave My Love A Cherry",
+        "duration": null
+      },
+      {
+        "name": "Cotton Fields",
+        "duration": null
+      },
+      {
+        "name": "House Of The Rising Sun",
+        "duration": null
+      },
+      {
+        "name": "It Takes A Worried Man",
+        "duration": null
+      }
+    ]
+  },
+  {
+    "id": 625791,
+    "title": "Lou Reed Live",
+    "artist": "Lou Reed",
+    "year": 1975,
+    "cover": "https://i.discogs.com/R3O2cKRmtjx5P1wziSNaCl5PX36n6SL5HQrSBau6zXM/rs:fit/g:sm/q:90/h:405/w:398/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNTc5/MS0xMTQxNTc2Mzgy/LmpwZWc.jpeg",
+    "tracks": [
+      {
+        "name": "Vicious",
+        "duration": "5:55"
+      },
+      {
+        "name": "Satellite Of Love",
+        "duration": "6:03"
+      },
+      {
+        "name": "Walk On The Wild Side",
+        "duration": "4:51"
+      },
+      {
+        "name": "I'm Waiting For The Man",
+        "duration": "3:38"
+      },
+      {
+        "name": "Oh Jim",
+        "duration": "10:40"
+      },
+      {
+        "name": "Sad Song",
+        "duration": "7:32"
+      }
+    ]
+  },
+  {
+    "id": 2601878,
+    "title": "Street Hassle",
+    "artist": "Lou Reed",
+    "year": 1978,
+    "cover": "https://i.discogs.com/dzbJ-r6FWwEHG89shVrE1wjxygyGq30hSWoAt2zZBTE/rs:fit/g:sm/q:90/h:472/w:480/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MDE4/NzgtMTI5MjYyMTAx/MS5qcGVn.jpeg",
+    "tracks": [
+      {
+        "name": "Gimmie Some Good Times",
+        "duration": "3:15"
+      },
+      {
+        "name": "Dirt",
+        "duration": "4:58"
+      },
+      {
+        "name": "Street Hassle",
+        "duration": "11:00"
+      },
+      {
+        "name": "I Wanna Be Black",
+        "duration": "2:52"
+      },
+      {
+        "name": "Real Good Time Together",
+        "duration": "3:19"
+      },
+      {
+        "name": "Shooting Star",
+        "duration": "3:09"
+      },
+      {
+        "name": "Leave Me Alone",
+        "duration": "4:44"
+      },
+      {
+        "name": "Wait",
+        "duration": "3:14"
+      }
+    ]
+  },
+  {
     "id": 391411,
     "title": "Walk On The Wild Side - The Best Of Lou Reed",
     "artist": "Lou Reed",
@@ -1872,6 +5543,19 @@
       }
     ],
     "spotify_link": "https://open.spotify.com/album/1YMJs20ztVXARUtRGkRb0y"
+  },
+  {
+    "id": 5456943,
+    "title": "Symphonie Nr. 5",
+    "artist": "Ludwig van Beethoven, Berliner Philharmoniker, Herbert von Karajan",
+    "year": 0,
+    "cover": "https://i.discogs.com/H0Jn78btKGGQCeMaL6cIaJGepSfaNCm434lZ4owtVbA/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0NTY5/NDMtMTY1MzAzMzMx/Ni02NjYyLmpwZWc.jpeg",
+    "tracks": [
+      {
+        "name": "Symphonie Nr. 5 C-moll Op. 67",
+        "duration": null
+      }
+    ]
   },
   {
     "id": 1947563,
@@ -2044,6 +5728,435 @@
     "spotify_link": "https://open.spotify.com/album/1thy3ivJjB38MqujCp731G"
   },
   {
+    "id": 1460413,
+    "title": "Two Hearts",
+    "artist": "Men At Work",
+    "year": 1985,
+    "cover": "https://i.discogs.com/7ifm7HKED0FWN-pXXh8MflnKEKnmzKkVHIt7smwBanE/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjA0/MTMtMTQwMjEzNzgy/OC01OTQ1LmpwZWc.jpeg",
+    "tracks": [
+      {
+        "name": "Man With Two Hearts",
+        "duration": "3:54"
+      },
+      {
+        "name": "Giving Up",
+        "duration": "3:25"
+      },
+      {
+        "name": "Everything I Need",
+        "duration": "3:35"
+      },
+      {
+        "name": "Sail To You",
+        "duration": "3:24"
+      },
+      {
+        "name": "Children On Parade",
+        "duration": "3:36"
+      },
+      {
+        "name": "Maria",
+        "duration": "4:34"
+      },
+      {
+        "name": "Stay At Home",
+        "duration": "3:07"
+      },
+      {
+        "name": "Hard Luck Story",
+        "duration": "3:42"
+      },
+      {
+        "name": "Snakes And Ladders",
+        "duration": "3:17"
+      },
+      {
+        "name": "Still Life",
+        "duration": "3:50"
+      }
+    ]
+  },
+  {
+    "id": 418835,
+    "title": "Tubular Bells",
+    "artist": "Mike Oldfield",
+    "year": 1973,
+    "cover": "https://i.discogs.com/gQ4uSg9mUhwOxIOFxc3UCbPnuyvn9yXp8_BOP_zYrlI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxODgz/NS0xNDYzODQ3MDEw/LTI2MDYuanBlZw.jpeg",
+    "tracks": [
+      {
+        "name": "Tubular Bells (Side 1)",
+        "duration": null
+      },
+      {
+        "name": "Tubular Bells (Side 2)",
+        "duration": null
+      }
+    ]
+  },
+  {
+    "id": 55660,
+    "title": "You're Under Arrest",
+    "artist": "Miles Davis",
+    "year": 1985,
+    "cover": "https://i.discogs.com/PofeO-wE4RobYE1ZtZAOUZzMaPUEi8rCFgcxP0s2w5E/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1NjYw/LTE0NTY5MTUyNjgt/NjU4Ny5qcGVn.jpeg",
+    "tracks": [
+      {
+        "name": "One Phone Call / Street Scenes",
+        "duration": "4:34"
+      },
+      {
+        "name": "Human Nature",
+        "duration": "4:30"
+      },
+      {
+        "name": "Intro: MD 1 / Somethings On Your Mind / MD 2",
+        "duration": "7:17"
+      },
+      {
+        "name": "Ms. Morrisine",
+        "duration": "4:57"
+      },
+      {
+        "name": "Katia Prelude",
+        "duration": "0:40"
+      },
+      {
+        "name": "Katia",
+        "duration": "7:37"
+      },
+      {
+        "name": "Time After Time",
+        "duration": "3:37"
+      },
+      {
+        "name": "You're Under Arrest",
+        "duration": "6:14"
+      },
+      {
+        "name": "Medley: Jean Pierre / You're Under Arrest / Then There Were None",
+        "duration": "3:23"
+      }
+    ]
+  },
+  {
+    "id": 390874,
+    "title": "Ready For Romance (The 3rd Album)",
+    "artist": "Modern Talking",
+    "year": 1986,
+    "cover": "https://i.discogs.com/MNiu3_iqIehxe3JQGnh0Za8xVzsRF3yoOCxgB7r6ob0/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MDg3/NC0xNzA1MzQ5NTA4/LTQ3MzguanBlZw.jpeg",
+    "tracks": [
+      {
+        "name": "Brother Louie",
+        "duration": "3:41"
+      },
+      {
+        "name": "Just We Two (Mona Lisa)",
+        "duration": "3:54"
+      },
+      {
+        "name": "Lady Lai",
+        "duration": "4:55"
+      },
+      {
+        "name": "Doctor For My Heart",
+        "duration": "3:16"
+      },
+      {
+        "name": "Save Me - Don't Break Me",
+        "duration": "3:45"
+      },
+      {
+        "name": "Atlantis Is Calling (S.O.S. For Love)",
+        "duration": "3:48"
+      },
+      {
+        "name": "Keep Love Alive",
+        "duration": "3:25"
+      },
+      {
+        "name": "Hey You",
+        "duration": "3:20"
+      },
+      {
+        "name": "Angie's Heart",
+        "duration": "3:37"
+      },
+      {
+        "name": "Only Love Can Break My Heart",
+        "duration": "3:35"
+      }
+    ]
+  },
+  {
+    "id": 2548296,
+    "title": "Greatest Hits",
+    "artist": "Nazareth (2)",
+    "year": 1975,
+    "cover": "https://i.discogs.com/vkwYzojCNTAWAvSOIo-5AW84Pzfan3GtAFpyGlo7T8I/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NDgy/OTYtMTQ2OTAxMDY0/Ny04MDE2LnBuZw.jpeg",
+    "tracks": [
+      {
+        "name": "Razamanaz",
+        "duration": "3:50"
+      },
+      {
+        "name": "Holy Roller",
+        "duration": "3:25"
+      },
+      {
+        "name": "Shanghai'd In Shanghai",
+        "duration": "3:45"
+      },
+      {
+        "name": "Love Hurts",
+        "duration": "3:54"
+      },
+      {
+        "name": "Turn On Your Receiver",
+        "duration": "3:20"
+      },
+      {
+        "name": "Bad Bad Boy",
+        "duration": "3:58"
+      },
+      {
+        "name": "This Flight Tonight",
+        "duration": "3:24"
+      },
+      {
+        "name": "Broken Down Angel",
+        "duration": "3:43"
+      },
+      {
+        "name": "Hair Of The Dog",
+        "duration": "3:22"
+      },
+      {
+        "name": "Sunshine",
+        "duration": "3:52"
+      },
+      {
+        "name": "My White Bicycle",
+        "duration": "3:32"
+      },
+      {
+        "name": "Woke Up This Morning",
+        "duration": "3:53"
+      }
+    ]
+  },
+  {
+    "id": 7713682,
+    "title": "Nero's Hit Party - 28 Hits Non-Stop",
+    "artist": "The Paul Nero Sounds",
+    "year": 0,
+    "cover": "https://i.discogs.com/LhQTaVCeDACLtlEm4Z7-eddoUlt_Kmfefum-sF3uN4Y/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3MTM2/ODItMTQ0NzI3MDUz/Ny04Mzg5LmpwZWc.jpeg",
+    "tracks": [
+      {
+        "name": "A Little Bit Me, A Little Bit You / Let's Spend The Night Together / Ha! Ha! Said The Clown",
+        "duration": null
+      },
+      {
+        "name": "Western Union / Reach Out I'll Be There / Land Of 1.000 Dances",
+        "duration": null
+      },
+      {
+        "name": "Sgt. Pepper's Lonely Hearts Club Band / Penny Lane / All You Need Is Love",
+        "duration": null
+      },
+      {
+        "name": "A Whiter Shade Of Pale / Hey, Jimmy",
+        "duration": null
+      },
+      {
+        "name": "Memories Of Heidelberg / Schiwago-Melodie / The Boat That I Row",
+        "duration": null
+      },
+      {
+        "name": "Happy Together / Something Stupid / Puppet On A String",
+        "duration": null
+      },
+      {
+        "name": "Ta Ta Ta / Okay / I Was Kaiser Bill's Batman",
+        "duration": null
+      },
+      {
+        "name": "Ich Sprenge Alle Ketten / My Friend Jack / Painter Man",
+        "duration": null
+      },
+      {
+        "name": "You Only Live Twice / Mercy, Mercy, Mercy",
+        "duration": null
+      },
+      {
+        "name": "La Bamba / Indiamo / Wade In The Water",
+        "duration": null
+      }
+    ]
+  },
+  {
+    "id": 1169701,
+    "title": "The Secret Of Association",
+    "artist": "Paul Young",
+    "year": 1985,
+    "cover": "https://i.discogs.com/oJ_fWqJB641yVI6drpqhDtCwnwBxtnRoUxxfOx3eRGo/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjk3/MDEtMTI5MzQ1NjEy/My5qcGVn.jpeg",
+    "tracks": [
+      {
+        "name": "Bite The Hand That Feeds",
+        "duration": "4:31"
+      },
+      {
+        "name": "Every Time You Go Away",
+        "duration": "5:23"
+      },
+      {
+        "name": "I'm Gonna Tear Your Playhouse Down",
+        "duration": "5:05"
+      },
+      {
+        "name": "Standing On The Edge",
+        "duration": "4:38"
+      },
+      {
+        "name": "Soldier's Things",
+        "duration": "6:21"
+      },
+      {
+        "name": "Everything Must Change",
+        "duration": "5:35"
+      },
+      {
+        "name": "Tomb Of Memories",
+        "duration": "3:53"
+      },
+      {
+        "name": "One Step Forward",
+        "duration": "3:42"
+      },
+      {
+        "name": "Hot Fun",
+        "duration": "4:26"
+      },
+      {
+        "name": "This Means Anything",
+        "duration": "3:13"
+      },
+      {
+        "name": "I Was In Chains",
+        "duration": "5:42"
+      }
+    ]
+  },
+  {
+    "id": 1458973,
+    "title": "Frampton Comes Alive!",
+    "artist": "Peter Frampton",
+    "year": 1976,
+    "cover": "https://i.discogs.com/nkG-oCpDniy2W4Dz4SDwvGUZmPo289buj2zpwZxj2fc/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTg5/NzMtMTY4MzA1NDA4/My04Njk1LmpwZWc.jpeg",
+    "tracks": [
+      {
+        "name": "Something's Happening",
+        "duration": null
+      },
+      {
+        "name": "Doobie Wah",
+        "duration": null
+      },
+      {
+        "name": "Show Me The Way",
+        "duration": null
+      },
+      {
+        "name": "It's A Plain Shame",
+        "duration": null
+      },
+      {
+        "name": "All I Want To Be (Is By Your Side)",
+        "duration": null
+      },
+      {
+        "name": "Wind Of Change",
+        "duration": null
+      },
+      {
+        "name": "Baby, I Love Your Way",
+        "duration": null
+      },
+      {
+        "name": "I Wanna Go To The Sun",
+        "duration": null
+      },
+      {
+        "name": "Penny For Your Thoughts",
+        "duration": null
+      },
+      {
+        "name": "(I'll Give You) Money",
+        "duration": null
+      },
+      {
+        "name": "Shine On",
+        "duration": null
+      },
+      {
+        "name": "Jumping Jack Flash",
+        "duration": null
+      },
+      {
+        "name": "Lines On My Face",
+        "duration": null
+      },
+      {
+        "name": "Do You Feel Like We Do",
+        "duration": null
+      }
+    ]
+  },
+  {
+    "id": 7479294,
+    "title": "Frampton's Camel",
+    "artist": "Peter Frampton",
+    "year": 1976,
+    "cover": "https://i.discogs.com/mWTiuLWqxSStqHasdZX76CNuFpj_STH-5xizU9M6SVc/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0Nzky/OTQtMTUzODMxMjc1/Ni0zNzA4LmpwZWc.jpeg",
+    "tracks": [
+      {
+        "name": "I Got My Eyes On You",
+        "duration": null
+      },
+      {
+        "name": "All Night Long",
+        "duration": null
+      },
+      {
+        "name": "Lines On My Face",
+        "duration": null
+      },
+      {
+        "name": "Which Way The Wind Blows",
+        "duration": null
+      },
+      {
+        "name": "I Believe (When I Fall In Love With You It Will Be Forever)",
+        "duration": null
+      },
+      {
+        "name": "White Sugar",
+        "duration": null
+      },
+      {
+        "name": "Don't Fade Away",
+        "duration": null
+      },
+      {
+        "name": "Just The Time Of Year",
+        "duration": null
+      },
+      {
+        "name": "Do You Feel Like We Do",
+        "duration": null
+      }
+    ]
+  },
+  {
     "id": 596032,
     "title": "So",
     "artist": "Peter Gabriel",
@@ -2118,6 +6231,108 @@
       }
     ],
     "spotify_link": "https://open.spotify.com/album/468ZwCchVtzEbt9BHmXopb"
+  },
+  {
+    "id": 4460044,
+    "title": "Relics",
+    "artist": "Pink Floyd",
+    "year": 1979,
+    "cover": "https://i.discogs.com/gRIHUC3NZzkWFOesOEgcJpvBF7LuFxWC6eyuCuIajT0/rs:fit/g:sm/q:90/h:368/w:368/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NjAw/NDQtMTM2NTQ3Mzcw/MS0xNzgxLmpwZWc.jpeg",
+    "tracks": [
+      {
+        "name": "Arnold Layne",
+        "duration": "2:52"
+      },
+      {
+        "name": "Interstellar Overdrive",
+        "duration": "9:38"
+      },
+      {
+        "name": "See Emily Play",
+        "duration": "2:54"
+      },
+      {
+        "name": "Remember A Day",
+        "duration": "4:28"
+      },
+      {
+        "name": "Paintbox",
+        "duration": "3:35"
+      },
+      {
+        "name": "Julia Dream",
+        "duration": "2:35"
+      },
+      {
+        "name": "Careful With That Axe, Eugene",
+        "duration": "7:45"
+      },
+      {
+        "name": "Cirrus Minor",
+        "duration": "5:13"
+      },
+      {
+        "name": "The Nile Song",
+        "duration": "3:23"
+      },
+      {
+        "name": "Biding My Time",
+        "duration": "5:16"
+      },
+      {
+        "name": "Bike",
+        "duration": "3:21"
+      }
+    ]
+  },
+  {
+    "id": 767486,
+    "title": "The Dark Side Of The Moon",
+    "artist": "Pink Floyd",
+    "year": 1973,
+    "cover": "https://i.discogs.com/8d0bVAj7YRqUdmomtpo1R6uZ2eZjog9kn-uT2wOPBkc/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2NzQ4/Ni0xNTU0ODYyMDE5/LTk1MTMuanBlZw.jpeg",
+    "tracks": [
+      {
+        "name": "Speak To Me",
+        "duration": null
+      },
+      {
+        "name": "Breathe",
+        "duration": null
+      },
+      {
+        "name": "On The Run",
+        "duration": null
+      },
+      {
+        "name": "Time",
+        "duration": null
+      },
+      {
+        "name": "The Great Gig In The Sky",
+        "duration": null
+      },
+      {
+        "name": "Money",
+        "duration": null
+      },
+      {
+        "name": "Us And Them",
+        "duration": null
+      },
+      {
+        "name": "Any Colour You Like",
+        "duration": null
+      },
+      {
+        "name": "Brain Damage",
+        "duration": null
+      },
+      {
+        "name": "Eclipse",
+        "duration": null
+      }
+    ]
   },
   {
     "id": 1645802,
@@ -2196,6 +6411,83 @@
     "spotify_link": "https://open.spotify.com/album/0bCAjiUamIFqKJsekOYuRw"
   },
   {
+    "id": 428945,
+    "title": "The Best Of The Pointer Sisters",
+    "artist": "Pointer Sisters",
+    "year": 1976,
+    "cover": "https://i.discogs.com/8wynRbCgyrn07mh2zEXzN9recl1bX6M_8wZE2Rqo-tI/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyODk0/NS0xMjE1OTQ1NTcw/LmpwZWc.jpeg",
+    "tracks": [
+      {
+        "name": "You Gotta Believe",
+        "duration": "2:44"
+      },
+      {
+        "name": "Black Coffee",
+        "duration": "6:04"
+      },
+      {
+        "name": "Wang Dang Doodle",
+        "duration": "2:42"
+      },
+      {
+        "name": "Salt Peanuts",
+        "duration": "5:10"
+      },
+      {
+        "name": "Steam Heat",
+        "duration": "2:48"
+      },
+      {
+        "name": "Cloudburst",
+        "duration": "3:10"
+      },
+      {
+        "name": "Easy Days",
+        "duration": "3:33"
+      },
+      {
+        "name": "Jada",
+        "duration": "4:40"
+      },
+      {
+        "name": "That's A Plenty/Surfeit, U.S.A.",
+        "duration": "3:40"
+      },
+      {
+        "name": "Little Pony",
+        "duration": "4:41"
+      },
+      {
+        "name": "Sugar",
+        "duration": "2:19"
+      },
+      {
+        "name": "Yes We Can Can",
+        "duration": "3:55"
+      },
+      {
+        "name": "Sleeping Alone",
+        "duration": "4:00"
+      },
+      {
+        "name": "Fairytale",
+        "duration": "3:02"
+      },
+      {
+        "name": "Shakey Flat",
+        "duration": "4:41"
+      },
+      {
+        "name": "Going Down Slowly",
+        "duration": "3:11"
+      },
+      {
+        "name": "How Long",
+        "duration": "3:30"
+      }
+    ]
+  },
+  {
     "id": 795325,
     "title": "Reggatta De Blanc",
     "artist": "The Police",
@@ -2248,6 +6540,112 @@
       }
     ],
     "spotify_link": "https://open.spotify.com/album/2EpuND32cO7CX0gXZl2NB6"
+  },
+  {
+    "id": 2449231,
+    "title": "Parade",
+    "artist": "Prince And The Revolution",
+    "year": 1986,
+    "cover": "https://i.discogs.com/xWeyjNwHyXGe2XFLVAI971wpuUGyDdn9ymDPrzMB_qg/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDky/MzEtMTU5NTA3NDky/OC00NjY3LmpwZWc.jpeg",
+    "tracks": [
+      {
+        "name": "Christopher Tracy's Parade",
+        "duration": null
+      },
+      {
+        "name": "New Position",
+        "duration": null
+      },
+      {
+        "name": "I Wonder U",
+        "duration": null
+      },
+      {
+        "name": "Under The Cherry Moon",
+        "duration": null
+      },
+      {
+        "name": "Girls & Boys",
+        "duration": null
+      },
+      {
+        "name": "Life Can Be So Nice",
+        "duration": null
+      },
+      {
+        "name": "Venus De Milo",
+        "duration": null
+      },
+      {
+        "name": "Mountains",
+        "duration": null
+      },
+      {
+        "name": "Do U Lie?",
+        "duration": null
+      },
+      {
+        "name": "Kiss",
+        "duration": null
+      },
+      {
+        "name": "Anotherloverholenyohead",
+        "duration": null
+      },
+      {
+        "name": "Sometimes It Snows In April",
+        "duration": null
+      }
+    ]
+  },
+  {
+    "id": 1156139,
+    "title": "Secret Combination",
+    "artist": "Randy Crawford",
+    "year": 1981,
+    "cover": "https://i.discogs.com/Q0uDGigQHcxpJktVPMaWiJVs_gtbzOel2qhyjeCGoWo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTYx/MzktMTM5MDc1MTc5/Ny04OTM2LmpwZWc.jpeg",
+    "tracks": [
+      {
+        "name": "You Might Need Somebody",
+        "duration": "4:17"
+      },
+      {
+        "name": "Rainy Night In Georgia",
+        "duration": "4:21"
+      },
+      {
+        "name": "That's How Heartaches Are Made",
+        "duration": "2:55"
+      },
+      {
+        "name": "Two Lives",
+        "duration": "3:47"
+      },
+      {
+        "name": "You Bring The Sun Out",
+        "duration": "3:25"
+      },
+      {
+        "name": "Rio De Janeiro Blue",
+        "duration": "4:16"
+      },
+      {
+        "name": "Secret Combination",
+        "duration": "3:23"
+      },
+      {
+        "name": "When I Lose My Way",
+        "duration": "3:43"
+      },
+      {
+        "name": "Time For Love",
+        "duration": "4:15"
+      },
+      {
+        "name": "Trade Winds",
+        "duration": "4:58"
+      }
+    ]
   },
   {
     "id": 410003,
@@ -2396,6 +6794,104 @@
     "spotify_link": "https://open.spotify.com/album/0SC6sTfu2FYYbKQn8HcEp4"
   },
   {
+    "id": 792109,
+    "title": "Vroeger Of Later",
+    "artist": "Robert Long",
+    "year": 1974,
+    "cover": "https://i.discogs.com/y9yLpfnYD0_IqNe1qNhhQcW0ep1v8RdNYmXBjF03-qE/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5MjEw/OS0xMjkwOTM3MTQ0/LmpwZWc.jpeg",
+    "tracks": [
+      {
+        "name": "Liefste Mijn Liefste",
+        "duration": "2:40"
+      },
+      {
+        "name": "Mien",
+        "duration": "3:08"
+      },
+      {
+        "name": "Afscheid",
+        "duration": "5:30"
+      },
+      {
+        "name": "Allemaal Angst",
+        "duration": "3:00"
+      },
+      {
+        "name": "Toe Maar Jongens",
+        "duration": "5:30"
+      },
+      {
+        "name": "Kalverliefde",
+        "duration": "3:45"
+      },
+      {
+        "name": "Het Leven Was Lijden",
+        "duration": "2:40"
+      },
+      {
+        "name": "Zeven Over Twaalf",
+        "duration": "3:00"
+      },
+      {
+        "name": "Jezus Redt",
+        "duration": "3:15"
+      },
+      {
+        "name": "Vieze Lieze",
+        "duration": "2:35"
+      }
+    ]
+  },
+  {
+    "id": 766285,
+    "title": "Blondes Have More Fun",
+    "artist": "Rod Stewart",
+    "year": 1978,
+    "cover": "https://i.discogs.com/h8eFbuNDVoyOzu58lLXAmXgOc9N-YVTpP5eO31czZjo/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2NjI4/NS0xMzI4MzkxNTgz/LmpwZWc.jpeg",
+    "tracks": [
+      {
+        "name": "Da Ya Think I'm Sexy?",
+        "duration": "5:28"
+      },
+      {
+        "name": "Dirty Weekend",
+        "duration": "2:34"
+      },
+      {
+        "name": "Ain't Love A Bitch",
+        "duration": "4:36"
+      },
+      {
+        "name": "The Best Days Of My Life",
+        "duration": "4:20"
+      },
+      {
+        "name": "Is That The Thanks I Get?",
+        "duration": "4:29"
+      },
+      {
+        "name": "Attractive Female Wanted",
+        "duration": "4:14"
+      },
+      {
+        "name": "Blondes (Have More Fun)",
+        "duration": "3:40"
+      },
+      {
+        "name": "Last Summer",
+        "duration": "4:00"
+      },
+      {
+        "name": "Standin' In The Shadows Of Love",
+        "duration": "4:24"
+      },
+      {
+        "name": "Scarred And Scared",
+        "duration": "4:50"
+      }
+    ]
+  },
+  {
     "id": 773262,
     "title": "Love You Live",
     "artist": "The Rolling Stones",
@@ -2476,6 +6972,280 @@
       }
     ],
     "spotify_link": "https://open.spotify.com/album/1u8xCtfjD454V2i6Tr64y6"
+  },
+  {
+    "id": 2447994,
+    "title": "Against The Grain",
+    "artist": "Rory Gallagher",
+    "year": 1975,
+    "cover": "https://i.discogs.com/ht5t9mw8ms2LsZ2_k7bHw4YWRFx1VEejnqbrlVVE250/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDc5/OTQtMTczMDI2OTcx/MC0xOTA0LmpwZWc.jpeg",
+    "tracks": [
+      {
+        "name": "Let Me In",
+        "duration": "4:03"
+      },
+      {
+        "name": "Cross Me Off Your List",
+        "duration": "4:26"
+      },
+      {
+        "name": "Ain't Too Good",
+        "duration": "3:54"
+      },
+      {
+        "name": "Souped-Up Ford",
+        "duration": "6:24"
+      },
+      {
+        "name": "Bought And Sold",
+        "duration": "3:24"
+      },
+      {
+        "name": "I Take What I Want",
+        "duration": "4:22"
+      },
+      {
+        "name": "Lost At Sea",
+        "duration": "4:06"
+      },
+      {
+        "name": "All Around Man",
+        "duration": "6:14"
+      },
+      {
+        "name": "Out On The Western Plain",
+        "duration": "3:53"
+      },
+      {
+        "name": "At The Bottom",
+        "duration": "3:19"
+      }
+    ]
+  },
+  {
+    "id": 1136189,
+    "title": "Live! In Europe",
+    "artist": "Rory Gallagher",
+    "year": 1972,
+    "cover": "https://i.discogs.com/2L4Vl8Uv-vsHRk16OR1SXysjhPAJaZKWGkzoLd6cmyI/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzYx/ODktMTUzNzg3MDUw/Mi04NjE5LmpwZWc.jpeg",
+    "tracks": [
+      {
+        "name": "Messin' With The Kid",
+        "duration": null
+      },
+      {
+        "name": "Laundromat",
+        "duration": null
+      },
+      {
+        "name": "I Could've Had Religion",
+        "duration": null
+      },
+      {
+        "name": "Pistol Slapper Blues",
+        "duration": null
+      },
+      {
+        "name": "Going To My Home Town",
+        "duration": null
+      },
+      {
+        "name": "In Your Town",
+        "duration": null
+      },
+      {
+        "name": "Bullfrog Blues",
+        "duration": null
+      }
+    ]
+  },
+  {
+    "id": 1267138,
+    "title": "The Story So Far",
+    "artist": "Rory Gallagher",
+    "year": 1975,
+    "cover": "https://i.discogs.com/O7jGxR2WcfktdOaba1cZlDHY6-X4z_vGbefTI_pryyo/rs:fit/g:sm/q:90/h:600/w:575/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjcx/MzgtMTIxMTkwODgz/Ni5qcGVn.jpeg",
+    "tracks": [
+      {
+        "name": "Laundromat",
+        "duration": null
+      },
+      {
+        "name": "Cradle Rock",
+        "duration": null
+      },
+      {
+        "name": "Walk On Hot Coals",
+        "duration": null
+      },
+      {
+        "name": "Who's That Coming",
+        "duration": null
+      },
+      {
+        "name": "In Your Town",
+        "duration": null
+      },
+      {
+        "name": "Hands Off",
+        "duration": null
+      },
+      {
+        "name": "Too Much Alcohol",
+        "duration": null
+      },
+      {
+        "name": "Bullfrog Blues",
+        "duration": null
+      }
+    ]
+  },
+  {
+    "id": 1743680,
+    "title": "Viva! Roxy Music",
+    "artist": "Roxy Music",
+    "year": 1976,
+    "cover": "https://i.discogs.com/t8z_cM8k8c8hLssddyPFrV8W_ixz5UaLk4CV9_YJcM0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NDM2/ODAtMTQwMTUzMTQ3/Ni05MjE0LmpwZWc.jpeg",
+    "tracks": [
+      {
+        "name": "Out Of The Blue",
+        "duration": null
+      },
+      {
+        "name": "Pyjamarama",
+        "duration": null
+      },
+      {
+        "name": "The Bogus Man",
+        "duration": null
+      },
+      {
+        "name": "Chance Meeting",
+        "duration": null
+      },
+      {
+        "name": "Both Ends Burning",
+        "duration": null
+      },
+      {
+        "name": "If There Is Something",
+        "duration": null
+      },
+      {
+        "name": "In Every Dream Home A Heartache",
+        "duration": null
+      },
+      {
+        "name": "Do The Strand",
+        "duration": null
+      }
+    ]
+  },
+  {
+    "id": 1552730,
+    "title": "Still Unwinding",
+    "artist": "The Rubettes",
+    "year": 1978,
+    "cover": "https://i.discogs.com/NpuLYTidmb3ZLqHwl8rq62Do-mh9Qsdbs-dEwetWviY/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTI3/MzAtMTYwNzMzNDYy/MS0zMTM4LmpwZWc.jpeg",
+    "tracks": [
+      {
+        "name": "Movin'",
+        "duration": null
+      },
+      {
+        "name": "No No Cherie",
+        "duration": null
+      },
+      {
+        "name": "Still Unwinding",
+        "duration": null
+      },
+      {
+        "name": "New York Tower",
+        "duration": null
+      },
+      {
+        "name": "St. Andreas",
+        "duration": null
+      },
+      {
+        "name": "Goodbye Dolly Gray",
+        "duration": null
+      },
+      {
+        "name": "Truth Of The Matter",
+        "duration": null
+      },
+      {
+        "name": "When Hays Was Young",
+        "duration": null
+      },
+      {
+        "name": "Do You Ever Think Of Me",
+        "duration": null
+      },
+      {
+        "name": "Does It Gotta Be Rock 'N' Roll",
+        "duration": null
+      }
+    ]
+  },
+  {
+    "id": 623003,
+    "title": "Rolling Stones Memories",
+    "artist": "Rythmic Eagles",
+    "year": 0,
+    "cover": "https://i.discogs.com/ikPmuKBPZJ4cIacjzDozb4bydz7p--Y0P5rnuvvckgY/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMzAw/My0xNDI3OTc5MzU1/LTk3MTUuanBlZw.jpeg",
+    "tracks": [
+      {
+        "name": "Honky Tonk Woman",
+        "duration": "5:00"
+      },
+      {
+        "name": "Johnny Be Good",
+        "duration": "2:25"
+      },
+      {
+        "name": "Around And Around",
+        "duration": "2:25"
+      },
+      {
+        "name": "Route 66",
+        "duration": "2:30"
+      },
+      {
+        "name": "Down The Road A Piece",
+        "duration": "2:00"
+      },
+      {
+        "name": "Carol",
+        "duration": "2:55"
+      },
+      {
+        "name": "Put Just A Little Love",
+        "duration": "3:00"
+      },
+      {
+        "name": "Sweet Little Sixteen",
+        "duration": "3:40"
+      },
+      {
+        "name": "Love In Vain",
+        "duration": "4:30"
+      },
+      {
+        "name": "Jumping Jack Flash",
+        "duration": "2:55"
+      },
+      {
+        "name": "Blue Suede Shoes",
+        "duration": "2:05"
+      },
+      {
+        "name": "Long Tall Sally",
+        "duration": "2:10"
+      }
+    ]
   },
   {
     "id": 947850,
@@ -2714,6 +7484,153 @@
     "spotify_link": "https://open.spotify.com/album/6nidxuZtFK8gynsZee4U1a"
   },
   {
+    "id": 29908639,
+    "title": "Bridge Over Troubled Water",
+    "artist": "Simon & Garfunkel",
+    "year": 1970,
+    "cover": "https://i.discogs.com/QvuYrqWTz6nOvFGfQigs9L_pBYIqqYbcmdFcfu4cwqI/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5OTA4/NjM5LTE3MDg3OTA3/NzEtNzI4Mi5qcGVn.jpeg",
+    "tracks": [
+      {
+        "name": "Bridge Over Troubled Water",
+        "duration": "4:52"
+      },
+      {
+        "name": "El Condor Pasa",
+        "duration": "3:06"
+      },
+      {
+        "name": "Cecilia",
+        "duration": "2:55"
+      },
+      {
+        "name": "Keep The Customer Satisfied",
+        "duration": "2:33"
+      },
+      {
+        "name": "So Long, Frank Lloyd Wright",
+        "duration": "3:41"
+      },
+      {
+        "name": "The Boxer",
+        "duration": "5:08"
+      },
+      {
+        "name": "Baby Driver",
+        "duration": "3:15"
+      },
+      {
+        "name": "The Only Living Boy In New York",
+        "duration": "3:57"
+      },
+      {
+        "name": "Why Don't You Write Me",
+        "duration": "2:45"
+      },
+      {
+        "name": "Bye Bye Love",
+        "duration": "2:55"
+      },
+      {
+        "name": "Song For The Asking",
+        "duration": "1:39"
+      }
+    ]
+  },
+  {
+    "id": 981644,
+    "title": "New Gold Dream (81-82-83-84)",
+    "artist": "Simple Minds",
+    "year": 1982,
+    "cover": "https://i.discogs.com/bQ9pwdM6gseu-rQsQ9emUng4m2HrRZh5_e2YhTuHDrI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4MTY0/NC0xNjYzMzQxODY2/LTUyMTMuanBlZw.jpeg",
+    "tracks": [
+      {
+        "name": "Someone Somewhere In Summertime",
+        "duration": "4:34"
+      },
+      {
+        "name": "Colours Fly And Catherine Wheel",
+        "duration": "3:49"
+      },
+      {
+        "name": "Promised You A Miracle",
+        "duration": "4:25"
+      },
+      {
+        "name": "Big Sleep",
+        "duration": "4:59"
+      },
+      {
+        "name": "Somebody Up There Likes You",
+        "duration": "4:58"
+      },
+      {
+        "name": "New Gold Dream (81-82-83-84)",
+        "duration": "5:36"
+      },
+      {
+        "name": "Glittering Prize",
+        "duration": "4:33"
+      },
+      {
+        "name": "Hunter And The Hunted",
+        "duration": "5:54"
+      },
+      {
+        "name": "King Is White And In The Crowd",
+        "duration": "6:59"
+      }
+    ]
+  },
+  {
+    "id": 421571,
+    "title": "Men And Women",
+    "artist": "Simply Red",
+    "year": 1987,
+    "cover": "https://i.discogs.com/5BgQ9COLRKx6ky3RvEL5jPrKHSQI4_txWSIfjUwqHP4/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyMTU3/MS0xNTMzNjcyNzU1/LTY3MzYuanBlZw.jpeg",
+    "tracks": [
+      {
+        "name": "The Right Thing",
+        "duration": null
+      },
+      {
+        "name": "Infidelity",
+        "duration": null
+      },
+      {
+        "name": "Suffer",
+        "duration": null
+      },
+      {
+        "name": "I Won't Feel Bad",
+        "duration": null
+      },
+      {
+        "name": "Ev'ry Time We Say Goodbye",
+        "duration": null
+      },
+      {
+        "name": "Let Me Have It All",
+        "duration": null
+      },
+      {
+        "name": "Love Fire",
+        "duration": null
+      },
+      {
+        "name": "Move On Out",
+        "duration": null
+      },
+      {
+        "name": "Shine",
+        "duration": null
+      },
+      {
+        "name": "Maybe Someday...",
+        "duration": null
+      }
+    ]
+  },
+  {
     "id": 416831,
     "title": "Picture Book",
     "artist": "Simply Red",
@@ -2764,6 +7681,96 @@
     "spotify_link": "https://open.spotify.com/album/4pk3tltFMVlT06MLJfmWTT"
   },
   {
+    "id": 231164,
+    "title": "True",
+    "artist": "Spandau Ballet",
+    "year": 1983,
+    "cover": "https://i.discogs.com/HOeAisw2Mh54Tcl70xrk6ydqLDFil_087DaH-G3QwLE/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMTE2/NC0xMTUyNDY1OTY1/LmpwZWc.jpeg",
+    "tracks": [
+      {
+        "name": "Pleasure",
+        "duration": "3:30"
+      },
+      {
+        "name": "Communication",
+        "duration": "3:37"
+      },
+      {
+        "name": "Code Of Love",
+        "duration": "5:10"
+      },
+      {
+        "name": "Gold",
+        "duration": "4:49"
+      },
+      {
+        "name": "Lifeline",
+        "duration": "3:33"
+      },
+      {
+        "name": "Heaven Is A Secret",
+        "duration": "4:24"
+      },
+      {
+        "name": "Foundation",
+        "duration": "4:04"
+      },
+      {
+        "name": "True",
+        "duration": "6:30"
+      }
+    ]
+  },
+  {
+    "id": 4502323,
+    "title": "Encore",
+    "artist": "Status Quo",
+    "year": 1974,
+    "cover": "https://i.discogs.com/rpfhf1q7UPjG3dtztGLrTogiiyhHbi2QeHvJjATPJTQ/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1MDIz/MjMtMTM2NjY5NzM0/MS04NzczLmpwZWc.jpeg",
+    "tracks": [
+      {
+        "name": "Someone's Learning",
+        "duration": "7:06"
+      },
+      {
+        "name": "Spicks And Specks",
+        "duration": "2:45"
+      },
+      {
+        "name": "Junior's Wailing",
+        "duration": "3:32"
+      },
+      {
+        "name": "The Price Of Love",
+        "duration": "3:45"
+      },
+      {
+        "name": "Poor Old Man",
+        "duration": "3:37"
+      },
+      {
+        "name": "Pictures Of Matchstick Men",
+        "duration": "3:12"
+      },
+      {
+        "name": "Lazy Poker Blues",
+        "duration": "3:37"
+      },
+      {
+        "name": "Ice In The Sun",
+        "duration": "2:12"
+      },
+      {
+        "name": "Is It Really Me ? Gotta Go Home",
+        "duration": "9:46"
+      },
+      {
+        "name": "Green Tambourine",
+        "duration": "2:16"
+      }
+    ]
+  },
+  {
     "id": 763528,
     "title": "Can't Buy A Thrill",
     "artist": "Steely Dan",
@@ -2812,6 +7819,120 @@
       }
     ],
     "spotify_link": "https://open.spotify.com/album/6DlSUW5gmq6Byc3osKDJ2p"
+  },
+  {
+    "id": 569816,
+    "title": "Fly Like An Eagle",
+    "artist": "Steve Miller Band",
+    "year": 1976,
+    "cover": "https://i.discogs.com/lexwJEy6uKLnHNCQgJRyeQY8HnKAiMt0uJeBGj0GVgc/rs:fit/g:sm/q:90/h:300/w:301/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2OTgx/Ni0xMTMyNzA4Mjc5/LmpwZWc.jpeg",
+    "tracks": [
+      {
+        "name": "Space Intro",
+        "duration": "1:15"
+      },
+      {
+        "name": "Fly Like An Eagle",
+        "duration": "4:42"
+      },
+      {
+        "name": "Wild Mountain Honey",
+        "duration": "4:50"
+      },
+      {
+        "name": "Serenade",
+        "duration": "3:10"
+      },
+      {
+        "name": "Dance, Dance, Dance",
+        "duration": "2:16"
+      },
+      {
+        "name": "Mercury Blues",
+        "duration": "3:43"
+      },
+      {
+        "name": "Take The Money And Run",
+        "duration": "2:48"
+      },
+      {
+        "name": "Rock 'N Me",
+        "duration": "3:05"
+      },
+      {
+        "name": "You Send Me",
+        "duration": "2:40"
+      },
+      {
+        "name": "Blue Odyssey",
+        "duration": "1:00"
+      },
+      {
+        "name": "Sweet Maree",
+        "duration": "4:16"
+      },
+      {
+        "name": "The Window",
+        "duration": "4:19"
+      }
+    ]
+  },
+  {
+    "id": 6032748,
+    "title": "The Best Of The Steve Miller Band",
+    "artist": "Steve Miller Band",
+    "year": 0,
+    "cover": "https://i.discogs.com/Gfl36InnMSSvfqPEGqOmN9gSWVCMZVtcsF48HCXHPVI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwMzI3/NDgtMTQwOTMyNjYx/NS02NjM1LmpwZWc.jpeg",
+    "tracks": [
+      {
+        "name": "Children Of The Future",
+        "duration": "2:59"
+      },
+      {
+        "name": "Steppin' Stone",
+        "duration": "3:00"
+      },
+      {
+        "name": "Key To The Highway",
+        "duration": "6:15"
+      },
+      {
+        "name": "Gangster Of Love",
+        "duration": "1:26"
+      },
+      {
+        "name": "You're So Fine",
+        "duration": "2:49"
+      },
+      {
+        "name": "Overdrive",
+        "duration": "3:51"
+      },
+      {
+        "name": "Song For Our Ancestors",
+        "duration": "5:55"
+      },
+      {
+        "name": "Dear Mary",
+        "duration": "3:33"
+      },
+      {
+        "name": "Space Cowboy",
+        "duration": "4:49"
+      },
+      {
+        "name": "LT's Midnight Dream",
+        "duration": "2:29"
+      },
+      {
+        "name": "Got Love 'Cause You Need It",
+        "duration": "2:25"
+      },
+      {
+        "name": "Brave New World",
+        "duration": "3:27"
+      }
+    ]
   },
   {
     "id": 171936,
@@ -2906,6 +8027,55 @@
       }
     ],
     "spotify_link": "https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0"
+  },
+  {
+    "id": 1392702,
+    "title": "The Dream Of The Blue Turtles",
+    "artist": "Sting",
+    "year": 1985,
+    "cover": "https://i.discogs.com/TiWmjCU66Ja7XVipvKAjtpib_4G5bV8_QuYJzwvYZCg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTI3/MDItMTQxNDcxNzI0/Mi05MDgyLmpwZWc.jpeg",
+    "tracks": [
+      {
+        "name": "If You Love Somebody Set Them Free",
+        "duration": "4:14"
+      },
+      {
+        "name": "Love Is The Seventh Wave",
+        "duration": "3:30"
+      },
+      {
+        "name": "Russians",
+        "duration": "3:57"
+      },
+      {
+        "name": "Children's Crusade",
+        "duration": "5:00"
+      },
+      {
+        "name": "Shadows In The Rain",
+        "duration": "4:56"
+      },
+      {
+        "name": "We Work The Black Seam",
+        "duration": "5:40"
+      },
+      {
+        "name": "Consider Me Gone",
+        "duration": "4:21"
+      },
+      {
+        "name": "The Dream Of The Blue Turtles",
+        "duration": "1:15"
+      },
+      {
+        "name": "Moon Over Bourbon Street",
+        "duration": "3:59"
+      },
+      {
+        "name": "Fortress Around Your Heart",
+        "duration": "4:48"
+      }
+    ]
   },
   {
     "id": 372272,
@@ -3050,6 +8220,51 @@
     "spotify_link": "https://open.spotify.com/album/2Nip1nntVPSdHJs0ZcRRHg"
   },
   {
+    "id": 618998,
+    "title": "It's My Life",
+    "artist": "Talk Talk",
+    "year": 1984,
+    "cover": "https://i.discogs.com/L6aBj0cdmlHnkQaA2iHNLYcTeI1PTBEfUQe9WJgjEM0/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxODk5/OC0xNzcyMDM3MDMz/LTU3NDEuanBlZw.jpeg",
+    "tracks": [
+      {
+        "name": "Dum Dum Girl",
+        "duration": "3:48"
+      },
+      {
+        "name": "Such A Shame",
+        "duration": "5:37"
+      },
+      {
+        "name": "Renée",
+        "duration": "6:20"
+      },
+      {
+        "name": "It's My Life",
+        "duration": "3:52"
+      },
+      {
+        "name": "Tomorrow Started",
+        "duration": "5:56"
+      },
+      {
+        "name": "The Last Time",
+        "duration": "4:22"
+      },
+      {
+        "name": "Call In The Night Boy",
+        "duration": "3:45"
+      },
+      {
+        "name": "Does Caroline Know?",
+        "duration": "4:35"
+      },
+      {
+        "name": "It's You",
+        "duration": "4:41"
+      }
+    ]
+  },
+  {
     "id": 355502,
     "title": "Stop Making Sense",
     "artist": "Talking Heads",
@@ -3094,6 +8309,325 @@
       }
     ],
     "spotify_link": "https://open.spotify.com/album/4FR8Z6TvIsC56NLyNomNRE"
+  },
+  {
+    "id": 2837366,
+    "title": "The Hurting",
+    "artist": "Tears For Fears",
+    "year": 1983,
+    "cover": "https://i.discogs.com/mKefB9EUEB0Ys1o5VDYG6B1D7se2SzunX4T6FP0L4rk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4Mzcz/NjYtMTUzODQxMTIx/Ni01NTA2LmpwZWc.jpeg",
+    "tracks": [
+      {
+        "name": "The Hurting",
+        "duration": "4:15"
+      },
+      {
+        "name": "Mad World",
+        "duration": "3:30"
+      },
+      {
+        "name": "Pale Shelter",
+        "duration": "5:24"
+      },
+      {
+        "name": "Ideas As Opiates",
+        "duration": "3:46"
+      },
+      {
+        "name": "Memories Fade",
+        "duration": "5:04"
+      },
+      {
+        "name": "Suffer The Children",
+        "duration": "3:49"
+      },
+      {
+        "name": "Watch Me Bleed",
+        "duration": "4:14"
+      },
+      {
+        "name": "Change",
+        "duration": "4:10"
+      },
+      {
+        "name": "The Prisoner",
+        "duration": "2:54"
+      },
+      {
+        "name": "Start Of The Breakdown",
+        "duration": "4:56"
+      }
+    ]
+  },
+  {
+    "id": 1374285,
+    "title": "Power",
+    "artist": "The Temptations",
+    "year": 1980,
+    "cover": "https://i.discogs.com/p2jRGmJAC5CAJuj7jOUbk5jwOlcfrN3LWJXN2EfK0AE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzQy/ODUtMTI0MjczODI1/Ny5qcGVn.jpeg",
+    "tracks": [
+      {
+        "name": "Power",
+        "duration": "6:06"
+      },
+      {
+        "name": "Struck By Lightning Twice",
+        "duration": "4:13"
+      },
+      {
+        "name": "Isn't The Night Fantastic",
+        "duration": "4:15"
+      },
+      {
+        "name": "How Can I Resist Your Love",
+        "duration": "3:53"
+      },
+      {
+        "name": "Shadow Of Your Love",
+        "duration": "4:38"
+      },
+      {
+        "name": "Can't You See Sweet Thing",
+        "duration": "6:07"
+      },
+      {
+        "name": "Go For It",
+        "duration": "4:22"
+      },
+      {
+        "name": "I'm Coming Home",
+        "duration": "4:08"
+      }
+    ]
+  },
+  {
+    "id": 5991629,
+    "title": "Alvin Lee & Company",
+    "artist": "Ten Years After",
+    "year": 1972,
+    "cover": "https://i.discogs.com/O6g6u8m7F2tgKjZfrWi6Pi4hgRHOiQf4pEgB7sIMIXg/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5OTE2/MjktMTQwODI3MDIx/Mi01NTYwLmpwZWc.jpeg",
+    "tracks": [
+      {
+        "name": "The Sounds",
+        "duration": "4:00"
+      },
+      {
+        "name": "Rock Your Mama",
+        "duration": "3:00"
+      },
+      {
+        "name": "Hold Me Tight",
+        "duration": "2:15"
+      },
+      {
+        "name": "Standing At The Crossroads",
+        "duration": "4:00"
+      },
+      {
+        "name": "Portable People",
+        "duration": "2:13"
+      },
+      {
+        "name": "Boogie On",
+        "duration": "14:35"
+      }
+    ]
+  },
+  {
+    "id": 2564751,
+    "title": "Recorded Live",
+    "artist": "Ten Years After",
+    "year": 1973,
+    "cover": "https://i.discogs.com/AcmMLXxJ5nrkmXsYm1RI3kiHKI9znAft3TbiQ0EtmTM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NjQ3/NTEtMTM1Mzk5NDYw/My0zMTcyLmpwZWc.jpeg",
+    "tracks": [
+      {
+        "name": "One Of These Days",
+        "duration": "5:36"
+      },
+      {
+        "name": "You Give Me Loving",
+        "duration": "5:25"
+      },
+      {
+        "name": "Good Morning Little Schoolgirl",
+        "duration": "7:15"
+      },
+      {
+        "name": "Hobbit",
+        "duration": "7:15"
+      },
+      {
+        "name": "Help Me",
+        "duration": "10:44"
+      },
+      {
+        "name": "Classical Thing",
+        "duration": "0:36"
+      },
+      {
+        "name": "Scat Thing",
+        "duration": "0:55"
+      },
+      {
+        "name": "I Can't Keep From Cryin' Sometimes",
+        "duration": "16:24"
+      },
+      {
+        "name": "Silly Thing",
+        "duration": "0:26"
+      },
+      {
+        "name": "Slow Blues In 'C'",
+        "duration": "7:24"
+      },
+      {
+        "name": "I'm Going Home",
+        "duration": "9:30"
+      },
+      {
+        "name": "Choo Choo Mama",
+        "duration": "2:56"
+      }
+    ]
+  },
+  {
+    "id": 1451880,
+    "title": "Introducing The Hardline According To Terence Trent D'Arby",
+    "artist": "Terence Trent D'Arby",
+    "year": 1987,
+    "cover": "https://i.discogs.com/UjocfUibTfSSZU39x3rSS8iQedJR04FI1h8JaE4nk5s/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTE4/ODAtMTU0MjEyNzYw/OC02NTI4LmpwZWc.jpeg",
+    "tracks": [
+      {
+        "name": "If You All Get To Heaven",
+        "duration": "5:17"
+      },
+      {
+        "name": "If You Let Me Stay",
+        "duration": "3:13"
+      },
+      {
+        "name": "Wishing Well",
+        "duration": "3:29"
+      },
+      {
+        "name": "I'll Never Turn My Back On You (Father's Words)",
+        "duration": "3:36"
+      },
+      {
+        "name": "Dance Little Sister",
+        "duration": "3:53"
+      },
+      {
+        "name": "Seven More Days",
+        "duration": "4:33"
+      },
+      {
+        "name": "Let's Go Forward",
+        "duration": "5:31"
+      },
+      {
+        "name": "Rain",
+        "duration": "2:58"
+      },
+      {
+        "name": "Sign Your Name",
+        "duration": "4:35"
+      },
+      {
+        "name": "As Yet Untitled",
+        "duration": "5:33"
+      },
+      {
+        "name": "Who's Loving You",
+        "duration": "4:33"
+      }
+    ]
+  },
+  {
+    "id": 761506,
+    "title": "The Flat Earth",
+    "artist": "Thomas Dolby",
+    "year": 1984,
+    "cover": "https://i.discogs.com/h9NMFpG7r-2DxKgQYUdFqh5F7gtdy3gWJ_6J4n2x8RI/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MTUw/Ni0xNjc4MjE1MTc5/LTk2OTQuanBlZw.jpeg",
+    "tracks": [
+      {
+        "name": "Dissidents",
+        "duration": null
+      },
+      {
+        "name": "The Flat Earth",
+        "duration": null
+      },
+      {
+        "name": "Screen Kiss",
+        "duration": null
+      },
+      {
+        "name": "White City",
+        "duration": null
+      },
+      {
+        "name": "Mulu The Rain Forest",
+        "duration": null
+      },
+      {
+        "name": "I Scare Myself",
+        "duration": null
+      },
+      {
+        "name": "Hyperactive!",
+        "duration": null
+      }
+    ]
+  },
+  {
+    "id": 4202377,
+    "title": "Private Dancer",
+    "artist": "Tina Turner",
+    "year": 1984,
+    "cover": "https://i.discogs.com/9Mfm6R65DKELWKtboLFlfQ_o9Db7BrJSDw-sDpS5eTo/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyMDIz/NzctMTQ0ODUwNTM0/MC0zNDE0LmpwZWc.jpeg",
+    "tracks": [
+      {
+        "name": "I Might Have Been Queen",
+        "duration": "4:08"
+      },
+      {
+        "name": "What's Love Got To Do With It",
+        "duration": "3:49"
+      },
+      {
+        "name": "Show Some Respect",
+        "duration": "3:19"
+      },
+      {
+        "name": "I Can't Stand The Rain",
+        "duration": "3:40"
+      },
+      {
+        "name": "Private Dancer",
+        "duration": "7:16"
+      },
+      {
+        "name": "Let's Stay Together",
+        "duration": "5:15"
+      },
+      {
+        "name": "Better Be Good To Me",
+        "duration": "5:14"
+      },
+      {
+        "name": "Steel Claw",
+        "duration": "3:40"
+      },
+      {
+        "name": "Help",
+        "duration": "4:30"
+      },
+      {
+        "name": "1984",
+        "duration": "3:10"
+      }
+    ]
   },
   {
     "id": 204237,
@@ -3146,6 +8680,874 @@
     "spotify_link": "https://open.spotify.com/album/3FFosIE1A9HGRrinKTcBQ3"
   },
   {
+    "id": 9051371,
+    "title": "War",
+    "artist": "U2",
+    "year": 1983,
+    "cover": "https://i.discogs.com/pfvFG8zV-Rv_8XwLZCx7-nTXLEdiKitPr67yPN8fWGo/rs:fit/g:sm/q:90/h:584/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNTEz/NzEtMTYzMjE2MjAw/Mi05MDMyLmpwZWc.jpeg",
+    "tracks": [
+      {
+        "name": "Sunday Bloody Sunday",
+        "duration": "4:38"
+      },
+      {
+        "name": "Seconds",
+        "duration": "3:12"
+      },
+      {
+        "name": "New Year's Day",
+        "duration": "5:38"
+      },
+      {
+        "name": "Like A Song...",
+        "duration": "4:48"
+      },
+      {
+        "name": "Drowning Man",
+        "duration": "4:12"
+      },
+      {
+        "name": "The Refugee",
+        "duration": "3:40"
+      },
+      {
+        "name": "Two Hearts Beat As One",
+        "duration": "4:05"
+      },
+      {
+        "name": "Red Light",
+        "duration": "3:46"
+      },
+      {
+        "name": "Surrender",
+        "duration": "5:35"
+      },
+      {
+        "name": "\"40\"",
+        "duration": "2:38"
+      }
+    ]
+  },
+  {
+    "id": 806680,
+    "title": "Tribute To The Beatles",
+    "artist": "Unknown Artist",
+    "year": 0,
+    "cover": "https://i.discogs.com/uQvWkmEl9qjl84j1a4QPWrwMCuXiJvYiDQI_2tLVn7c/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwNjY4/MC0xNDk2NjY4Nzk2/LTk3MjQucG5n.jpeg",
+    "tracks": [
+      {
+        "name": "Hi Hi Hi",
+        "duration": null
+      },
+      {
+        "name": "Woman Is The Nigger Of The World",
+        "duration": null
+      },
+      {
+        "name": "Mary Had A Little Lamb",
+        "duration": null
+      },
+      {
+        "name": "If Not For You",
+        "duration": null
+      },
+      {
+        "name": "Power To The People",
+        "duration": null
+      },
+      {
+        "name": "Imagine",
+        "duration": null
+      },
+      {
+        "name": "Back Off Boogaloo",
+        "duration": null
+      },
+      {
+        "name": "Come And Get It",
+        "duration": null
+      },
+      {
+        "name": "My Sweet Lord",
+        "duration": null
+      },
+      {
+        "name": "Another Day",
+        "duration": null
+      },
+      {
+        "name": "Here Comes The Sun",
+        "duration": null
+      },
+      {
+        "name": "Bangla Desh",
+        "duration": null
+      },
+      {
+        "name": "Mother",
+        "duration": null
+      },
+      {
+        "name": "What Is Life",
+        "duration": null
+      }
+    ]
+  },
+  {
+    "id": 390990,
+    "title": "...Very 'Eavy ...Very 'Umble",
+    "artist": "Uriah Heep",
+    "year": 1971,
+    "cover": "https://i.discogs.com/3f-wYcx8lE8qLq0r9mSsFTAkpcXpvzGyeVXxCrd0-Qw/rs:fit/g:sm/q:90/h:600/w:578/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MDk5/MC0xMzY5NTYxNjQ2/LTg4NTEuanBlZw.jpeg",
+    "tracks": [
+      {
+        "name": "Gypsy",
+        "duration": null
+      },
+      {
+        "name": "Walking In Your Shadow",
+        "duration": null
+      },
+      {
+        "name": "Come Away Melinda",
+        "duration": null
+      },
+      {
+        "name": "Lucy Blues",
+        "duration": null
+      },
+      {
+        "name": "Dreammare",
+        "duration": null
+      },
+      {
+        "name": "Real Turned On",
+        "duration": null
+      },
+      {
+        "name": "I'll Keep On Trying",
+        "duration": null
+      },
+      {
+        "name": "Wake Up (Set Your Sights)",
+        "duration": null
+      }
+    ]
+  },
+  {
+    "id": 646062,
+    "title": "Uriah Heep Live",
+    "artist": "Uriah Heep",
+    "year": 1973,
+    "cover": "https://i.discogs.com/eJzowtSstJLIODkrczQTqXuQ5zcCPtmgAfBP7-7l7Fw/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0NjA2/Mi0xNDI4MTc4MzQ2/LTQ1ODQuanBlZw.jpeg",
+    "tracks": [
+      {
+        "name": "Introduction",
+        "duration": null
+      },
+      {
+        "name": "Sunrise",
+        "duration": "3:50"
+      },
+      {
+        "name": "Sweet Lorraine",
+        "duration": "4:27"
+      },
+      {
+        "name": "Traveller In Time",
+        "duration": "3:20"
+      },
+      {
+        "name": "Easy Livin'",
+        "duration": "2:43"
+      },
+      {
+        "name": "July Morning",
+        "duration": "11:23"
+      },
+      {
+        "name": "Tears In My Eyes",
+        "duration": "4:34"
+      },
+      {
+        "name": "Gypsy",
+        "duration": "13:32"
+      },
+      {
+        "name": "Circle Of Hands",
+        "duration": "8:47"
+      },
+      {
+        "name": "Look At Yourself",
+        "duration": "5:57"
+      },
+      {
+        "name": "Magician's Birthday",
+        "duration": "1:15"
+      },
+      {
+        "name": "Love Machine",
+        "duration": "3:07"
+      },
+      {
+        "name": "Rock 'N Roll Medley",
+        "duration": null
+      }
+    ]
+  },
+  {
+    "id": 380237,
+    "title": "Wonderworld",
+    "artist": "Uriah Heep",
+    "year": 1974,
+    "cover": "https://i.discogs.com/b8FBMnOrSQyNShbpo_CZrzzl7y2wZyfTJfopeHifwCA/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MDIz/Ny0xMzYwNzc2OTU2/LTM5NTYuanBlZw.jpeg",
+    "tracks": [
+      {
+        "name": "Wonderworld",
+        "duration": "4:29"
+      },
+      {
+        "name": "Suicidal Man",
+        "duration": "3:38"
+      },
+      {
+        "name": "The Shadows And The Wind",
+        "duration": "4:27"
+      },
+      {
+        "name": "So Tired",
+        "duration": "3:39"
+      },
+      {
+        "name": "The Easy Road",
+        "duration": "2:43"
+      },
+      {
+        "name": "Something Or Nothing",
+        "duration": "2:56"
+      },
+      {
+        "name": "I Won't Mind",
+        "duration": "5:59"
+      },
+      {
+        "name": "We Got We",
+        "duration": "3:39"
+      },
+      {
+        "name": "Dreams",
+        "duration": "6:10"
+      }
+    ]
+  },
+  {
+    "id": 972803,
+    "title": "25 Jaar Popmuziek - 1983",
+    "artist": "Various",
+    "year": 1988,
+    "cover": "https://i.discogs.com/2Kmx1c948lC8Wiy7ggHSMhsNJg35_pBJhf0FxdcxLiM/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3Mjgw/My0xMjk2OTI2NDc2/LmpwZWc.jpeg",
+    "tracks": [
+      {
+        "name": "Beat It",
+        "duration": "4:11"
+      },
+      {
+        "name": "99 Luftballons",
+        "duration": "3:50"
+      },
+      {
+        "name": "Fall In Love With Me",
+        "duration": "3:54"
+      },
+      {
+        "name": "I Need You",
+        "duration": "2:47"
+      },
+      {
+        "name": "It's Raining Men",
+        "duration": "3:31"
+      },
+      {
+        "name": "Young Guns (Go For It)",
+        "duration": "3:41"
+      },
+      {
+        "name": "Nescio",
+        "duration": "4:46"
+      },
+      {
+        "name": "They All Went To Mexico",
+        "duration": "4:44"
+      },
+      {
+        "name": "Overkill",
+        "duration": "3:44"
+      },
+      {
+        "name": "Ben",
+        "duration": "2:58"
+      },
+      {
+        "name": "Tell Her About It",
+        "duration": "3:46"
+      },
+      {
+        "name": "Wham Rap!",
+        "duration": "3:30"
+      },
+      {
+        "name": "Sexual Healing",
+        "duration": "4:06"
+      },
+      {
+        "name": "Just Be Good To Me",
+        "duration": "5:37"
+      },
+      {
+        "name": "Cry Just A Little Bit",
+        "duration": "3:09"
+      },
+      {
+        "name": "Give It Up",
+        "duration": "4:13"
+      },
+      {
+        "name": "I'm Specialized In You",
+        "duration": "3:52"
+      },
+      {
+        "name": "Rock It",
+        "duration": "3:37"
+      },
+      {
+        "name": "Total Eclipse Of The Heart",
+        "duration": "4:29"
+      },
+      {
+        "name": "Reggae Night",
+        "duration": "3:58"
+      }
+    ]
+  },
+  {
+    "id": 1023211,
+    "title": "Dank U!",
+    "artist": "Various",
+    "year": 1970,
+    "cover": "https://i.discogs.com/T_FR3UONEH_RSgpVZKpbYXZcURizVGGOhXrBdIIpRSU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjMy/MTEtMTU1NjQ2MDky/OS0xNTE1LmpwZWc.jpeg",
+    "tracks": [
+      {
+        "name": "Don't You Leave",
+        "duration": null
+      },
+      {
+        "name": "Without Your Love",
+        "duration": null
+      },
+      {
+        "name": "Na-Na-Na",
+        "duration": null
+      },
+      {
+        "name": "Capitol Punishment",
+        "duration": null
+      },
+      {
+        "name": "King Size Coca Cola Man",
+        "duration": null
+      },
+      {
+        "name": "Air",
+        "duration": null
+      },
+      {
+        "name": "Long And Lonesome Road",
+        "duration": null
+      },
+      {
+        "name": "The Last Seven Days",
+        "duration": null
+      },
+      {
+        "name": "Margio",
+        "duration": null
+      },
+      {
+        "name": "Wasted Words",
+        "duration": null
+      },
+      {
+        "name": "Down Man",
+        "duration": null
+      },
+      {
+        "name": "That Day",
+        "duration": null
+      }
+    ]
+  },
+  {
+    "id": 4563023,
+    "title": "Hard-Up Heroes",
+    "artist": "Various",
+    "year": 1974,
+    "cover": "https://i.discogs.com/PBB6ZRZAmpSA_ZP34COO9AolOiVArkdupLoeF9ZKIKg/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1NjMw/MjMtMTU1OTU5NTIx/OS01Nzg5LmpwZWc.jpeg",
+    "tracks": [
+      {
+        "name": "Some Other Guy",
+        "duration": null
+      },
+      {
+        "name": "Give Her My Regards",
+        "duration": null
+      },
+      {
+        "name": "I Got My Mojo Working",
+        "duration": null
+      },
+      {
+        "name": "My Baby Left Me",
+        "duration": null
+      },
+      {
+        "name": "Everything's Al'Right",
+        "duration": null
+      },
+      {
+        "name": "Long Tall Shorty",
+        "duration": null
+      },
+      {
+        "name": "You Came Along",
+        "duration": null
+      },
+      {
+        "name": "Tobacco Road",
+        "duration": null
+      },
+      {
+        "name": "Da Doo Ron Ron",
+        "duration": null
+      },
+      {
+        "name": "The Uncle Willie",
+        "duration": null
+      },
+      {
+        "name": "So Much In Love",
+        "duration": null
+      },
+      {
+        "name": "I'll Cry Instead",
+        "duration": null
+      },
+      {
+        "name": "I Go Ape",
+        "duration": null
+      },
+      {
+        "name": "Now We're Thru'",
+        "duration": null
+      },
+      {
+        "name": "Good Morning Little Schoolgirl",
+        "duration": null
+      },
+      {
+        "name": "Tell Her No",
+        "duration": null
+      },
+      {
+        "name": "Leaving Here",
+        "duration": null
+      },
+      {
+        "name": "Watcha Gonna Do About It",
+        "duration": null
+      },
+      {
+        "name": "Have You Heard",
+        "duration": null
+      },
+      {
+        "name": "(Do I Figure) In Your Life",
+        "duration": null
+      },
+      {
+        "name": "The London Boys",
+        "duration": null
+      },
+      {
+        "name": "The Story Of Them Parts 1 & 2",
+        "duration": null
+      },
+      {
+        "name": "The First Cut Is The Deepest",
+        "duration": null
+      },
+      {
+        "name": "Beggin'",
+        "duration": null
+      }
+    ]
+  },
+  {
+    "id": 1294705,
+    "title": "Hit Fever",
+    "artist": "Various",
+    "year": 1978,
+    "cover": "https://i.discogs.com/dxtAsIj_utvI3T7Y9l4zYB86jVg5qCNU241N3Cuzf30/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTQ3/MDUtMTIxNjYzMjgw/My5qcGVn.jpeg",
+    "tracks": [
+      {
+        "name": "Dreadlock Holiday",
+        "duration": null
+      },
+      {
+        "name": "Rocking In The Street",
+        "duration": null
+      },
+      {
+        "name": "Rasputin",
+        "duration": null
+      },
+      {
+        "name": "Hot Shot",
+        "duration": null
+      },
+      {
+        "name": "All For Love",
+        "duration": null
+      },
+      {
+        "name": "Movin' Down Life",
+        "duration": null
+      },
+      {
+        "name": "Tango Motion",
+        "duration": null
+      },
+      {
+        "name": "I Thought It Was You",
+        "duration": null
+      },
+      {
+        "name": "No No Sheriff",
+        "duration": null
+      },
+      {
+        "name": "Who Pays The Ferryman",
+        "duration": null
+      },
+      {
+        "name": "Get Off",
+        "duration": null
+      },
+      {
+        "name": "Let Me Be Your Lover",
+        "duration": null
+      },
+      {
+        "name": "Give Love A Second Chance",
+        "duration": null
+      },
+      {
+        "name": "Come Into My Heart / Good Loving",
+        "duration": null
+      },
+      {
+        "name": "Rock 'n Roll Damnation",
+        "duration": null
+      },
+      {
+        "name": "Saturday Night",
+        "duration": null
+      },
+      {
+        "name": "Gold",
+        "duration": null
+      },
+      {
+        "name": "Dear John",
+        "duration": null
+      },
+      {
+        "name": "Beach Boys Gold",
+        "duration": null
+      },
+      {
+        "name": "Too Much, Too Little, Too Late",
+        "duration": null
+      }
+    ]
+  },
+  {
+    "id": 3003479,
+    "title": "In A Latin Mood",
+    "artist": "Various",
+    "year": 1976,
+    "cover": "https://i.discogs.com/iIDcqtCTW5fmfWKvXIoQntUoOGO-QRL3WNDGeuCd4xU/rs:fit/g:sm/q:90/h:379/w:383/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDM0/NzktMTMxMTI2NDg2/My5qcGVn.jpeg",
+    "tracks": [
+      {
+        "name": "Moliendo Cafe",
+        "duration": "2:39"
+      },
+      {
+        "name": "Amor, Amor, Amor",
+        "duration": "2:42"
+      },
+      {
+        "name": "Patricia",
+        "duration": "2:42"
+      },
+      {
+        "name": "Batucada",
+        "duration": "3:05"
+      },
+      {
+        "name": "Corcovado",
+        "duration": "2:49"
+      },
+      {
+        "name": "Night & Day",
+        "duration": "2:36"
+      },
+      {
+        "name": "Guantanamera",
+        "duration": "2:41"
+      },
+      {
+        "name": "Tabasco",
+        "duration": "2:53"
+      },
+      {
+        "name": "Cherry Pink And Apple Blossom White",
+        "duration": "2:45"
+      },
+      {
+        "name": "Mambo Jambo",
+        "duration": "3:13"
+      },
+      {
+        "name": "Trip To Nicaragua",
+        "duration": "3:03"
+      },
+      {
+        "name": "Borriquito",
+        "duration": "2:36"
+      }
+    ]
+  },
+  {
+    "id": 2697583,
+    "title": "Lady Love - 28 Soft Pop Songs",
+    "artist": "Various",
+    "year": 1984,
+    "cover": "https://i.discogs.com/k2Udt_leSB3YsJdmGxxyFI3FgsK7l0xKBa6Vbd9bHIc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTc1/ODMtMTI5NzAwNzg0/Mi5qcGVn.jpeg",
+    "tracks": [
+      {
+        "name": "Lady Love",
+        "duration": "4:02"
+      },
+      {
+        "name": "Close To You",
+        "duration": "4:34"
+      },
+      {
+        "name": "My Cherie Amour",
+        "duration": "3:30"
+      },
+      {
+        "name": "100 Words",
+        "duration": "3:55"
+      },
+      {
+        "name": "I Want Some More",
+        "duration": "3:03"
+      },
+      {
+        "name": "You've Made Me So Very Happy",
+        "duration": "4:18"
+      },
+      {
+        "name": "The Other Side Of The Sun",
+        "duration": "3:58"
+      },
+      {
+        "name": "I Can't Help It",
+        "duration": "4:27"
+      },
+      {
+        "name": "My Heart Lies",
+        "duration": "2:24"
+      },
+      {
+        "name": "Love Don't Ever Say Goodbye",
+        "duration": "4:38"
+      },
+      {
+        "name": "It Feels So Good To Be Loved So Bad",
+        "duration": "4:35"
+      },
+      {
+        "name": "Shine Silently",
+        "duration": "3:41"
+      },
+      {
+        "name": "I Don't Want To Talk About It",
+        "duration": "3:36"
+      },
+      {
+        "name": "Shine On",
+        "duration": "3:55"
+      },
+      {
+        "name": "Just The Way You Are",
+        "duration": "4:50"
+      },
+      {
+        "name": "Too Much, Too Little, Too Late",
+        "duration": "2:59"
+      },
+      {
+        "name": "All I Really Want To Do",
+        "duration": "2:02"
+      },
+      {
+        "name": "I'm Specialized In You",
+        "duration": "3:52"
+      },
+      {
+        "name": "No Regrets",
+        "duration": "5:40"
+      },
+      {
+        "name": "Suzanne",
+        "duration": "3:47"
+      },
+      {
+        "name": "Ben",
+        "duration": "3:46"
+      },
+      {
+        "name": "Rosie",
+        "duration": "3:10"
+      },
+      {
+        "name": "Yhere Is Always Something There To Remind Me",
+        "duration": "4:20"
+      },
+      {
+        "name": "Oh Love, Well, We Finally Made It",
+        "duration": "3:50"
+      },
+      {
+        "name": "Nescio",
+        "duration": "4:46"
+      },
+      {
+        "name": "Am I Too Late",
+        "duration": "4:26"
+      },
+      {
+        "name": "Time To Come In",
+        "duration": "3:32"
+      },
+      {
+        "name": "Lady",
+        "duration": "3:39"
+      }
+    ]
+  },
+  {
+    "id": 2682476,
+    "title": "Lost Without Your Love",
+    "artist": "Various",
+    "year": 1980,
+    "cover": "https://i.discogs.com/yUbf4RH56C581p7xcFpk92pbDutjnyRyv2Lzsc3WZBQ/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODI0/NzYtMTI5NjM5NDU4/My5qcGVn.jpeg",
+    "tracks": [
+      {
+        "name": "Babe",
+        "duration": null
+      },
+      {
+        "name": "Everytime I Think Of You",
+        "duration": null
+      },
+      {
+        "name": "A Little Bit More",
+        "duration": null
+      },
+      {
+        "name": "We're All Alone",
+        "duration": null
+      },
+      {
+        "name": "I'm Still Waiting",
+        "duration": null
+      },
+      {
+        "name": "Me And Mrs. Jones",
+        "duration": null
+      },
+      {
+        "name": "If I Said You Had A Beautiful Body",
+        "duration": null
+      },
+      {
+        "name": "If I Had Words",
+        "duration": null
+      },
+      {
+        "name": "Keep It Coming Love",
+        "duration": null
+      },
+      {
+        "name": "Lost Without Your Love",
+        "duration": null
+      },
+      {
+        "name": "Please Don't Go",
+        "duration": null
+      },
+      {
+        "name": "Laying In The Arms Of Mary",
+        "duration": null
+      },
+      {
+        "name": "Just To Be Close To You",
+        "duration": null
+      },
+      {
+        "name": "You're Having My Baby",
+        "duration": null
+      },
+      {
+        "name": "Don't Give Up On Us",
+        "duration": null
+      },
+      {
+        "name": "You Light Up My Life",
+        "duration": null
+      },
+      {
+        "name": "To Make My Life Beautiful",
+        "duration": null
+      },
+      {
+        "name": "You're All I Need To Get By",
+        "duration": null
+      },
+      {
+        "name": "I Will Survive",
+        "duration": null
+      },
+      {
+        "name": "If You Go Away",
+        "duration": null
+      }
+    ]
+  },
+  {
     "id": 405373,
     "title": "Now This Is Music 3",
     "artist": "Various",
@@ -3153,6 +9555,379 @@
     "cover": "https://i.discogs.com/z0m3yN4mqgBxNLhHxkJQtePq-Uadjk9tGngqSb6Qp-4/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwNTM3/My0xMzMyMDExNDQz/LmpwZWc.jpeg",
     "tracks": [],
     "spotify_link": "https://open.spotify.com/album/77zu6NfDouq2TomJaVadKb"
+  },
+  {
+    "id": 540271,
+    "title": "Popworld",
+    "artist": "Various",
+    "year": 1978,
+    "cover": "https://i.discogs.com/2NvluoM-jCEmH1nJSX3kXQhUdihWHneDQZ2GHUUpHaI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0MDI3/MS0xMjk2MjUyNTU0/LmpwZWc.jpeg",
+    "tracks": [
+      {
+        "name": "Y.M.C.A.",
+        "duration": null
+      },
+      {
+        "name": "You've Got All Of Me",
+        "duration": null
+      },
+      {
+        "name": "I Love America",
+        "duration": null
+      },
+      {
+        "name": "Picture This",
+        "duration": null
+      },
+      {
+        "name": "Forget About You",
+        "duration": null
+      },
+      {
+        "name": "Meteor Man",
+        "duration": null
+      },
+      {
+        "name": "British Hustle",
+        "duration": null
+      },
+      {
+        "name": "Ce Plane Pour Moi",
+        "duration": null
+      },
+      {
+        "name": "American Generation",
+        "duration": null
+      },
+      {
+        "name": "Hot Child In The City",
+        "duration": null
+      },
+      {
+        "name": "Carnival",
+        "duration": null
+      },
+      {
+        "name": "Skateboard",
+        "duration": null
+      },
+      {
+        "name": "X-Ray Vision",
+        "duration": null
+      },
+      {
+        "name": "Romeo And Juliet",
+        "duration": null
+      },
+      {
+        "name": "Prodigal Son",
+        "duration": null
+      },
+      {
+        "name": "Now That We've Found Love",
+        "duration": null
+      }
+    ]
+  },
+  {
+    "id": 1149449,
+    "title": "Saturday Night Fever (The Original Movie Sound Track)",
+    "artist": "Various",
+    "year": 1977,
+    "cover": "https://i.discogs.com/Y63S7krUIU0E_E7_Ak2C_PMlFSlEyAmOqJyVbxsMsU4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDk0/NDktMTIzNTgzMjMy/Mi5qcGVn.jpeg",
+    "tracks": [
+      {
+        "name": "Stayin' Alive",
+        "duration": "4:43"
+      },
+      {
+        "name": "How Deep Is Your Love",
+        "duration": "4:03"
+      },
+      {
+        "name": "Night Fever",
+        "duration": "3:33"
+      },
+      {
+        "name": "More Than A Woman",
+        "duration": "3:15"
+      },
+      {
+        "name": "If I Can't Have You",
+        "duration": "2:57"
+      },
+      {
+        "name": "A Fifth Of Beethoven",
+        "duration": "3:01"
+      },
+      {
+        "name": "More Than A Woman",
+        "duration": "3:16"
+      },
+      {
+        "name": "Manhattan Skyline",
+        "duration": "4:43"
+      },
+      {
+        "name": "Calypso Breakdown",
+        "duration": "7:50"
+      },
+      {
+        "name": "Night On Disco Mountain",
+        "duration": "5:12"
+      },
+      {
+        "name": "Open Sesame",
+        "duration": "3:59"
+      },
+      {
+        "name": "Jive Talkin'",
+        "duration": "3:44"
+      },
+      {
+        "name": "You Should Be Dancing",
+        "duration": "4:15"
+      },
+      {
+        "name": "Boogie Shoes",
+        "duration": "2:16"
+      },
+      {
+        "name": "Salsation",
+        "duration": "3:50"
+      },
+      {
+        "name": "K-Jee",
+        "duration": "4:15"
+      },
+      {
+        "name": "Disco Inferno",
+        "duration": "10:52"
+      }
+    ]
+  },
+  {
+    "id": 192413,
+    "title": "Thank God It's Friday (The Original Motion Picture Soundtrack)",
+    "artist": "Various",
+    "year": 1978,
+    "cover": "https://i.discogs.com/uTPgU_7Moenx-pPfCn_jfn6t7YJyry3-N4YF6aA5qZM/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MjQx/My0xMzg1NTA5Mzg2/LTQ1OTcuanBlZw.jpeg",
+    "tracks": [
+      {
+        "name": "Thank God It's Friday",
+        "duration": "4:16"
+      },
+      {
+        "name": "After Dark",
+        "duration": "7:55"
+      },
+      {
+        "name": "With Your Love",
+        "duration": "4:00"
+      },
+      {
+        "name": "Last Dance",
+        "duration": "6:58"
+      },
+      {
+        "name": "Disco Queen",
+        "duration": "3:46"
+      },
+      {
+        "name": "Find My Way",
+        "duration": "4:57"
+      },
+      {
+        "name": "Too Hot Ta Trot",
+        "duration": "3:30"
+      },
+      {
+        "name": "Leatherman's Theme",
+        "duration": "3:25"
+      },
+      {
+        "name": "I Wanna Dance",
+        "duration": "5:50"
+      },
+      {
+        "name": "Take It To The Zoo",
+        "duration": "7:56"
+      },
+      {
+        "name": "Sevilla Nights",
+        "duration": "5:52"
+      },
+      {
+        "name": "You're The Most Precious Thing In My Life",
+        "duration": "7:55"
+      },
+      {
+        "name": "Do You Want The Real Thing",
+        "duration": "4:42"
+      },
+      {
+        "name": "Trapped In A Stairway",
+        "duration": "3:30"
+      },
+      {
+        "name": "Floyd's Theme",
+        "duration": "2:58"
+      },
+      {
+        "name": "Lovin', Livin' And Givin'",
+        "duration": "4:39"
+      },
+      {
+        "name": "Love Masterpiece",
+        "duration": "4:03"
+      },
+      {
+        "name": "Last Dance (Reprise)",
+        "duration": "3:17"
+      },
+      {
+        "name": "Je T'Aime (Moi Non Plus)",
+        "duration": "15:51"
+      }
+    ]
+  },
+  {
+    "id": 8545521,
+    "title": "That's Soul The 16 Greatest",
+    "artist": "Various",
+    "year": 1977,
+    "cover": "https://i.discogs.com/CkHFLgDpO-Tk4MzwStwqiM8e5kEnOlj-tXN37_o-Ka8/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1NDU1/MjEtMTc1MjA1MTA3/MS0zNzY4LmpwZWc.jpeg",
+    "tracks": [
+      {
+        "name": "Fire",
+        "duration": "4:30"
+      },
+      {
+        "name": "Rubberband Man",
+        "duration": "3:30"
+      },
+      {
+        "name": "Family Affair",
+        "duration": "3:03"
+      },
+      {
+        "name": "You're The First, The Last, My Everything",
+        "duration": "3:20"
+      },
+      {
+        "name": "Papa Was A Rolling Stone",
+        "duration": "6:58"
+      },
+      {
+        "name": "Baby Love",
+        "duration": "2:36"
+      },
+      {
+        "name": "Reach Out I'll Be There",
+        "duration": "2:58"
+      },
+      {
+        "name": "Ben",
+        "duration": "2:42"
+      },
+      {
+        "name": "It's A Man's Man's Man's World",
+        "duration": "2:45"
+      },
+      {
+        "name": "When A Man Loves A Woman",
+        "duration": "2:51"
+      },
+      {
+        "name": "In The Midnight Hour",
+        "duration": "2:30"
+      },
+      {
+        "name": "Hold On I'm Coming",
+        "duration": "2:30"
+      },
+      {
+        "name": "(Sittin' On) The Dock Of The Bay",
+        "duration": "2:43"
+      },
+      {
+        "name": "I Say A Little Prayer",
+        "duration": "3:30"
+      },
+      {
+        "name": "Green Onions",
+        "duration": "2:45"
+      },
+      {
+        "name": "The Tears Of A Clown",
+        "duration": "2:58"
+      }
+    ]
+  },
+  {
+    "id": 2346997,
+    "title": "The Ariola Hitsingles Vol. 2",
+    "artist": "Various",
+    "year": 1979,
+    "cover": "https://i.discogs.com/O4C03cHruHpAeveReEqHL32gZgI-lRutbNiwbZmf_Gk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNDY5/OTctMTYyNTk1MTQ5/NC0xNzIzLnBuZw.jpeg",
+    "tracks": [
+      {
+        "name": "The Runner",
+        "duration": null
+      },
+      {
+        "name": "Stir It Up",
+        "duration": null
+      },
+      {
+        "name": "Give Me An Inch Girl",
+        "duration": null
+      },
+      {
+        "name": "Switch",
+        "duration": null
+      },
+      {
+        "name": "Hold On",
+        "duration": null
+      },
+      {
+        "name": "Disco Really Made It",
+        "duration": null
+      },
+      {
+        "name": "Now That We Found Love",
+        "duration": null
+      },
+      {
+        "name": "Everytime I Think Of You",
+        "duration": null
+      },
+      {
+        "name": "Drivers Seat",
+        "duration": null
+      },
+      {
+        "name": "American Generation",
+        "duration": null
+      },
+      {
+        "name": "Gold",
+        "duration": null
+      },
+      {
+        "name": "Buzz, Buzz, Buzz",
+        "duration": null
+      },
+      {
+        "name": "That's Life",
+        "duration": null
+      },
+      {
+        "name": "Heart Of Glass",
+        "duration": null
+      }
+    ]
   },
   {
     "id": 464953,
@@ -3164,6 +9939,233 @@
     "spotify_link": "https://open.spotify.com/album/12kQ3BmZML6OpDNVb2bl0v"
   },
   {
+    "id": 2556786,
+    "title": "The Complete Reggae Music Album",
+    "artist": "Various",
+    "year": 1985,
+    "cover": "https://i.discogs.com/a2qk8Pf7tpRN-oUDMwnAaeZCdzPtqMfN61Ge-imtWFo/rs:fit/g:sm/q:90/h:550/w:572/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NTY3/ODYtMTQxOTE4MzU3/OS01MTYyLmpwZWc.jpeg",
+    "tracks": [
+      {
+        "name": "Reggae Night",
+        "duration": null
+      },
+      {
+        "name": "Amigo",
+        "duration": null
+      },
+      {
+        "name": "The Youth Of Today",
+        "duration": null
+      },
+      {
+        "name": "Love Come Down",
+        "duration": null
+      },
+      {
+        "name": "Try Again",
+        "duration": null
+      },
+      {
+        "name": "A Whiter Shade Of Pale",
+        "duration": null
+      },
+      {
+        "name": "Sunshine Reggae",
+        "duration": null
+      },
+      {
+        "name": "Someone Loves You Honey",
+        "duration": null
+      },
+      {
+        "name": "One Draw",
+        "duration": null
+      },
+      {
+        "name": "Go Deh Yaka",
+        "duration": null
+      },
+      {
+        "name": "What Is Life",
+        "duration": null
+      },
+      {
+        "name": "Ku Klux Klan",
+        "duration": null
+      },
+      {
+        "name": "Can't Dub",
+        "duration": null
+      },
+      {
+        "name": "Rivers Of Babylon",
+        "duration": null
+      },
+      {
+        "name": "Stop That Train",
+        "duration": null
+      },
+      {
+        "name": "Pass The Dutchie",
+        "duration": null
+      },
+      {
+        "name": "Try Jah Love",
+        "duration": null
+      },
+      {
+        "name": "Israelites",
+        "duration": null
+      },
+      {
+        "name": "Legalise It",
+        "duration": null
+      },
+      {
+        "name": "Music Machine",
+        "duration": null
+      },
+      {
+        "name": "Cocaine In My Brain",
+        "duration": null
+      },
+      {
+        "name": "Lady",
+        "duration": null
+      },
+      {
+        "name": "Reflections Of My Life",
+        "duration": null
+      },
+      {
+        "name": "Sunshine In The Music",
+        "duration": null
+      },
+      {
+        "name": "More Than I Can Say",
+        "duration": null
+      },
+      {
+        "name": "Food For Thought",
+        "duration": null
+      },
+      {
+        "name": "African Children",
+        "duration": null
+      },
+      {
+        "name": "Matador",
+        "duration": null
+      }
+    ]
+  },
+  {
+    "id": 10147616,
+    "title": "Romantische Sfeermuziek",
+    "artist": "Velvet Sound Orchestra",
+    "year": 1980,
+    "cover": "https://i.discogs.com/zkWaLBQePUesy2svu4AgQN5L01wkNUkQtWmcJAvBfLo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTQ3/NjE2LTE0OTI0NDgz/MTMtMzE5My5qcGVn.jpeg",
+    "tracks": [
+      {
+        "name": "Cavatina (Theme From The Deer Hunter)",
+        "duration": null
+      },
+      {
+        "name": "Just For You",
+        "duration": null
+      },
+      {
+        "name": "Get On",
+        "duration": null
+      },
+      {
+        "name": "To Make My Life Beautiful",
+        "duration": null
+      },
+      {
+        "name": "La Vie",
+        "duration": null
+      },
+      {
+        "name": "Not For Sale",
+        "duration": null
+      },
+      {
+        "name": "The Shadow Of Your Smile",
+        "duration": null
+      },
+      {
+        "name": "Love Lost In A Day",
+        "duration": null
+      },
+      {
+        "name": "Une Infente",
+        "duration": null
+      },
+      {
+        "name": "Apocalypso",
+        "duration": null
+      },
+      {
+        "name": "The Hero's",
+        "duration": null
+      },
+      {
+        "name": "Smile",
+        "duration": null
+      }
+    ]
+  },
+  {
+    "id": 2214142,
+    "title": "Incomplete Works And Other Hits (You Always Never Knew You Would Like To Know Already About With)",
+    "artist": "Vitesse (2)",
+    "year": 1982,
+    "cover": "https://i.discogs.com/Xq9vfMTNF8aKXgkAfKqj9gqyo3VGXZ5ZlWwH8466NL0/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTQx/NDItMTYxMjAzODc4/Ni05NTE2LmpwZWc.jpeg",
+    "tracks": [
+      {
+        "name": "Good Lookin'",
+        "duration": "3:45"
+      },
+      {
+        "name": "Generator Of Love",
+        "duration": "4:18"
+      },
+      {
+        "name": "Runnin' The Streets",
+        "duration": "2:55"
+      },
+      {
+        "name": "Rosalyn",
+        "duration": "3:33"
+      },
+      {
+        "name": "First Train",
+        "duration": "4:32"
+      },
+      {
+        "name": "Sweet Dreams",
+        "duration": "2:53"
+      },
+      {
+        "name": "Whole Lot Of Travellin'",
+        "duration": "5:29"
+      },
+      {
+        "name": "Young Girls",
+        "duration": "3:57"
+      },
+      {
+        "name": "Can't Keep A Promise",
+        "duration": "3:33"
+      },
+      {
+        "name": "So Cool",
+        "duration": "4:31"
+      }
+    ]
+  },
+  {
     "id": 11789471,
     "title": "Mens",
     "artist": "Wende Snijders",
@@ -3171,5 +10173,368 @@
     "cover": "https://i.discogs.com/gkjVgvkMifcXh6FLXYB3k27Y3sl3fgkd08Clq3kJbXo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzg5/NDcxLTE1MjI0MTg4/NjUtNTYzMi5qcGVn.jpeg",
     "tracks": [],
     "spotify_link": "https://open.spotify.com/album/3JK2ytELVGFU8nEE67kild"
+  },
+  {
+    "id": 35862388,
+    "title": "Fantastic",
+    "artist": "Wham!",
+    "year": 0,
+    "cover": "https://i.discogs.com/SEmzLfYiSykkcnhMoEKJ93akC8ofQ67N3LvTOOLG4Tk/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1ODYy/Mzg4LTE3NjUwOTgx/NDEtOTQ4Ni5qcGVn.jpeg",
+    "tracks": [
+      {
+        "name": "Bad Boys",
+        "duration": null
+      },
+      {
+        "name": "A Ray Of Sunshine",
+        "duration": null
+      },
+      {
+        "name": "Love Machine",
+        "duration": null
+      },
+      {
+        "name": "Wham Rap! (Enjoy What You Do)",
+        "duration": null
+      },
+      {
+        "name": "Club Tropicana",
+        "duration": null
+      },
+      {
+        "name": "Nothing Looks The Same In The Light",
+        "duration": null
+      },
+      {
+        "name": "Come On!",
+        "duration": null
+      },
+      {
+        "name": "Young Guns (Go For It!)",
+        "duration": null
+      }
+    ]
+  },
+  {
+    "id": 906989,
+    "title": "Rock Alive !",
+    "artist": "Wild Wally",
+    "year": 0,
+    "cover": "https://i.discogs.com/2WCPn8LDtTHhGKCn87W-xOn4FCjIBdwtx79N1BcnQtk/rs:fit/g:sm/q:90/h:287/w:298/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNjk4/OS0xNDI0MDIxMTYy/LTIzMjguanBlZw.jpeg",
+    "tracks": [
+      {
+        "name": "Rock Around The Clock",
+        "duration": null
+      },
+      {
+        "name": "Twenty Flight Rock",
+        "duration": null
+      },
+      {
+        "name": "Weekend",
+        "duration": null
+      },
+      {
+        "name": "Shake Rattle And Roll",
+        "duration": null
+      },
+      {
+        "name": "Great Balls Of Fire",
+        "duration": null
+      },
+      {
+        "name": "I Go Ape",
+        "duration": null
+      },
+      {
+        "name": "Carolin",
+        "duration": null
+      },
+      {
+        "name": "She She Little Sheila",
+        "duration": null
+      },
+      {
+        "name": "Muskrat",
+        "duration": null
+      },
+      {
+        "name": "Summertime Blues",
+        "duration": null
+      },
+      {
+        "name": "When The Saints",
+        "duration": null
+      },
+      {
+        "name": "Blueberry Hill",
+        "duration": null
+      }
+    ]
+  },
+  {
+    "id": 2299354,
+    "title": "»Für Elise«",
+    "artist": "Wilhelm Kempff, Wolfgang Amadeus Mozart, Ludwig van Beethoven, Franz Schubert, Robert Schumann, Johannes Brahms",
+    "year": 0,
+    "cover": "https://i.discogs.com/t1evKfapq6vhmPpNalQ0v8mEROJWvwUoK-owSjdtJCw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTkz/NTQtMTU2Mzc4ODY0/Mi04NzAzLmpwZWc.jpeg",
+    "tracks": [
+      {
+        "name": "\"Pour Elise\" = Albumblad \"Für Elise\" In a Klein, WoO 59",
+        "duration": null
+      },
+      {
+        "name": "Fantaisie En Ré Mineur, K. 397 = Fantasie In d Klein, KV 397",
+        "duration": null
+      },
+      {
+        "name": "Rondo A Coppriccio, Sol Majeur/G Groot, Opus 129",
+        "duration": null
+      },
+      {
+        "name": "Moments Musicaux D. 780 (Opus 94)",
+        "duration": null
+      },
+      {
+        "name": "3 Intermezzi, Opus 117",
+        "duration": null
+      },
+      {
+        "name": "Papillons, Opus 2",
+        "duration": null
+      }
+    ]
+  },
+  {
+    "id": 1004218,
+    "title": "London Town",
+    "artist": "Wings (2)",
+    "year": 1978,
+    "cover": "https://i.discogs.com/eazEz0Sc1BU46W5Opuz7CdIdoKD4VUElTKzukBCp-r0/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDQy/MTgtMTI2MDU0Mjc0/NC5qcGVn.jpeg",
+    "tracks": [
+      {
+        "name": "London Town",
+        "duration": "4:10"
+      },
+      {
+        "name": "Cafe On The Left Bank",
+        "duration": "3:25"
+      },
+      {
+        "name": "I'm Carrying",
+        "duration": "2:44"
+      },
+      {
+        "name": "Backwards Traveller",
+        "duration": "1:07"
+      },
+      {
+        "name": "Cuff Link",
+        "duration": "2:03"
+      },
+      {
+        "name": "Children Children",
+        "duration": "2:20"
+      },
+      {
+        "name": "Girlfriend",
+        "duration": "4:31"
+      },
+      {
+        "name": "I've Had Enough",
+        "duration": "3:02"
+      },
+      {
+        "name": "With A Little Luck",
+        "duration": "5:45"
+      },
+      {
+        "name": "Famous Groupies",
+        "duration": "3:34"
+      },
+      {
+        "name": "Deliver Your Children",
+        "duration": "4:17"
+      },
+      {
+        "name": "Name And Address",
+        "duration": "3:07"
+      },
+      {
+        "name": "Don't Let It Bring You Down",
+        "duration": "4:34"
+      },
+      {
+        "name": "Morse Moose And The Grey Goose",
+        "duration": "6:27"
+      }
+    ]
+  },
+  {
+    "id": 5460190,
+    "title": "Eine Kleine Nachtmusik = Une Petite Musique De Nuit",
+    "artist": "Wolfgang Amadeus Mozart, Herbert von Karajan",
+    "year": 0,
+    "cover": "https://i.discogs.com/KRQI-63rG8Gi4SyOeaYJbQqiRIhQfMaVnZuIq7bYeZg/rs:fit/g:sm/q:90/h:336/w:339/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0NjAx/OTAtMTM5MzkyOTY5/NC05NzQxLmpwZWc.jpeg",
+    "tracks": [
+      {
+        "name": "Eine Kleine Nachtmusik, In G Groot, KV. 525",
+        "duration": null
+      },
+      {
+        "name": "Serenata Notturna, Ré Majeur / D Groot, KV. 239",
+        "duration": null
+      },
+      {
+        "name": "Divertimento No. 10, Fa Majeur, KV. 247",
+        "duration": null
+      }
+    ]
+  },
+  {
+    "id": 2332208,
+    "title": "Eine Kleine Nachtmusik / An Der Schönen, Blauen Donau - The Blue Danube / Bolero / \"1812\" Overture",
+    "artist": "Wolfgang Amadeus Mozart, Johann Strauss Jr., Maurice Ravel, Pyotr Ilyich Tchaikovsky",
+    "year": 1986,
+    "cover": "https://i.discogs.com/0LK3PZB-TkhTrl6ua5m8NUUmyU7mNmXhJLQEln2CXwE/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMzIy/MDgtMTQzMjU0NDk5/OC04MDM0LmpwZWc.jpeg",
+    "tracks": [
+      {
+        "name": "Eine Kleine Nachtmusik G-Dur KV 525",
+        "duration": null
+      },
+      {
+        "name": "An Der Schönen, Blauen Donau Walzer, Op. 314",
+        "duration": "9:47"
+      },
+      {
+        "name": "Bolero",
+        "duration": null
+      },
+      {
+        "name": "Ouverture Solennelle »1812« Op. 49",
+        "duration": null
+      }
+    ]
+  },
+  {
+    "id": 3209559,
+    "title": "Time Of The Zombies",
+    "artist": "The Zombies",
+    "year": 1973,
+    "cover": "https://i.discogs.com/pdJpPrMsIY_1SvfSv9rLMx8-CYS9IQIzt5ZB_RnJjVI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMDk1/NTktMTQ0NjYxOTU0/NC0zNDUyLmpwZWc.jpeg",
+    "tracks": [
+      {
+        "name": "She's Not There",
+        "duration": "2:23"
+      },
+      {
+        "name": "Tell Her No",
+        "duration": "2:04"
+      },
+      {
+        "name": "Whenever You're Ready",
+        "duration": "2:41"
+      },
+      {
+        "name": "Is This The Dream",
+        "duration": "2:43"
+      },
+      {
+        "name": "Summertime",
+        "duration": "2:16"
+      },
+      {
+        "name": "I Love You",
+        "duration": "3:21"
+      },
+      {
+        "name": "You Make Me Feel Good",
+        "duration": "2:39"
+      },
+      {
+        "name": "She's Coming Home",
+        "duration": "2:38"
+      },
+      {
+        "name": "She Loves The Way They Love Her",
+        "duration": "3:02"
+      },
+      {
+        "name": "Imagine The Swan",
+        "duration": "3:10"
+      },
+      {
+        "name": "Smokey Day",
+        "duration": "2:25"
+      },
+      {
+        "name": "If It Don't Work Out",
+        "duration": "2:27"
+      },
+      {
+        "name": "I Know She Will",
+        "duration": "2:35"
+      },
+      {
+        "name": "Don't Cry For Me",
+        "duration": "2:14"
+      },
+      {
+        "name": "Walking In The Sun",
+        "duration": "2:38"
+      },
+      {
+        "name": "Conversation Off Floral Street",
+        "duration": "2:39"
+      },
+      {
+        "name": "Care Of Cell 44",
+        "duration": "3:54"
+      },
+      {
+        "name": "A Rose For Emily",
+        "duration": "2:17"
+      },
+      {
+        "name": "Maybe After He's Gone",
+        "duration": "2:32"
+      },
+      {
+        "name": "Beechwood Park",
+        "duration": "2:43"
+      },
+      {
+        "name": "Brief Candles",
+        "duration": "3:30"
+      },
+      {
+        "name": "Hung Up On A Dream",
+        "duration": "3:01"
+      },
+      {
+        "name": "Changes",
+        "duration": "3:15"
+      },
+      {
+        "name": "I Want Her She Wants Me",
+        "duration": "2:48"
+      },
+      {
+        "name": "This Will Be Our Year",
+        "duration": "2:06"
+      },
+      {
+        "name": "Butchers Tale (Western Front 1914)",
+        "duration": "2:47"
+      },
+      {
+        "name": "Friends Of Mine",
+        "duration": "2:15"
+      },
+      {
+        "name": "Time Of The Season",
+        "duration": "3:30"
+      }
+    ]
   }
 ]
